@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"QML":
+  color: "#81BEF7"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"QAlgo":
+  color: "#0080FF"
 
-"Vision":
-  color: "#009f36"
+"QST":
+  color: "#9F81F7"

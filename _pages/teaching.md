@@ -1,12 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 5
+toc:
+  sidebar: left
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### Teaching Assistant (TA) @ Yonsei University
+- Fall 2022
+  - YCS1009: Change the World through Programming
+    - Basic Python programming and machine learning course
+    - Graded assignments and conducted Q&A sessions
+  - YCS1002: Software Programming
+    - Basic Python programming and object-oriented programming course
+    - Graded assignments and led practice sessions
+- Fall 2021
+  - EEE1108: Engineering Information Processing
+    - Basic C/C++ programming course
+    - Graded assignments and exams, and conducted practice and Q&A sessions
 
-Organize your courses by years, topics, or universities, however you like!
+##### Course Tutor @ Yonsei University
+- Spring 2022
+  - MAT2016: Engineering Mathematics III
+    - Core course covering linear algebra and ordinary differential equations
+    - Conducted practice and Q&A sessions
+    - Received Best Tutor Award
+- Fall 2021
+  - MAT1012: Engineering Mathematics II
+    - Core course covering multivariable and vector calculus
+    - Conducted practice and Q&A sessions
+    - Received Best Tutor Award
