@@ -12,7 +12,7 @@ toc:
 ##### Research Internship Mentor @ Korea Quantum Industry Center
 - Fall 2024
   - Quantum Machine Learning
-  - TBA
+  - Industry Internship Advisor
   
 ##### Teaching Assistant (TA) @ Yonsei University
 - Fall 2022
