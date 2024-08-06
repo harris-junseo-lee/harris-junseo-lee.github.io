@@ -29,7 +29,7 @@
   contents:
     - title: Theory of Quantum Computation and Quantum Information
       items:
-        - Fault-Tolerant Quantum Computation (e.g., quantum error correction, topological codes, anyon computation)
+        - Fault-Tolerant Quantum Computation (e.g., quantum error correction, topological codes, quantum LDPC codes)
         - Quantum Algorithms and Machine Learning (e.g., computational complexity, quantum neural networks)
         - Quantum Shannon Theory (e.g., quantum channel capacities, quantum entropy power inequalities)
         - Quantum Software (e.g., categorical semantics, quantum circuit optimization, QML applications)
@@ -37,14 +37,14 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Quantum Computing Researcher
+    - title: Quantum Computing Research Scientist
       institution: Quantum AI Team, Norma Inc., Seoul, South Korea
       year: 01/2023 - present
       description:
         - Alternative to the compulsory military service
-        - Conducted research on quantum software, focusing primarily on the industrial applications of QML (e.g., finance, drug discovery)
+        - Conducted research on quantum algorithms, quantum machine learning and quantum error correction
 
-    - title: Research Assistant
+    - title: Researcher
       institution: Research Institute of Mathematics, Seoul National University, South Korea
       year: 03/2020 - present
       description:

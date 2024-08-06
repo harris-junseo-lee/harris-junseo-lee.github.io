@@ -1,3 +1,14 @@
+@article{shin2024rank,
+  title={Rank Is All You Need: Estimating the Trace of Powers of Density Matrices},
+  author={Shin, Myeongjin and Lee, Junseo and Lee, Seungwoo and Jeong, Kabgyun},
+  journal={arXiv preprint arXiv:2408.00314},
+  year={2024},
+  primaryClass={quant-ph},
+  abbr = {QAlgo},
+  abstract={Estimating the trace of powers of identical $k$ density matrices (i.e., $\text{Tr}(\rho^k)$) is a crucial subroutine for many applications such as calculating nonlinear functions of quantum states, preparing quantum Gibbs states, and mitigating quantum errors. Reducing the requisite number of qubits and gates is essential to fit a quantum algorithm onto near-term quantum devices. Inspired by the Newton-Girard method, we developed an algorithm that uses only $\mathcal{O}(r)$ qubits and $\mathcal{O}(r)$ multi-qubit gates, where $r$ is the rank of $\rho$. We prove that the estimation of $\{\text{Tr}(\rho^i)\}_{i=1}^r$ is sufficient for estimating the trace of powers with large $k > r$. With these advantages, our algorithm brings the estimation of the trace of powers closer to the capabilities of near-term quantum processors. We show that our results can be generalized for estimating $\text{Tr}(M\rho^k)$, where $M$ is an arbitrary observable, and demonstrate the advantages of our algorithm in several applications.},
+  html={https://arxiv.org/abs/2408.00314},
+  preview={rank.png},
+}
 @article{shin2024estimating,
   title={Estimating quantum mutual information through a quantum neural network},
   author={Shin, Myeongjin and Lee, Junseo and Jeong, Kabgyun},
@@ -68,8 +79,8 @@
   preview={pqc.png},
 }
 @article{shin2024layerwise,
-      title={Layerwise Quantum Convolutional Neural Networks Provide a Unified Way for Estimating Fundamental Properties of Quantum Information Theory}, 
-      author={Myeongjin Shin and Seungwoo Lee and Mingyu Lee and Donghwa Ji and Hyeonjun Yeo and Junseo Lee and Kabgyun Jeong},
+      title={Disentanglement Provides a Unified Estimation for Quantum Entropies and Distance Measures}, 
+      author={Myeongjin Shin and Seungwoo Lee and Junseo Lee and Mingyu Lee and Donghwa Ji and Hyeonjun Yeo and Kabgyun Jeong},
       year={2024},
       eprint={2401.07716},
       journal={arXiv preprint 2401.07716},
@@ -102,5 +113,7 @@
   editor    = "Mohammad Hammoudeh and Abdullah T Essa and Amro M Sherbeeni and Clinton M Firth and Abdullah S Essa",
   abbr = {QAlgo},
   additional_info={. M. Hammoudeh, A. T. Essa, A. M. Sherbeeni, C. M. Firth, and A. S. Essa, Eds., CRC Press},
-  preview={shor.png}
+  preview={shor.png},
+  abstract={With the advancement of quantum technologies, there is a potential threat to traditional encryption systems based on integer factorization. Therefore, developing techniques for accurately measuring the performance of associated quantum algorithms is crucial, as it can provide insights into the practical feasibility from the current perspective. In this chapter, we aim to analyze the time required for integer factorization tasks using Shor's algorithm within a gate-based quantum circuit simulator of the matrix product state type. Additionally, we observe the impact of parameter pre-selection in Shor's algorithm. Specifically, this pre-selection is expected to increase the success rate of integer factorization by reducing the number of iterations and facilitating performance measurement under fixed conditions, thus enabling scalable performance evaluation even on real quantum hardware.},
+  html={https://www.routledge.com/Quantum-Computing-A-Journey-into-the-Next-Frontier-of-Information-and-Communication-Security/Hammoudeh-Essa-Sherbeeni-Firth-Essa/p/book/9781032757056},
 }

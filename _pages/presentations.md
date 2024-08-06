@@ -10,6 +10,7 @@ toc:
 ---
 
 ##### Invited Talks
+- QMA ≠ NP? The Remaining Journey in Quantum Complexity Theory: The NLTS Theorem and the Quantum PCP Conjecture, Center for Quantum Network’s Channel Capacity Winter Kick-off Workshop, Seoul National University, South Korea (2024).
 - Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance, [Triangle Quantum Computing Seminar Series](https://quantum.ncsu.edu/quantum-seminars/), North Carolina State University, USA (2023).
 - Estimating Quantum Mutual Information Through a Quantum Neural Network, [CS Katha Barta](https://www.niser.ac.in/~smishra/event/cskathabarta/archive/2024.html), National Institute of Science Education and Research, India (2023).
 - Generalized Private Quantum Channel and Randomizing Quantum States, KISTI-KU-SNU Joint Workshop, Korea University, South Korea (2023).
@@ -31,7 +32,7 @@ toc:
 ##### Poster Presentations
 - Quantum Neural Networks for Quantum Mutual Information Estimation, [The 23rd Asian Quantum Information Science Conference (AQIS 2023)](http://aqis-conf.org/2023/), Korea Institute For Advanced Study, South Korea (2023).
 - Optimizing Quantum Integer Factorization Performance, [The 23rd Asian Quantum Information Science Conference (AQIS 2023)](http://aqis-conf.org/2023/), Korea Institute For Advanced Study, South Korea (2023).
-- Quantum Rényi Entropy Functionals for Bosonic Gaussian Systems, [The 27th edition of the Central European Workshop on Quantum Optics (CEWQO)](https://cewqo20.fisica.unimi.it/), University of Milan, Italy (2023).
+- Quantum Rényi Entropy Functionals for Bosonic Gaussian Systems, [The 27th edition of the Central European Workshop on Quantum Optics (CEWQO 2023)](https://cewqo20.fisica.unimi.it/), University of Milan, Italy (2023).
 - Quantum Neural Network Approach to Measuring Von Neumann Entropy, [The 18th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2023)](https://squids.ch/tqc-2023/), University of Aveiro, Portugal (2023).
 - Quantum Renyi entropy functionals for bosonic Gaussian systems, [The 13th International Conference on Quantum Cryptography (QCrypt 2023)](https://2023.qcrypt.net/), The University of Maryland, USA (2023).
 - Quantum Rényi Entropy Functionals for Bosonic Gaussian Systems, [The 17th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2022)](https://tqc2022-conference.iquist.illinois.edu/), The University of Illinois at Urbana-Champaign, USA (2022).

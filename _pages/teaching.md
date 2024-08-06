@@ -9,6 +9,11 @@ toc:
   sidebar: left
 ---
 
+##### Research Internship Mentor @ Korea Quantum Industry Center
+- Fall 2024
+  - Quantum Machine Learning
+  - TBA
+  
 ##### Teaching Assistant (TA) @ Yonsei University
 - Fall 2022
   - YCS1009: Change the World through Programming
