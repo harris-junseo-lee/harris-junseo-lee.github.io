@@ -9,10 +9,9 @@ toc:
   sidebar: left
 ---
 
-##### Research Internship Mentor @ Korea Quantum Industry Center
+##### Research Internship Supervisor @ Korea Quantum Industry Center
 - Fall 2024
-  - Quantum Machine Learning
-  - Industry Internship Advisor
+  - Research Topic: Solving Financial Problems Using Quantum Machine Learning
   
 ##### Teaching Assistant (TA) @ Yonsei University
 - Fall 2022

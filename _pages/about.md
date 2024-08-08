@@ -17,9 +17,9 @@ social: false # includes social icons at the bottom of the page
 
 Hello! My name is Junseo Lee (also known as Harris).
 
-I am currently fulfilling my military alternative service as a Quantum Computing Researcher at Norma Inc. Additionally, I am working as a Research Assistant with [Team QST (Quantum Information Theory Group) at the Research Institute of Mathematics, Seoul National University](https://sites.google.com/view/team-qst/home).
+I am currently fulfilling my military alternative service as a Quantum Computing Researcher at Norma Inc. Additionally, I am working as a Research Assistant with [Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University](https://sites.google.com/view/team-qst/home).
 
-My main research areas are quantum information and quantum computation, with a primary focus on theoretical works. I enjoy exploring quantum Shannon theory, quantum machine learning, topological quantum computation, and, more recently, fault-tolerant quantum compiling. For more information about my research, please refer to the list of my [publications](/publications) and [presentations](/presentations).
+My main research areas are quantum information and quantum computation, with a primary focus on theoretical works. I enjoy exploring quantum Shannon theory, quantum learning theory, quantum complexity theory, and more recently, quantum error correction codes. For more information about my research, please refer to the list of my [publications](/publications) and [presentations](/presentations).
 
 I am preparing to pursue a Ph.D. starting in Fall 2026, coinciding with the end of my military service.
 
