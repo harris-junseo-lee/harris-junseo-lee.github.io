@@ -26,4 +26,4 @@ You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum) an
 
 Here is my [CV](/assets/pdf/CV_Harris_Junseo_Lee.pdf).
 
-**Note:** I am preparing to pursue a Ph.D. starting in Fall 2026, coinciding with the end of my military service
+**Note:** I am preparing to pursue a Ph.D. starting in Fall 2026, coinciding with the end of my military service.
