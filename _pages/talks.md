@@ -12,37 +12,39 @@ toc:
 ##### Invited and Contributed talks
 1. **“TBD”** *Invited talk* at Seoul National University QST Seminar, Dec. 6th, 2024.
 
-1. **“Efficient estimation of trace of powers of density matrices via rank-based methods”** *Contributed talk* at the Annual Meeting of Korean Mathematical Society, Oct. 25th, 2024.
+2. **“Rank is all you need to estimate the trace of the powers of density matrices”** *Invited talk* at IBM-Yonsei Qiskit Fall Fest 2024, Nov. 7th, 2024.
 
-1. **“Rank is all you need to estimate the trace of the powers of density matrices”** *Invited talk* at the 4th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop, Oct. 15th, 2024.
+3. **“Efficient estimation of trace of powers of density matrices via rank-based methods”** *Contributed talk* at the Annual Meeting of Korean Mathematical Society, Oct. 25th, 2024.
 
-1. **“Quantum machine learning models for drug library generation”** *Invited talk* at Yonsei University Quantum Computing and Monte Carlo Workshop, Aug. 30th, 2024.
+4. **“Rank is all you need to estimate the trace of the powers of density matrices”** *Invited talk* at the 4th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop, Oct. 15th, 2024.
 
-1. **“Topics in theoretical quantum computer sciences”** *Invited lecture* at Shinil High School, Aug. 28th, 2024.
+5. **“Quantum machine learning models for drug library generation”** *Invited talk* at Yonsei University Quantum Computing and Monte Carlo Workshop, Aug. 30th, 2024.
 
-1. **“QMA ≠ NP? The remaining journey in quantum complexity theory: The NLTS theorem and the quantum PCP conjecture”** *Invited talk* at Center for Quantum Network’s Channel Capacity Summer Workshop, Jul. 25th, 2024.
+6. **“Topics in theoretical quantum computer sciences”** *Invited lecture* at Shinil High School, Aug. 28th, 2024.
 
-1. **“Disentanglement provides a unified estimation for quantum entropies and distances”** *Contributed talk* at the Spring Meeting of the Korean Physical Society, Apr. 25th, 2024.
+7. **“QMA ≠ NP? The remaining journey in quantum complexity theory: The NLTS theorem and the quantum PCP conjecture”** *Invited talk* at Center for Quantum Network’s Channel Capacity Summer Workshop, Jul. 25th, 2024.
 
-1. **“Disentanglement provides a unified estimation for quantum entropies and distance measures”** *Contributed talk* at the Annual Meeting of the Quantum Information Society of Korea, Apr. 23rd, 2024.
+8. **“Disentanglement provides a unified estimation for quantum entropies and distances”** *Contributed talk* at the Spring Meeting of the Korean Physical Society, Apr. 25th, 2024.
 
-1. **“Mutual information maximizing quantum generative adversarial network and its applications in finance”** *Invited talk* at North Carolina State University Triangle Quantum Computing Seminar, Nov. 3rd, 2023.
+9. **“Disentanglement provides a unified estimation for quantum entropies and distance measures”** *Contributed talk* at the Annual Meeting of the Quantum Information Society of Korea, Apr. 23rd, 2024.
 
-1. **“Estimating quantum mutual information through a quantum neural network”** *Invited talk* at National Institute of Science Education and Research Bhubaneswar, Aug. 18th, 2023.
+10. **“Mutual information maximizing quantum generative adversarial network and its applications in finance”** *Invited talk* at North Carolina State University Triangle Quantum Computing Seminar, Nov. 3rd, 2023.
 
-1. **“Generalized private quantum channel and randomizing quantum states”** *Invited talk* at the 2nd Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop, Sep. 22nd, 2023.
+11. **“Estimating quantum mutual information through a quantum neural network”** *Invited talk* at National Institute of Science Education and Research Bhubaneswar, Aug. 18th, 2023.
 
-1. **“Minimal data may be sufficient for quantum artificial intelligence”** *Invited talk* at Seoul National University QST Seminar, Jun. 30th, 2023.
+12. **“Generalized private quantum channel and randomizing quantum states”** *Invited talk* at the 2nd Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop, Sep. 22nd, 2023.
 
-1. **“Isotropic measure and ε-randomizing maps on the high-dimensional quantum system”** *Contributed talk* at Center for Quantum Network’s Channel Capacity Winter Kick-off Workshop, Jan. 15th, 2023.
+13. **“Minimal data may be sufficient for quantum artificial intelligence”** *Invited talk* at Seoul National University QST Seminar, Jun. 30th, 2023.
 
-1. **“Geometric representation of quantum randomizing maps on high-dimensional quantum systems”** *Contributed talk* at the Winter Meeting of the Optical Society of Korea, Feb. 17th, 2022.
+14. **“Isotropic measure and ε-randomizing maps on the high-dimensional quantum system”** *Contributed talk* at Center for Quantum Network’s Channel Capacity Winter Kick-off Workshop, Jan. 15th, 2023.
 
-1. **“Structure of private quantum channels: to higher dimensional regular polytopes”** *Invited talk* at Seoul National University QST Seminar, Aug. 27th, 2021.
+15. **“Geometric representation of quantum randomizing maps on high-dimensional quantum systems”** *Contributed talk* at the Winter Meeting of the Optical Society of Korea, Feb. 17th, 2022.
 
-1. **“Quantum Rényi entropy power inequality for bosonic gaussian systems”** *Contributed talk* at the Annual Meeting of the Korean Society for Industrial and Applied Mathematics, Dec. 3rd, 2021.
+16. **“Structure of private quantum channels: to higher dimensional regular polytopes”** *Invited talk* at Seoul National University QST Seminar, Aug. 27th, 2021.
 
-1. **“Geometric approach to private quantum channels: High-dimensional cases and regular polytopes”** *Contributed talk* at the Fall Meeting of the Korean Physical Society, Oct. 21st, 2021.
+17. **“Quantum Rényi entropy power inequality for bosonic gaussian systems”** *Contributed talk* at the Annual Meeting of the Korean Society for Industrial and Applied Mathematics, Dec. 3rd, 2021.
+
+18. **“Geometric approach to private quantum channels: High-dimensional cases and regular polytopes”** *Contributed talk* at the Fall Meeting of the Korean Physical Society, Oct. 21st, 2021.
 
 ##### Posters
 1. **“Disentanglement provide a unified estimation for quantum entropies and distance measures”** 24th Asian Quantum Information Science Conference (AQIS 2024), Aug. 2024.
