@@ -22,8 +22,8 @@ I am currently fulfilling my national service as a **Theoretical Quantum Computi
 My current research areas include:
 - Quantum learning theory using information-theoretic tools (including concentration inequalities)
 - Computational complexity, quantum algorithms, and provable quantum computational advantages
-- Quantum error-correcting codes, primarily quantum LDPC codes, and their applications in theoretical computer science
 - Quantum Shannon theory, including determining bounds on quantum channel capacity and quantum entropy inequalities
+- Quantum error-correcting codes, primarily quantum LDPC codes, and their applications in theoretical computer science
 
 For research collaborations or any other inquiries, feel free to contact me at `harris.junseo@gmail.com`.
 
