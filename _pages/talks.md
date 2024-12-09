@@ -10,9 +10,9 @@ toc:
 ---
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Invited and Contributed Talks</span>**
-1. <span style="color:navy">“TBD”</span> *Invited talk* at Electronics and Telecommunications Research Institute, Dec. 18th, 2024.
+1. <span style="color:navy">“Rank-dependent estimator for q-Tsallis entropy”</span> *Invited talk* at Electronics and Telecommunications Research Institute, Dec. 18th, 2024.
 
-1. <span style="color:navy">“TBD”</span> *Invited talk* at Seoul National University QST Seminar, Dec. 13th, 2024.
+1. <span style="color:navy">“Rank-dependent complexity in estimating traces of quantum state powers”</span> *Invited talk* at Seoul National University QST Seminar, Dec. 13th, 2024.
 
 1. <span style="color:navy">“Rank is all you need to estimate the trace of the powers of density matrices”</span> *Invited talk* at IBM-Yonsei Qiskit Fall Fest 2024, Nov. 7th, 2024.
 
