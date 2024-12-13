@@ -17,9 +17,9 @@ social: false # includes social icons at the bottom of the page
 
 Hello! My name is Junseo Lee (also known as Harris).
 
-I am currently fulfilling my national service as a **Theoretical Quantum Computing Research Scientist**, as an alternative to military conscription.
+I hold a bachelor's degree in Electrical and Electronic Engineering from Yonsei University and am currently serving my national duty as a research scientist, fulfilling an alternative to military conscription.
 
-My current research areas include:
+I have a broad interest in the **theoretical aspects of quantum information and computation.** Recently, I am particularly interested in the following topics:
 - Quantum learning theory using information-theoretic tools (including concentration inequalities)
 - Computational complexity, quantum algorithms, and provable quantum computational advantages
 - Quantum Shannon theory, including determining bounds on quantum channel capacity and quantum entropy inequalities
