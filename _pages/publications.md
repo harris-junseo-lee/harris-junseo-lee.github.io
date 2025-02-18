@@ -10,7 +10,7 @@ toc:
 ---
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
-1. [Rank is all you need: Estimating the trace of powers of density matrices](https://arxiv.org/abs/2408.00314)<br>
+1. [Resource-efficient algorithm for estimating the trace of quantum state powers](https://arxiv.org/abs/2408.00314)<br>
 M. Shin<sup>†</sup>, **J. Lee<sup>†</sup> (co-first author)**, S. Lee, K. Jeong<br>
 arXiv:2408.00314 (2024). [<a href="/assets/pdf/rank_harris.pdf" target="_blank">Slide</a>]<br>
 

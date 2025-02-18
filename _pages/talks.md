@@ -10,6 +10,8 @@ toc:
 ---
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Invited and Contributed Talks</span>**
+1. <span style="color:navy">“TBD”</span> *Invited talk* at AWS Healthcare & Research Team, Mar. 27th, 2024.
+
 1. <span style="color:navy">“Rank-dependent estimator for q-Tsallis entropy”</span> *Invited talk* at Electronics and Telecommunications Research Institute, Dec. 18th, 2024.
 
 1. <span style="color:navy">“Rank-dependent complexity in estimating traces of quantum state powers”</span> *Invited talk* at Seoul National University QST Seminar, Dec. 13th, 2024.
@@ -49,6 +51,8 @@ toc:
 1. <span style="color:navy">“Geometric approach to private quantum channels: High-dimensional cases and regular polytopes”</span> *Contributed talk* at the Fall Meeting of the Korean Physical Society, Oct. 21st, 2021.
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Posters</span>**
+1. <span style="color:navy">“Rank is all you need: Estimating the trace of powers of density matrices”</span> 28th Annual Conference on Quantum Information Processing (QIP 2025), Feb. 2025.
+
 1. <span style="color:navy">“Disentanglement provide a unified estimation for quantum entropies and distance measures”</span> 24th Asian Quantum Information Science Conference (AQIS 2024), Aug. 2024.
 
 1. <span style="color:navy">“Disentangling to a reduction for estimating quantum information fundamental properties”</span> 2nd Annual Conference on Quantum Simulation (QSim 2024), Aug. 2024.
