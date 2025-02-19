@@ -9,11 +9,12 @@ toc:
   sidebar: left
 ---
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
+- Co-first authors with equal contributions are marked with a † symbol.
 - Selected publications are labeled by :books:.
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
 1. :books: [Resource-efficient algorithm for estimating the trace of quantum state powers](https://arxiv.org/abs/2408.00314)<br>
-Myeongjin Shin<sup>*</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
+Myeongjin Shin<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
 arXiv:2408.00314 (2024). [<a href="/assets/pdf/rank_harris.pdf" target="_blank">Slide</a>]<br>
 
 1. [Mutual information maximizing quantum generative adversarial network and its applications in finance](https://arxiv.org/abs/2309.01363)<br>
