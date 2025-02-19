@@ -11,21 +11,21 @@ toc:
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Research Internship Supervisor</span>**
 - SW4343: Software Field Placement 1, Fall 2024<br>
-<span style="font-family: Gill Sans, sans-serif;">Internship program at Korea Aerospace University and the Korea Quantum Industry Center</span><br>
+<span style="font-size: 15px;">Internship program at Korea Aerospace University and the Korea Quantum Industry Center</span><br>
   
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Teaching Assistant (TA) at Yonsei University</span>**
 - YCS1009: Change the World through Programming, Fall 2022<br>
-<span style="font-family: Gill Sans, sans-serif;">Introduction to Python and data analysis</span><br>
+<span style="font-size: 15px;">Introduction to Python and data analysis</span><br>
 
 - YCS1002: Software Programming, Fall 2022<br>
-<span style="font-family: Gill Sans, sans-serif;">Introduction to Python and data analysis</span><br>
+<span style="font-size: 15px;">Introduction to Python and data analysis</span><br>
 
 - EEE1108: Engineering Information Processing, Fall 2021<br>
-<span style="font-family: Gill Sans, sans-serif;">Introduction to C/C++ and algorithms</span><br>
+<span style="font-size: 15px;">Introduction to C/C++ and algorithms</span><br>
 
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Course Tutor at Yonsei University</span>**
 - MAT2016: Engineering Mathematics 3, Spring 2022<br>
-<span style="font-family: Gill Sans, sans-serif;">Differential equations and linear algebra</span><br>
+<span style="font-size: 15px;">Differential equations and linear algebra</span><br>
 
 - MAT1012: Engineering Mathematics 2, Fall 2021<br>
-<span style="font-family: Gill Sans, sans-serif;">Multivariable and vector calculus</span><br>
+<span style="font-size: 15px;">Multivariable and vector calculus</span><br>

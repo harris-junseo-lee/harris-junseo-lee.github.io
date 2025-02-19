@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello! I’m Junseo Lee, also known as Harris.  
 
-I earned my bachelor's degree in Electrical and Electronic Engineering from Yonsei University and am currently serving my national duty as a research scientist, fulfilling an alternative to military service.
+I earned my bachelor's degree in Electrical and Electronic Engineering from Yonsei University and am currently serving my national duty as a *theoretical quantum computing research scientist*, fulfilling an alternative to military service.
 I conduct research in the Quantum Information Theory Group (Team QST) at the Research Institute of Mathematics, Seoul National University.
 
 My research focuses on the **theoretical aspects of quantum information and computation.** Lately, I’ve been particularly interested in:  
@@ -26,6 +26,6 @@ My research focuses on the **theoretical aspects of quantum information and comp
 - Quantum Shannon theory, including bounds on quantum channel capacity and quantum entropy inequalities  
 - Quantum error correction, especially quantum LDPC codes and their applications in theoretical computer science
 
-For research collaborations or any other inquiries, feel free to contact me at `harris.junseo (at) gmail.com`.
+For research collaborations or any other inquiries, feel free to contact me at `harris.junseo(at)gmail.com`.
 
 You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum) and [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko).
