@@ -16,11 +16,11 @@ nav_order: 3
 ##### **<span style="color:#191970; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
 1. :books: **[Resource-efficient algorithm for estimating the trace of quantum state powers](https://arxiv.org/abs/2408.00314)<br>**
 Myeongjin Shin<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
-arXiv:2408.00314 (2024). [<a href="/assets/pdf/rank_harris.pdf" target="_blank">Slide</a>]<br>
+arXiv:2408.00314 (2024). [<a href="/assets/pdf/rank_harris.pdf" target="_blank">Slide</a>] <span style="color:#003153;">submitted to Quantum</span> <br>
 
 1. **[Mutual information maximizing quantum generative adversarial network and its applications in finance](https://arxiv.org/abs/2309.01363)<br>**
 Mingyu Lee, Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
-arXiv:2309.01363 (2023).
+arXiv:2309.01363 (2023). <span style="color:#003153;">submitted to Scientific Reports</span> <br>
 
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Journal Articles</span>**
