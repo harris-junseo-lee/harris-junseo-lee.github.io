@@ -40,6 +40,6 @@ In the past, I have also worked on the following topics. While I am not actively
 
 ---
 #### **Service**
-I serve as a reviewer for *IEEE Transactions on Information Theory*.
+I have served as a peer reviewer for *IEEE Transactions on Information Theory* and *Physical Review Letters*.
 
 In 2024, I was part of the selection committee for the *Quantum Internship Program* organized by the Korea Quantum Industry Center and the National Information Society Agency.
