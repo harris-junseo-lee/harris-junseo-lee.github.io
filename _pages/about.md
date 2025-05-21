@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 #### **About Me**
 Hello! I’m Junseo Lee, also known as Harris.
 
-I received my bachelor’s degree in Electrical and Electronic Engineering from Yonsei University, fully supported by the Hyundai Motor Foundation. I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. In addition, I have been continuously conducting research since my undergraduate years with the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University.
+I received my bachelor’s degree in Electrical and Electronic Engineering from Yonsei University, fully supported by the Hyundai Motor Foundation. I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. In addition, I have been continuously conducting research since my undergraduate years with the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University. For more details, you can find my CV [here](/assets/pdf/cv_harris_junseo.pdf).
 
 **Contact:** I love discussing new research ideas and beyond, so feel free to reach out to me at `harris.junseo(at)gmail.com` for collaborations, questions, or just to connect. I’m always happy to hear from you!
 
@@ -40,6 +40,6 @@ In the past, I have also worked on the following topics. While I am not actively
 
 ---
 #### **Service**
-I have served as a peer reviewer for *IEEE Transactions on Information Theory* and *Physical Review Letters*.
+I have served as a peer reviewer for *Physical Review Letters, IEEE Transactions on Information Theory*, and *Annalen der Physik*.
 
-In 2024, I was part of the selection committee for the *Quantum Internship Program* organized by the Korea Quantum Industry Center and the National Information Society Agency.
+In 2024 and 2025, I was a member of the selection committee for the Quantum Internship Program, organized by the Korea Quantum Industry Center and the National Information Society Agency.
