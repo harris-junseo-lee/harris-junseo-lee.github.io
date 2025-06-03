@@ -14,6 +14,10 @@ nav_order: 3
 
 ---
 ##### **<span style="color:#191970; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
+1. :books: **[New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes](https://arxiv.org/abs/2506.01432)<br>**
+Nhat Anh Ngheim<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span><br>
+arXiv:2506.01432 (2025). <br>
+
 1. :books: **[Resource-efficient algorithm for estimating the trace of quantum state powers](https://arxiv.org/abs/2408.00314)<br>**
 Myeongjin Shin<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
 arXiv:2408.00314 (2024). [<a href="/assets/pdf/rank_harris.pdf" target="_blank">Slide</a>] <span style="color:#003153;">submitted to Quantum</span> <br>
