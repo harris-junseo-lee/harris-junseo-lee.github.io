@@ -12,7 +12,10 @@ nav_order: 4
 
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">My Research Papers</span>**
-- **Resource-efficient algorithm for estimating the trace of quantum state powers**<br>
+- **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes**<br>
+**<span style="color:#003153;">Invited talk</span>** at the 5th Korea Institute of Science and Technology Information-Seoul National University Joint Workshop (Jun. 16th, 2025)<br>
+
+- **Resource-efficient algorithm for estimating the trace of quantum state powers** [<a href="/assets/pdf/rank_qst.pdf" target="_blank">Slide</a>], [<a href="/assets/pdf/rank_poster.pdf" target="_blank">Poster</a>]<br>
 **<span style="color:#003153;">Invited talk</span>** at Electronics and Telecommunications Research Institute (Dec. 18th, 2024)<br>
 **<span style="color:#003153;">Invited talk</span>** at Seoul National University QST Seminar (Dec. 13th, 2024)<br>
 **<span style="color:#003153;">Invited talk</span>** at IBM-Yonsei Qiskit Fall Fest 2024 (Nov. 7th, 2024)<br>
