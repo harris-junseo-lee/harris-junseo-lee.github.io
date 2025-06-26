@@ -14,6 +14,10 @@ nav_order: 3
 
 ---
 ##### **<span style="color:#191970; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
+1. :books: **[Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy](https://www.arxiv.org/abs/2506.19792)<br>**
+**<span style="color:navy">(alphabetical order)</span>** Kartik Anand, Kabgyun Jeong, **<span style="color:navy">Junseo Lee</span>**<br>
+arXiv:2506.19792 (2025). <br>
+
 1. :books: **[New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes](https://arxiv.org/abs/2506.01432)<br>**
 Nhat Anh Nghiem<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span><br>
 arXiv:2506.01432 (2025). <br>
