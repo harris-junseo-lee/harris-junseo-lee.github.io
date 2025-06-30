@@ -19,7 +19,7 @@ nav_order: 3
 arXiv:2506.19792 (2025). <br>
 
 1. :books: **[New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes](https://arxiv.org/abs/2506.01432)<br>**
-Nhat Anh Nghiem<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span><br>
+**<span style="color:navy">(alphabetical order)</span>** **<span style="color:navy">Junseo Lee</span>**, Nhat A. Nghiem<br>
 arXiv:2506.01432 (2025). <br>
 
 1. :books: **[Resource-efficient algorithm for estimating the trace of quantum state powers](https://arxiv.org/abs/2408.00314)<br>**
