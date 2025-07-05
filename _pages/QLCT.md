@@ -29,13 +29,13 @@ This course is an introductory-level overview of quantum learning theory and qua
         - A [lecture](https://youtu.be/oHKVNqXzNBc?si=dMhmrr0L8x4Mereo) by Srinivasan Arunachalam at the IAS/Park City Mathematics Institute (PCMI)
 
 - **Lecture 2 (Jul 19):** Haar measures and classical shadows (1)
-    - Instructor: Myeonjin Shin
+    - Instructor: Myeongjin Shin
     - Lecture notes: TBA.
     - Resources:
         - Antonio Anna Mele. [Introduction to Haar Measure Tools in Quantum Information: A Beginner’s Tutorial](https://quantum-journal.org/papers/q-2024-05-08-1340/#).
 
 - **Lecture 3 (Jul 26):** Haar measures and classical shadows (2)
-    - Instructor: Myeonjin Shin
+    - Instructor: Myeongjin Shin
     - Lecture notes: TBA.
     - Resources:
         - Antonio Anna Mele. [Introduction to Haar Measure Tools in Quantum Information: A Beginner’s Tutorial](https://quantum-journal.org/papers/q-2024-05-08-1340/#).
@@ -60,7 +60,7 @@ This course is an introductory-level overview of quantum learning theory and qua
         - Ryan O'Donnell and John Wright. [Efficient quantum tomography](https://dl.acm.org/doi/abs/10.1145/2897518.2897544).
 
 - **Lecture 6 (Aug 16):** Quantum property neural estimation
-    - Instructor: Myeonjin Shin
+    - Instructor: Myeongjin Shin
     - Lecture notes: TBA.
     - Resources:
         - Myeongjin Shin, Junseo Lee and Kabgyun Jeong. [Estimating quantum mutual information through a quantum neural network](https://link.springer.com/article/10.1007/s11128-023-04253-1).
@@ -68,7 +68,7 @@ This course is an introductory-level overview of quantum learning theory and qua
         - Ziv Goldfeld, Dhrumil Patel, Sreejith Sreekumar and Mark M. Wilde. [Quantum neural estimation of entropies](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032431).
 
 - **Lecture 7 (Aug 23):** Learning quantum circuits and unitaries
-    - Instructor: Myeonjin Shin
+    - Instructor: Myeongjin Shin
     - Lecture notes: TBA.
     - Resources:
         - Haimeng Zhao, Laura Lewis, Ishaan Kannan, Yihui Quek, Hsin-Yuan Huang, and Matthias C. Caro. [Learning Quantum States and Unitaries of Bounded Gate Complexity](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306).
