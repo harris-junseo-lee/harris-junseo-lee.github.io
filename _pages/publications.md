@@ -34,11 +34,11 @@ Mingyu Lee, Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabg
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Journal Articles</span>**
 1. :books: **Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br>**
 Myeongjin Shin<sup>†</sup>, Seungwoo Lee<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
-[Physical Review A](https://doi.org/10.1103/PhysRevA.110.062418), 062418 (2024).
+[Physical Review A](https://doi.org/10.1103/PhysRevA.110.062418) (2024).
 
 1. :books: **Estimating quantum mutual information through a quantum neural network<br>**
 Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
-[Quantum Information Processing](https://link.springer.com/article/10.1007/s11128-023-04253-1), 57 (2024).
+[Quantum Information Processing](https://link.springer.com/article/10.1007/s11128-023-04253-1) (2024).
 
 1. :books: **Quantum Rényi entropy functionals for bosonic gaussian systems<br>**
 **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
