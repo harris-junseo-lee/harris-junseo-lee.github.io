@@ -2,15 +2,13 @@
 layout: page
 permalink: /talks/
 title: Talks
-description:
+description: The presentation list is categorized into my research paper presentations, tutorial lectures, and others.
 nav: true
 nav_order: 4
 # toc:
 #   sidebar: left
 ---
-- The presentation list is categorized into my research paper presentations, tutorial lectures, and others.
 
----
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">My Research Papers</span>**
 - **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes**<br>
 **<span style="color:#003153;">Invited talk</span>** at the 5th Korea Institute of Science and Technology Information-Seoul National University Joint Workshop (Jun. 16th, 2025)<br>

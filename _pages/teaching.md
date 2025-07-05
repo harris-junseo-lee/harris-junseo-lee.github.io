@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Instructor</span>**
+- **Quantum learning and complexity theory** (Summer 2025) [<a href="/qlct" target="_blank">Link</a>]<br>
+<span style="font-size: 15px;">QISCA (Quantum Information Student Community Association) Summer School Program</span><br>
+
+---
+
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Research Internship Supervisor</span>**
 - **SW4343: Software Field Placement 1** (Fall 2024)<br>
 <span style="font-size: 15px;">Internship program at Korea Aerospace University and the Korea Quantum Industry Center</span><br>
