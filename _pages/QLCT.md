@@ -21,6 +21,8 @@ This course is an introductory-level overview of quantum learning theory and qua
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
 
 #### **Lectures**
+All lectures except Lecture 2 are held on Saturdays at 3 PM. Please note that only Lecture 2 takes place on Sunday.
+
 - **Lecture 1 (Jul 12):** Overview of quantum learning theory
     - Instructor: Junseo Lee
     - Lecture notes: TBA.
@@ -28,7 +30,7 @@ This course is an introductory-level overview of quantum learning theory and qua
         - Srinivasan Arunachalam and Ronald de Wolf. [Guest Column: A Survey of Quantum Learning Theory](https://doi.org/10.1145/3106700.3106710).
         - A [lecture](https://youtu.be/oHKVNqXzNBc?si=dMhmrr0L8x4Mereo) by Srinivasan Arunachalam at the IAS/Park City Mathematics Institute (PCMI)
 
-- **Lecture 2 (Jul 19):** Haar measures and classical shadows (1)
+- **Lecture 2 (Jul 20):** Haar measures and classical shadows (1)
     - Instructor: Myeongjin Shin
     - Lecture notes: TBA.
     - Resources:
