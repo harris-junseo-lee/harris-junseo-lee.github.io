@@ -40,9 +40,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
   </thead>
   <tbody>
     <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;">Jul 12</td>
-      <td style="border: 1px solid #ccc;">Overview of quantum learning theory</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 12</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of quantum learning theory</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://doi.org/10.1145/3106700.3106710">Arunachalam & de Wolf: Guest Column: A Survey of Quantum Learning Theory</a></li>
@@ -50,9 +50,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">Jul 20</td>
-      <td style="border: 1px solid #ccc;">Haar measures and classical shadows (1)</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (1)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">Mele: Introduction to Haar Measure Tools in Quantum Information</a></li>
@@ -60,10 +60,10 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;">Jul 26</td>
-      <td style="border: 1px solid #ccc;">Haar measures and classical shadows (2)</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 26</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (2)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">Mele: Introduction to Haar Measure Tools in Quantum Information</a></li>
@@ -73,9 +73,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">Aug 02</td>
-      <td style="border: 1px solid #ccc;">Quantum property neural estimation</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property neural estimation</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">Shin et al.: Estimating quantum mutual information through a quantum neural network</a></li>
@@ -84,10 +84,10 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;">Aug 09</td>
-      <td style="border: 1px solid #ccc;">Complexity of learning quantum states (1)</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states (1)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://www.nature.com/articles/s42254-023-00662-4">Anshu & Arunachalam: A survey on the complexity of learning quantum states
@@ -99,9 +99,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">Aug 16</td>
-      <td style="border: 1px solid #ccc;">Complexity of learning quantum states (2)</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states (2)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://www.nature.com/articles/s42254-023-00662-4">Anshu & Arunachalam: A survey on the complexity of learning quantum states
@@ -112,10 +112,10 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;">Aug 23</td>
-      <td style="border: 1px solid #ccc;">Learning quantum circuits and unitaries</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning quantum circuits and unitaries</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306">Zhao et al.: Learning Quantum States and Unitaries of Bounded Gate Complexity</a></li>
@@ -124,9 +124,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">Aug 30</td>
-      <td style="border: 1px solid #ccc;">Open problems and discussion session</td>
-      <td style="border: 1px solid #ccc;">TBA</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems and discussion session</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://jerryzli.github.io/focs24-workshop.html">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
