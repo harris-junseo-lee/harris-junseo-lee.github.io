@@ -86,7 +86,7 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states (1)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
@@ -100,15 +100,17 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states (2)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum complexity and homology problems</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li><a href="https://www.nature.com/articles/s42254-023-00662-4">Anshu & Arunachalam: A survey on the complexity of learning quantum states
+          <li><a href="https://www.nature.com/articles/ncomms10138">Lloyd et al.: Quantum algorithms for topological and geometric analysis of data
 </a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/3188745.3188802">Aaronson: Shadow tomography of quantum states</a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897585">Haah et al.: Sample-optimal tomography of quantum states</a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897544">O'Donnell & Wright: Efficient quantum tomography</a></li>
+          <li><a href="https://www.nature.com/articles/s41467-024-54118-z">Crichigno & Kohler: Clique Homology is QMA1-hard</a></li>
+          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040349">Schmidhuber & Lloyd: Complexity-Theoretic Limitations on Quantum Algorithms for Topological Data Analysis</a></li>
+          <li><a href="https://arxiv.org/abs/2506.01432">Lee & Nghiem: New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes</a></li>
+          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319">Berry at el.: Analyzing Prospects for Quantum Advantage in Topological Data Analysis</a></li>
+          <li><a href="https://quantum-journal.org/papers/q-2022-11-10-855/">Gyurik et al.: Towards quantum advantage via topological data analysis</a></li>
         </ul>
       </td>
     </tr>
