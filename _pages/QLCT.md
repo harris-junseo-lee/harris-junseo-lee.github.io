@@ -23,7 +23,7 @@ This course is an introductory-level overview of quantum learning theory and qua
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
 
 #### **Announcements**
-- TBA.
+- (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
 
 #### **Lectures**
 
