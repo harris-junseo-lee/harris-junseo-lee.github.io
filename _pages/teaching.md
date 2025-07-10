@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+- **AAA559: Internship 2** (College of Informatics)<br> 
+**<span style="color:#003153;">Instructor.</span>** Fall 2025, Korea University<br>
+
+- **AAA558: Internship 1** (College of Informatics)<br>
+**<span style="color:#003153;">Instructor.</span>** Fall 2025, Korea University<br>
+
 - **Quantum Learning and Complexity Theory**  [<a href="/qlct" target="_blank">Course Website</a>]<br>
 **<span style="color:#003153;">Instructor.</span>** Summmer 2025, QISCA<br>
 

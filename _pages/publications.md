@@ -14,19 +14,23 @@ nav_order: 3
 
 ---
 ##### **<span style="color:#191970; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
-10. :books: **Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br>**
+1. **Bounding quantum uncommon information with quantum neural estimators<br>**
+Donghwa Ji, **<span style="color:navy">Junseo Lee</span>**, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
+[arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
+
+1. :books: **Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br>**
 **<span style="color:navy">(alphabetical order)</span>** Kartik Anand, Kabgyun Jeong, **<span style="color:navy">Junseo Lee</span>**<br>
 [arXiv:2506.19792](https://www.arxiv.org/abs/2506.19792) (2025). <br>
 
-9. :books: **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes<br>**
+1. :books: **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes<br>**
 **<span style="color:navy">(alphabetical order)</span>** **<span style="color:navy">Junseo Lee</span>**, Nhat A. Nghiem<br>
 [arXiv:2506.01432](https://arxiv.org/abs/2506.01432) (2025). <br>
 
-8. :books: **Resource-efficient algorithm for estimating the trace of quantum state powers<br>**
+1. :books: **Resource-efficient algorithm for estimating the trace of quantum state powers<br>**
 Myeongjin Shin<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
 [arXiv:2408.00314](https://arxiv.org/abs/2408.00314) (2024). <br>
 
-7. **Mutual information maximizing quantum generative adversarial network and its applications in finance<br>**
+1. **Mutual information maximizing quantum generative adversarial network and its applications in finance<br>**
 Mingyu Lee, Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
 [arXiv:2309.01363](https://arxiv.org/abs/2309.01363) (2023). <br>
 
