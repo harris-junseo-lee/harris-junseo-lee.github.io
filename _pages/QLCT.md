@@ -21,8 +21,10 @@ This course is an introductory-level overview of quantum learning theory and qua
 #### **Course Policies**
 - Recordings of lectures will not be available.
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
+- Submission of the problem set is not mandatory. However, solutions will not be provided, and they will not be discussed during class. Students who submit their solutions will receive individual feedback.
 
 #### **Announcements**
+- (Jul 14) Problem Set 1 has been posted.
 - (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
 
 #### **Lectures**
@@ -42,68 +44,75 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 12</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of quantum learning theory</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec1.pdf">Lec 1</a>, <a href="/assets/pdf/QLCT/QLCT_Pset1.pdf">Pset 1</a> </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li><a href="https://doi.org/10.1145/3106700.3106710">Arunachalam & de Wolf: Guest Column: A Survey of Quantum Learning Theory</a></li>
+          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897585">[HHJWY'16] Sample-optimal tomography of quantum states</a></li>
+          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897544">[OW'16] Efficient quantum tomography</a></li>
+          <li><a href="https://doi.org/10.1145/3106700.3106710">[AdW'17] A Survey of Quantum Learning Theory</a></li>
+          <li><a href="https://dl.acm.org/doi/abs/10.1145/3188745.3188802">[Aar'18] Shadow tomography of quantum states</a></li>
+          <li><a href="https://www.nature.com/articles/s41567-020-0932-7">[HKP'20] Predicting many properties of a quantum system from very few measurements</a></li>
+          <li><a href="https://dl.acm.org/doi/10.1145/3406325.3451109">[BO'21] Improved Quantum data analysis</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/205500a574/1BtftZspUxa">[CCHL’21] Exponential Separations Between Learning With and Without Quantum Memory</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2023/189400a391/1T96YaMKga4">[CHLLS’22] When Does Adaptivity Help for Quantum State Learning?</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/551900b205/1JtvVrKAv9S">[CHLL’22] Tight Bounds for Quantum State Certification with Incoherent Measurements</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (1)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">Mele: Introduction to Haar Measure Tools in Quantum Information</a></li>
-          <li><a href="https://pennylane.ai/qml/demos/tutorial_haar_measure">PennyLane Demos: Understanding the Haar measure</a></li>
+          <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 26</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (2)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">Mele: Introduction to Haar Measure Tools in Quantum Information</a></li>
           <li><a href="https://www.nature.com/articles/s41567-020-0932-7">Huang et al.: Predicting many properties of a quantum system from very few measurements</a></li>
           <li><a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows">PennyLane Demos: Classical shadows</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property neural estimation</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">Shin et al.: Estimating quantum mutual information through a quantum neural network</a></li>
           <li><a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.062418">Shin et al.: Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</a></li>
           <li><a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032431">Goldfeld et al.: Quantum Neural Estimation of Entropies</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://www.nature.com/articles/s42254-023-00662-4">Anshu & Arunachalam: A survey on the complexity of learning quantum states
 </a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/3188745.3188802">Aaronson: Shadow tomography of quantum states</a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897585">Haah et al.: Sample-optimal tomography of quantum states</a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897544">O'Donnell & Wright: Efficient quantum tomography</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum complexity and homology problems</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://www.nature.com/articles/ncomms10138">Lloyd et al.: Quantum algorithms for topological and geometric analysis of data
 </a></li>
           <li><a href="https://www.nature.com/articles/s41467-024-54118-z">Crichigno & Kohler: Clique Homology is QMA1-hard</a></li>
@@ -111,28 +120,28 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
           <li><a href="https://arxiv.org/abs/2506.01432">Lee & Nghiem: New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes</a></li>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319">Berry at el.: Analyzing Prospects for Quantum Advantage in Topological Data Analysis</a></li>
           <li><a href="https://quantum-journal.org/papers/q-2022-11-10-855/">Gyurik et al.: Towards quantum advantage via topological data analysis</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning quantum circuits and unitaries</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306">Zhao et al.: Learning Quantum States and Unitaries of Bounded Gate Complexity</a></li>
           <li><a href="https://dl.acm.org/doi/10.1145/3618260.3649722">Huang et al.: Learning Shallow Quantum Circuits</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems and discussion session</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <ul>
+        <!-- <ul>
           <li><a href="https://jerryzli.github.io/focs24-workshop.html">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
-        </ul>
+        </ul> -->
       </td>
     </tr>
   </tbody>
