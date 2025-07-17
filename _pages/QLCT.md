@@ -56,22 +56,24 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
           <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/205500a574/1BtftZspUxa">[CCHL’21] Exponential Separations Between Learning With and Without Quantum Memory</a></li>
           <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2023/189400a391/1T96YaMKga4">[CHLLS’22] When Does Adaptivity Help for Quantum State Learning?</a></li>
           <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/551900b205/1JtvVrKAv9S">[CHLL’22] Tight Bounds for Quantum State Certification with Incoherent Measurements</a></li>
+          <li> Some parts of these lecture notes were inspired by Jerry Li’s presentation slides, which can be found <a href="https://youtu.be/GzyyC56p-as?si=GVEWJZkdrBJLXasy">here</a>. </li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (1)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and unitary designs</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 2</a>, <a href="/assets/pdf/QLCT/QLCT_Pset2.pdf">Pset 2</a> </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
+          <li><a href="https://pennylane.ai/qml/demos/tutorial_unitary_designs">PennyLane Demos: Unitary designs</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 26</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and classical shadows (2)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Classical shadows</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
         <!-- <ul>
