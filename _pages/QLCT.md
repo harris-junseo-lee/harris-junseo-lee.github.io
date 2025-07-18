@@ -24,12 +24,13 @@ This course is an introductory-level overview of quantum learning theory and qua
 - Submission of the problem set is not mandatory. However, solutions will not be provided, and they will not be discussed during class. Students who submit their solutions will receive individual feedback.
 
 #### **Announcements**
+- (Jul 17) Problem Set 2 has been posted.
 - (Jul 14) Problem Set 1 has been posted.
 - (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
 
 #### **Lectures**
 
-All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday.
+<!-- All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday. -->
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
   <thead style="background-color: #2e86c1; color: white;">
@@ -42,7 +43,7 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
   </thead>
   <tbody>
     <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 12</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 12 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of quantum learning theory</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec1.pdf">Lec 1</a>, <a href="/assets/pdf/QLCT/QLCT_Pset1.pdf">Pset 1</a> </span></td>
       <td style="border: 1px solid #ccc;">
@@ -61,7 +62,7 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20 (Sun)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and unitary designs</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 2</a>, <a href="/assets/pdf/QLCT/QLCT_Pset2.pdf">Pset 2</a> </span></td>
       <td style="border: 1px solid #ccc;">
@@ -72,7 +73,32 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 26</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 25 (Fri)</span></td>
+      <!-- <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum state certification (Special Guest Lectuer by Chirag Wadhwa)</span></td> -->
+      <td style="border: 1px solid #ccc; padding: 8px;">
+        <span style="color:#000000;">
+          Quantum state certification<br>
+          <small>* Special Guest Lecture by 
+            <a href="https://chirag-w.github.io/">
+              Chirag Wadhwa
+            </a>
+          </small>
+        </span>
+      </td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;">
+        <ul>
+          <li><a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_51">[CHW'07] Weak Fourier-Schur sampling, the hidden subgroup problem, and the quantum collision problem</a></li>
+          <li><a href="https://dl.acm.org/doi/10.1145/2746539.2746582">[OW'15] Quantum Spectrum Testing</a></li>
+          <li><a href="https://dl.acm.org/doi/10.1145/3313276.3316344">[BOW'19] Quantum state certification</a></li>
+          <li><a href="https://proceedings.mlr.press/v178/chen22b.html">[CLO'22] Toward Instance-Optimal State Certification With Incoherent Measurements</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/551900b205/1JtvVrKAv9S">[CLHL'22] Tight Bounds for Quantum State Certification with Incoherent Measurements</a></li>
+          <li><a href="https://arxiv.org/abs/2507.06010">[OW'25] Instance-Optimal Quantum State Certification with Entangled Measurements</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Classical shadows</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
@@ -83,9 +109,9 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul> -->
       </td>
     </tr>
-    <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property neural estimation</span></td>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09 (Sat)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property estimation</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
         <!-- <ul>
@@ -95,8 +121,8 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul> -->
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09</span></td>
+    <tr>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
@@ -109,11 +135,11 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
         </ul> -->
       </td>
     </tr>
-    <tr>
+    <!-- <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum complexity and homology problems</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
-      <td style="border: 1px solid #ccc;">
+      <td style="border: 1px solid #ccc;"> -->
         <!-- <ul>
           <li><a href="https://www.nature.com/articles/ncomms10138">Lloyd et al.: Quantum algorithms for topological and geometric analysis of data
 </a></li>
@@ -123,10 +149,10 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319">Berry at el.: Analyzing Prospects for Quantum Advantage in Topological Data Analysis</a></li>
           <li><a href="https://quantum-journal.org/papers/q-2022-11-10-855/">Gyurik et al.: Towards quantum advantage via topological data analysis</a></li>
         </ul> -->
-      </td>
-    </tr>
+      <!-- </td>
+    </tr> -->
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning quantum circuits and unitaries</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
@@ -137,7 +163,7 @@ All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</s
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems and discussion session</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
