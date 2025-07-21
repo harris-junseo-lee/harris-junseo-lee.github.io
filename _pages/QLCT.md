@@ -68,6 +68,9 @@ This course is an introductory-level overview of quantum learning theory and qua
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
+          <li><a href="https://arxiv.org/pdf/2507.06216">[CSBH'25] Unitary designs in nearly optimal depth</a></li>
+          <li><a href="https://www.science.org/doi/10.1126/science.adv8590">[SHH'25] Random unitaries in extremely low depth</a></li>
+          <li><a href="https://dl.acm.org/doi/pdf/10.1145/3717823.3718254">[MH'25] How to Construct Random Unitaries</a></li>
           <li><a href="https://pennylane.ai/qml/demos/tutorial_unitary_designs">PennyLane Demos: Unitary designs</a></li>
         </ul>
       </td>
