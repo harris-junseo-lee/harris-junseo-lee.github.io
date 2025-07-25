@@ -19,9 +19,9 @@ This course is an introductory-level overview of quantum learning theory and qua
 - [Myeongjin Shin](https://scholar.google.com/citations?user=9mRACrMAAAAJ&hl=en) (KAIST and SNU-Team QST, `hanwoolmj(at)kaist.ac.kr`)
 
 #### **Course Policies**
-- Recordings of lectures will not be available.
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
 - Submission of the problem set is not mandatory. However, solutions will not be provided, and they will not be discussed during class. Students who submit their solutions will receive individual feedback.
+<!-- - Recordings of lectures will not be available. -->
 
 #### **Announcements**
 - (Jul 25) The materials for the Week 3 (Special Lecture), including the recorded video, have been updated. The video will remain freely accessible until further notice.
@@ -89,7 +89,7 @@ This course is an introductory-level overview of quantum learning theory and qua
           </small>
         </span>
       </td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 3</a>, <a href="https://drive.google.com/file/d/1gEwIOjYtUgDb3sgVmdE_-scmigWDss7r/view?usp=sharing">Video</a> </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec3.pdf">Lec 3</a>, <a href="https://drive.google.com/file/d/1gEwIOjYtUgDb3sgVmdE_-scmigWDss7r/view?usp=sharing">Video</a> </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_51">[CHW'07] Weak Fourier-Schur sampling, the hidden subgroup problem, and the quantum collision problem</a></li>
