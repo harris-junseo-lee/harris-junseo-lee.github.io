@@ -24,6 +24,7 @@ This course is an introductory-level overview of quantum learning theory and qua
 - Submission of the problem set is not mandatory. However, solutions will not be provided, and they will not be discussed during class. Students who submit their solutions will receive individual feedback.
 
 #### **Announcements**
+- (Jul 25) The materials for the Week 3 (Special Lecture), including the recorded video, have been updated. The video will remain freely accessible until further notice.
 - (Jul 17) Problem Set 2 has been posted.
 - (Jul 14) Problem Set 1 has been posted.
 - (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
@@ -88,7 +89,7 @@ This course is an introductory-level overview of quantum learning theory and qua
           </small>
         </span>
       </td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 3</a>, <a href="https://drive.google.com/file/d/1gEwIOjYtUgDb3sgVmdE_-scmigWDss7r/view?usp=sharing">Video</a> </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_51">[CHW'07] Weak Fourier-Schur sampling, the hidden subgroup problem, and the quantum collision problem</a></li>
