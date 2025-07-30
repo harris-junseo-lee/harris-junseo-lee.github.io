@@ -40,7 +40,7 @@ In the past, I have also worked on the following topics. While I am not actively
 
 ---
 #### **Service**
-- **Journal reviewer** for Physical Review Letters, Physical Review A, IEEE Transactions on Information Theory, and Annalen der Physik
+- **Journal reviewer** for Physical Review Letters, Physical Review A, Physical Review Applied, IEEE Transactions on Information Theory, and Annalen der Physik
 - **Conference reviewer** for QTML 2025
 - **Selection committee member** for the Quantum Internship Program (2024, 2025), hosted by the Korea Quantum Industry Center and the National Information Society Agency
 

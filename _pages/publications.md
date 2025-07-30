@@ -9,7 +9,8 @@ nav_order: 3
 #   sidebar: left
 ---
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
-- Co-first authors with equal contributions are marked with a † symbol.
+- Co-first authors with equal contributions are marked with an star (✶). 
+- Alphabetic ordering in theoretical computer science is indicated by (α−β).
 - Selected publications are labeled by :books:.
 
 ---
@@ -19,15 +20,15 @@ Donghwa Ji, **<span style="color:navy">Junseo Lee</span>**, Myeongjin Shin, IlKw
 [arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
 
 1. :books: **Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br>**
-**<span style="color:navy">(alphabetical order)</span>** Kartik Anand, Kabgyun Jeong, **<span style="color:navy">Junseo Lee</span>**<br>
+Kartik Anand, Kabgyun Jeong, **<span style="color:navy">Junseo Lee<sup>(α−β)</sup></span>**<br>
 [arXiv:2506.19792](https://www.arxiv.org/abs/2506.19792) (2025). <br>
 
 1. :books: **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes<br>**
-**<span style="color:navy">(alphabetical order)</span>** **<span style="color:navy">Junseo Lee</span>**, Nhat A. Nghiem<br>
+**<span style="color:navy">Junseo Lee<sup>(α−β)</sup></span>**, Nhat A. Nghiem<br>
 [arXiv:2506.01432](https://arxiv.org/abs/2506.01432) (2025). <br>
 
 1. :books: **Resource-efficient algorithm for estimating the trace of quantum state powers<br>**
-Myeongjin Shin<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Seungwoo Lee, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✶</sup>, **<span style="color:navy">Junseo Lee<sup>✶</sup></span>**, Seungwoo Lee, Kabgyun Jeong<br>
 [arXiv:2408.00314](https://arxiv.org/abs/2408.00314) (2024). <br>
 
 1. **Mutual information maximizing quantum generative adversarial network and its applications in finance<br>**
@@ -37,7 +38,7 @@ Mingyu Lee, Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabg
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Journal Articles</span>**
 1. :books: **Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br>**
-Myeongjin Shin<sup>†</sup>, Seungwoo Lee<sup>†</sup>, **<span style="color:navy">Junseo Lee<sup>†</sup></span>** <span style="color:navy">(co-first author)</span>, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, **<span style="color:navy">Junseo Lee<sup>✶</sup></span>**, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
 [Physical Review A](https://doi.org/10.1103/PhysRevA.110.062418) (2024).
 
 1. :books: **Estimating quantum mutual information through a quantum neural network<br>**
@@ -54,11 +55,13 @@ Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br
 
 1. **High-dimensional private quantum channels and regular polytopes<br>**
 **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
-[Communications in Physics](https://vjs.ac.vn/index.php/cip/article/view/15762) (2021).
+[Communications in Physics](https://vjs.ac.vn/index.php/cip/article/view/15762) (2021).<br>
+Third Prize, Undergraduate Research Project Exhibition, Korean Physical Society (2021).
 
 1. **Single qubit private quantum channels and 3-dimensional regular polyhedra<br>**
 Kabgyun Jeong, **<span style="color:navy">Junseo Lee</span>**, Jintae Choi, Seokmin Hong, Myunggu Jung, Gyeongbeom Kim, Jaekwon Kim, Suntaek Kim<br>
-[New Physics: Sae Mulli](https://doi.org/10.3938/NPSM.68.232) (2018).
+[New Physics: Sae Mulli](https://doi.org/10.3938/NPSM.68.232) (2018).<br>
+Bronze Award, The Humantech Paper Award, Samsung Electronics (2018).
 
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Book Chapters</span>**
