@@ -103,19 +103,22 @@ This course is an introductory-level overview of quantum learning theory and qua
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Classical shadows</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property testing</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="/assets/pdf/QLCT/QLCT_Lec4.pdf">Lec 4</a></td>
       <td style="border: 1px solid #ccc;">
-        <!-- <ul>
-          <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">Mele: Introduction to Haar Measure Tools in Quantum Information</a></li>
-          <li><a href="https://www.nature.com/articles/s41567-020-0932-7">Huang et al.: Predicting many properties of a quantum system from very few measurements</a></li>
-          <li><a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows">PennyLane Demos: Classical shadows</a></li>
-        </ul> -->
+        <ul>
+          <li><a href="https://arxiv.org/pdf/quant-ph/0005055">[BHMT'00] Quantum Amplitude Amplification and Estimation</a></li>
+          <li><a href="https://arxiv.org/pdf/1310.2035">[MW'18] A Survey of Quantum Property Testing</a></li>
+          <li><a href="https://arxiv.org/pdf/1902.00814">[GL'19] Distributional property testing in a quantum world</a></li>
+          <li><a href="https://arxiv.org/pdf/1806.01838">[GSLW'18] Quantum singular value transformation and beyond: exponential improvements for quantum matrix arithmetics</a></li>
+          <li><a href="https://www.nature.com/articles/s41534-021-00379-1">[GGZW'21] Iterative quantum amplitude estimation</a></li>
+          <li><a href="https://arxiv.org/pdf/2301.06783">[WZ'23] Fast Quantum Algorithms for Trace Distance Estimation</a></li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property estimation</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Classical shadows</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
         <!-- <ul>
