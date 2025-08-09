@@ -15,6 +15,10 @@ nav_order: 3
 
 ---
 ##### **<span style="color:#191970; font-family: Gill Sans, sans-serif;">Preprints & Submitted</span>**
+1. **Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis<br>**
+Nhat A. Nghiem, **<span style="color:navy">Junseo Lee</span>**, Tzu-Chieh Wei<br>
+[arXiv:2508.01516](https://arxiv.org/abs/2508.01516) (2025). <br>
+
 1. **Bounding quantum uncommon information with quantum neural estimators<br>**
 Donghwa Ji, **<span style="color:navy">Junseo Lee</span>**, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
 [arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
@@ -27,16 +31,17 @@ Kartik Anand, Kabgyun Jeong, **<span style="color:navy">Junseo Lee<sup>(α−β)
 **<span style="color:navy">Junseo Lee<sup>(α−β)</sup></span>**, Nhat A. Nghiem<br>
 [arXiv:2506.01432](https://arxiv.org/abs/2506.01432) (2025). <br>
 
-1. :books: **Resource-efficient algorithm for estimating the trace of quantum state powers<br>**
-Myeongjin Shin<sup>✶</sup>, **<span style="color:navy">Junseo Lee<sup>✶</sup></span>**, Seungwoo Lee, Kabgyun Jeong<br>
-[arXiv:2408.00314](https://arxiv.org/abs/2408.00314) (2024). <br>
-
 1. **Mutual information maximizing quantum generative adversarial network and its applications in finance<br>**
 Mingyu Lee, Myeongjin Shin, **<span style="color:navy">Junseo Lee</span>**, Kabgyun Jeong<br>
 [arXiv:2309.01363](https://arxiv.org/abs/2309.01363) (2023). <br>
 
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Journal Articles</span>**
+1. :books: **Resource-efficient algorithm for estimating the trace of quantum state powers<br>**
+Myeongjin Shin<sup>✶</sup>, **<span style="color:navy">Junseo Lee<sup>✶</sup></span>**, Seungwoo Lee, Kabgyun Jeong<br>
+Accepted in Quantum (2025). <br>
+[arXiv:2408.00314](https://arxiv.org/abs/2408.00314)
+
 1. :books: **Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br>**
 Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, **<span style="color:navy">Junseo Lee<sup>✶</sup></span>**, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
 [Physical Review A](https://doi.org/10.1103/PhysRevA.110.062418) (2024).
