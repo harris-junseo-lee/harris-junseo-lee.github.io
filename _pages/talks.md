@@ -49,7 +49,7 @@ nav_order: 4
 ---
 ##### **<span style="color:navy; font-family: Gill Sans, sans-serif;">Lectures & Tutorials</span>**
 - **Introduction to quantum machine learning**<br>
-**<span style="color:#003153;">Invited lecture</span>** at AWS Healthcare & Research Team (Mar. 27th, 2024)<br>
+**<span style="color:#003153;">Invited lecture</span>** at AWS Healthcare & Research Team (Mar. 27th, 2025)<br>
 
 - **Topics in theoretical quantum computer sciences**<br>
 **<span style="color:#003153;">Invited lecture</span>** at Shinil High School (Aug. 28th, 2024)<brs>

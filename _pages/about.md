@@ -28,19 +28,10 @@ You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum) an
 #### **Research Interests**
 My main research interest lies in the theory of quantum computation. More broadly, I am also interested in theoretical computer science and quantum information.
 
-Recently, my primary research focus has been on the following topics:
-- **Quantum learning theory**: Sample, computational, and time complexity of learning quantum states, unitaries, channels, and processes under various constraints
-- **Quantum complexity theory**: Topics such as the quantum PCP conjecture, quantum proof systems, and separations between QMA and NP
-- **Quantum property estimation and testing**: Algorithms and complexity for estimating properties of quantum systems, including quantum entropy and distance measures
+Recently, my primary research focuses on the following topics:
 
-In the past, I have also worked on the following topics. While I am not actively pursuing them at the moment, I continue to find them fascinating:
-- Quantum channel capacity and the quantum entropy power inequality
-- Quantum continuous variable systems (bosonic Gaussian systems)
-- Quantum machine learning and its applications
+- **Quantum Learning Theory**: Analysis of efficient algorithms and derivation of lower bounds for learning or testing tasks on quantum systems, including quantum states, unitaries, and channels.
+- **Quantum Complexity Theory**: Study of the capabilities and limitations of quantum computers, quantum proof systems, and separations between classical and quantum complexity classes.
+- **Quantum Algorithms**: Design of efficient quantum algorithms for algebraic, combinatorial, and computational geometry problems, including applications in topological data analysis.
 
----
-#### **Service**
-- **Journal reviewer** for Physical Review Letters, Physical Review A, Physical Review Applied, IEEE Transactions on Information Theory, and Annalen der Physik
-- **Conference reviewer** for QTML 2025
-- **Selection committee member** for the Quantum Internship Program (2024, 2025), hosted by the Korea Quantum Industry Center and the National Information Society Agency
-
+I have also worked on other topics in the past, including quantum channel capacity and the quantum entropy power inequality, quantum continuous variable systems (bosonic Gaussian systems), and quantum machine learning and its applications.
