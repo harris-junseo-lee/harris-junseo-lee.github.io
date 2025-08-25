@@ -29,6 +29,11 @@ This course is an introductory-level overview of quantum learning theory and qua
 - (Jul 14) Problem Set 1 has been posted.
 - (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
 
+#### **Acknowledgement**
+- We thank [Chirag Wadhwa](https://chirag-w.github.io/) for delivering an excellent special lecture on quantum state certification in Lecture 3.
+- We thank [Antonio Anna Mele](https://antonioannamele.com/) for his work on Haar measure theory, which helped us structure the material for Lecture 5.
+
+
 #### **Lectures**
 
 <!-- All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday. -->
@@ -118,65 +123,38 @@ This course is an introductory-level overview of quantum learning theory and qua
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Classical shadows</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Applications of the Haar Measure</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="/assets/pdf/QLCT/QLCT_Lec5.pdf">Lec 5</a></td>
       <td style="border: 1px solid #ccc;">
-        <!-- <ul>
-          <li><a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">Shin et al.: Estimating quantum mutual information through a quantum neural network</a></li>
-          <li><a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.062418">Shin et al.: Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</a></li>
-          <li><a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032431">Goldfeld et al.: Quantum Neural Estimation of Entropies</a></li>
-        </ul> -->
+        <ul>
+          <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity of learning quantum states</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
-      <td style="border: 1px solid #ccc;">
-        <!-- <ul>
-          <li><a href="https://www.nature.com/articles/s42254-023-00662-4">Anshu & Arunachalam: A survey on the complexity of learning quantum states
-</a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/3188745.3188802">Aaronson: Shadow tomography of quantum states</a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897585">Haah et al.: Sample-optimal tomography of quantum states</a></li>
-          <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897544">O'Donnell & Wright: Efficient quantum tomography</a></li>
-        </ul> -->
-      </td>
-    </tr>
-    <!-- <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 16</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum complexity and homology problems</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
-      <td style="border: 1px solid #ccc;"> -->
-        <!-- <ul>
-          <li><a href="https://www.nature.com/articles/ncomms10138">Lloyd et al.: Quantum algorithms for topological and geometric analysis of data
-</a></li>
-          <li><a href="https://www.nature.com/articles/s41467-024-54118-z">Crichigno & Kohler: Clique Homology is QMA1-hard</a></li>
-          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040349">Schmidhuber & Lloyd: Complexity-Theoretic Limitations on Quantum Algorithms for Topological Data Analysis</a></li>
-          <li><a href="https://arxiv.org/abs/2506.01432">Lee & Nghiem: New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes</a></li>
-          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319">Berry at el.: Analyzing Prospects for Quantum Advantage in Topological Data Analysis</a></li>
-          <li><a href="https://quantum-journal.org/papers/q-2022-11-10-855/">Gyurik et al.: Towards quantum advantage via topological data analysis</a></li>
-        </ul> -->
-      <!-- </td>
-    </tr> -->
-    <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning quantum circuits and unitaries</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems in quantum learning</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="https://jerryzli.github.io/focs2024-slides/open_questions.pdf">FOCS 2024 Workshop</a></td>
       <td style="border: 1px solid #ccc;">
-        <!-- <ul>
-          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306">Zhao et al.: Learning Quantum States and Unitaries of Bounded Gate Complexity</a></li>
-          <li><a href="https://dl.acm.org/doi/10.1145/3618260.3649722">Huang et al.: Learning Shallow Quantum Circuits</a></li>
-        </ul> -->
+        <ul>
+          <li><a href="https://arxiv.org/abs/2404.19105">[CGY'24] Optimal tradeoffs for estimating Pauli observables</a></li>
+          <li><a href="https://arxiv.org/abs/2405.00082">[BLMT'24] Structure learning of Hamiltonians from real-time evolution</a></li>
+          <li><a href="https://arxiv.org/abs/2507.23787">[TW'25] Amplitude amplification and estimation require inverses</a></li>
+          <li><a href="https://arxiv.org/abs/2508.00055">[TW'25] Are controlled unitaries helpful?</a></li>
+        </ul>
       </td>
     </tr>
-    <tr>
+    </tr>
+    <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems and discussion session</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Several advanced topics and recent results</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
       <td style="border: 1px solid #ccc;">
-        <!-- <ul>
-          <li><a href="https://jerryzli.github.io/focs24-workshop.html">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
-        </ul> -->
+        <ul>
+          <li><a href="https://arxiv.org/abs/2405.01431">[MMBEGLLO'24] Learning quantum states of continuous variable systems</a></li>
+          <li><a href="https://arxiv.org/abs/2505.22743">[CGHQ'25] Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood</a></li>
+          <li><a href="https://arxiv.org/abs/2408.06967">[CGYZ'25] Stabilizer Bootstrapping: A Recipe for Agnostic Tomography and Magic Estimation</a></li>
+        </ul>
       </td>
     </tr>
   </tbody>
