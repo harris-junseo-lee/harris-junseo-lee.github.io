@@ -144,7 +144,6 @@ This course is an introductory-level overview of quantum learning theory and qua
         </ul>
       </td>
     </tr>
-    </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30 (Sat)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Several advanced topics and recent results</span></td>
