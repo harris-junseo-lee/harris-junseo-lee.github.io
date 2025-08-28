@@ -8,33 +8,55 @@ nav_order: 0
 # toc:
 #   sidebar: left
 ---
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap" rel="stylesheet">
+        <style>
+            body {
+                font-family: "Piazzolla", serif;
+                font-optical-sizing: auto;
+                font-weight: 300;
+                font-size: 1rem;
+            }
+            strong, b {
+            font-weight: 700;
+            }
+            h1 { font-weight: 500; }
+            h2 { font-weight: 500; }
+            h3 { font-weight: 500; }
+            h4, h5, h6 { font-weight: 500; }
+        </style>
+    </head>
+</html>
 
-#### **Course Details**
+#### Course Details
 This course is an introductory-level overview of quantum learning theory and quantum complexity theory. It covers fundamental tools for analyzing the sample complexity of basic quantum learning tasks, including techniques involving the Haar measure. The course also explores core algorithms for learning quantum states, unitaries, processes, and circuits. In addition, it introduces important quantum complexity classes and provides the theoretical computer science background needed to understand foundational papers in quantum computation. The course will also touch on recent research trends in the field. The exact topics covered may be adjusted based on the interests of the participants.
 
 **Prerequisites:** This course assumes that participants are already familiar with linear algebra, probability theory, and the basics of quantum information theory. Students are expected to be comfortable with the density matrix formalism, POVMs, Pauli matrices, the Bloch sphere representation, basic quantum channels (such as depolarizing and dephasing channels), and the properties of unitary and Hermitian matrices, including their spectral decompositions. Familiarity with tensor product notation, partial trace, and entanglement measures such as the von Neumann entropy and mutual information is also assumed. These topics will not be reviewed during the course, so students without this background may find it difficult to follow the material.
 
-#### **Instructor**
+#### Instructor
 - [Junseo Lee](https://harris-junseo-lee.github.io/) (SNU-Team QST, `harris.junseo(at)gmail.com`)
 - [Myeongjin Shin](https://scholar.google.com/citations?user=9mRACrMAAAAJ&hl=en) (KAIST and SNU-Team QST, `hanwoolmj(at)kaist.ac.kr`)
 
-#### **Course Policies**
+#### Course Policies
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
 - Submission of the problem set is not mandatory. However, solutions will not be provided, and they will not be discussed during class. Students who submit their solutions will receive individual feedback.
 <!-- - Recordings of lectures will not be available. -->
 
-#### **Announcements**
+#### Announcements
 - (Jul 25) The materials for the Week 3 (Special Lecture), including the recorded video, have been updated. The video will remain freely accessible until further notice.
 - (Jul 17) Problem Set 2 has been posted.
 - (Jul 14) Problem Set 1 has been posted.
 - (Jul 7) All students who wish to enroll in this course are required to complete the following survey before the first lecture: [Survey Link](https://forms.gle/3qEH93qKtV1oZw6E6)
 
-#### **Acknowledgement**
+#### Acknowledgement
 - We thank [Chirag Wadhwa](https://chirag-w.github.io/) for delivering an excellent special lecture on quantum state certification in Lecture 3.
 - We thank [Antonio Anna Mele](https://antonioannamele.com/) for his work on Haar measure theory, which helped us structure the material for Lecture 5.
 
 
-#### **Lectures**
+#### Lectures
 
 <!-- All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday. -->
 

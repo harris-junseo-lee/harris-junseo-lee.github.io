@@ -6,8 +6,30 @@ description:
 nav: true
 nav_order: 6
 ---
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap" rel="stylesheet">
+        <style>
+            body {
+                font-family: "Piazzolla", serif;
+                font-optical-sizing: auto;
+                font-weight: 300;
+                font-size: 1rem;
+            }
+            strong, b {
+            font-weight: 700;
+            }
+            h1 { font-weight: 500; }
+            h2 { font-weight: 500; }
+            h3 { font-weight: 500; }
+            h4, h5, h6 { font-weight: 500; }
+        </style>
+    </head>
+</html>
 
-#### **Reviewing**
+#### Reviewing
 I am currently serving, and have served, as a reviewer for journals and conferences including:
 - Physical Review Letters
 - Physical Review A
@@ -18,7 +40,8 @@ I am currently serving, and have served, as a reviewer for journals and conferen
 
 ---
 
-#### **Community Service**
+#### Community Service
+I have been actively engaged in community service, taking on organizational and committee roles such as:
 - **Selection Committee**, [Quantum Internship Program](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99835&bcIdx=27953&parentSeq=27953), National Information Society Agency (2024–2025)  
 - **Co-organizer, Problem Writer, and Judge**, [Quantum AI Hackathon](https://aifactory.space/task/9154/overview) (2025)  
 - **Co-organizer**, [SNU Quantum Information Theory Seminar (QST Seminar)](https://sites.google.com/view/team-qst/qst-seminar) (2024–2025)  
