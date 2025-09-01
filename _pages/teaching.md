@@ -48,10 +48,10 @@ nav_order: 5
 **<span style="color:navy;">Teaching Assistant.</span>** Fall 2022, Yonsei University<br>
 
 - **MAT2016: Engineering Mathematics 3 (Differential Equations and Linear Algebra)** (Undergraduate)<br>
-**<span style="color:navy;">Course Tutor.</span>** Spring 2022, Yonsei University <span style="color:navy; font-family: Gill Sans, sans-serif;"> *Best Tutor Award</span><br>
+**<span style="color:navy;">Course Tutor.</span>** Spring 2022, Yonsei University <span style="color:navy;"> *Best Tutor Award</span><br>
 
 - **EEE1108: Engineering Information Processing** (Undergraduate)<br>
 **<span style="color:navy;">Teaching Assistant.</span>** Fall 2021, Yonsei University<br>
 
 - **MAT1012: Engineering Mathematics 2 (Multivariable and Vector Calculus)** (Undergraduate)<br>
-**<span style="color:navy;">Course Tutor.</span>** Fall 2021, Yonsei University <span style="color:navy; font-family: Gill Sans, sans-serif;"> *Best Tutor Award</span><br>
+**<span style="color:navy;">Course Tutor.</span>** Fall 2021, Yonsei University <span style="color:navy;"> *Best Tutor Award</span><br>
