@@ -57,10 +57,9 @@ Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee<sup>(α−β
 
 ---
 ##### Journal Articles
-1. <b>Mutual information maximizing quantum generative adversarial network and its applications in finance<br></b>
+1. <b>Mutual information maximizing quantum generative adversarial networks<br></b>
 Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Kabgyun Jeong<sup>†</sup><br>
-[arXiv:2309.01363](https://arxiv.org/abs/2309.01363) (2023). <br>
-Accepted in Scientific Reports
+Accepted in Scientific Reports (2025). [[arXiv]](https://arxiv.org/abs/2309.01363) <br>
 
 1. :books: <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
