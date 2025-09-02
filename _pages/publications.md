@@ -11,6 +11,7 @@ nav_order: 3
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
 - Co-first authors with equal contributions are marked with an star (✶). 
 - Alphabetic ordering in theoretical computer science is indicated by (α−β).
+- Corresponding authors are marked with a dagger (†).
 - Selected publications are labeled by :books:.
 
 ---
@@ -54,12 +55,13 @@ Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee<sup>(α−β
 <b><span style="color:navy">Junseo Lee<sup>(α−β)</sup></span></b>, Nhat A. Nghiem<br>
 [arXiv:2506.01432](https://arxiv.org/abs/2506.01432) (2025). <br>
 
-1. <b>Mutual information maximizing quantum generative adversarial network and its applications in finance<br></b>
-Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
-[arXiv:2309.01363](https://arxiv.org/abs/2309.01363) (2023). <br>
-
 ---
 ##### Journal Articles
+1. <b>Mutual information maximizing quantum generative adversarial network and its applications in finance<br></b>
+Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Kabgyun Jeong<sup>†</sup><br>
+[arXiv:2309.01363](https://arxiv.org/abs/2309.01363) (2023). <br>
+Accepted in Scientific Reports
+
 1. :books: <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
 [<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025).
