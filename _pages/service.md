@@ -10,21 +10,21 @@ nav_order: 6
     <head>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <style>
             body {
-                font-family: "Piazzolla", serif;
+                font-family: "Bitter", serif;
                 font-optical-sizing: auto;
-                font-weight: 300;
+                font-weight: 350;
                 font-size: 1rem;
             }
             strong, b {
-            font-weight: 700;
+            font-weight: 600;
             }
-            h1 { font-weight: 500; }
-            h2 { font-weight: 500; }
-            h3 { font-weight: 500; }
-            h4, h5, h6 { font-weight: 500; }
+            h1 { font-weight: 450; }
+            h2 { font-weight: 450; }
+            h3 { font-weight: 450; }
+            h4, h5, h6 { font-weight: 450; }
         </style>
     </head>
 </html>

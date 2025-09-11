@@ -19,21 +19,21 @@ nav_order: 3
     <head>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <style>
             body {
-                font-family: "Piazzolla", serif;
+                font-family: "Bitter", serif;
                 font-optical-sizing: auto;
-                font-weight: 300;
+                font-weight: 350;
                 font-size: 1rem;
             }
             strong, b {
-            font-weight: 700;
+            font-weight: 600;
             }
-            h1 { font-weight: 500; }
-            h2 { font-weight: 500; }
-            h3 { font-weight: 500; }
-            h4, h5, h6 { font-weight: 500; }
+            h1 { font-weight: 450; }
+            h2 { font-weight: 450; }
+            h3 { font-weight: 450; }
+            h4, h5, h6 { font-weight: 450; }
         </style>
     </head>
 </html>
@@ -63,7 +63,8 @@ Accepted in Scientific Reports (2025). [[arXiv]](https://arxiv.org/abs/2309.0136
 
 1. :books: <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
-[<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025).
+[<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>
+Featured as Monthly News (August 2025) in [<i>Property Testing Review</i>](https://ptreview.sublinear.info/2025/09/news-for-august-2025/).
 
 1. :books: <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br></b>
 Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
