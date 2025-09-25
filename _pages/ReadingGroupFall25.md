@@ -43,6 +43,8 @@ This reading group is dedicated to exploring both foundational and recent resear
 - The reading group will be conducted primarily via Zoom. In-person sessions may be organized when necessary.
 - All participants are required to attend every session, regardless of whether it is their presentation day. To ensure active discussion, cameras must remain on during class.
 - Each student is expected to give at least one paper review presentation during the course.
+- Presentation slides must be submitted to the instructor no later than the day before the presentation. Students who are not presenting are expected to read the paper in advance and prepare questions.
+
 
 #### Announcements
 - (Sep 25) The paper list has been released. Students will select their presentation topics on a first-come, first-served basis.
@@ -88,7 +90,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">3</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity Theory, Unitary Designs, and Randomness</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">InHee Yun </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Seonggeun Park</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/1912.04297">[BCHKP'19] Models of quantum complexity growth</a></li>
@@ -98,7 +100,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">4</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Understanding BQP</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Jaehun Han</td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2111.10409">[AIK'24] The Acrobatics of BQP</a></li>
@@ -169,7 +171,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">11</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Complexity and Cryptography</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>InHee Yun</td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2310.08870">[LMW'23] A one-query lower bound for unitary synthesis and breaking quantum cryptography</a></li>
