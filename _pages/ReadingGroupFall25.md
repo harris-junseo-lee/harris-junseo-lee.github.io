@@ -32,7 +32,7 @@ nav_order: 0
 </html>
 
 #### Course Details
-This reading group is dedicated to exploring both foundational and recent research in quantum complexity theory. Over the course of 10 weeks, we will study key papers and results covering topics such as quantum computational complexity, Hamiltonian complexity, and quantum circuit complexity. The sessions will combine short theoretical lectures with student-led presentations and discussions of selected papers.
+This reading group is dedicated to exploring both foundational and recent research in quantum complexity theory. Over the course of 11 weeks, we will study key papers and results covering topics such as quantum computational complexity, Hamiltonian complexity, and quantum circuit complexity. The sessions will combine short theoretical lectures with student-led presentations and discussions of selected papers.
 
 **Prerequisites:** Participants are expected to have a solid background in theoretical computer science and quantum information. Familiarity with computational complexity theory (e.g., P, NP, BQP, QMA) and basic quantum computing concepts (quantum states, unitaries, and measurements) will be assumed. Prior exposure to quantum algorithms or quantum complexity theory is helpful but not strictly required; motivated students with strong mathematical preparation are welcome.
 
@@ -78,7 +78,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">2</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity Theory for NISQ Devices</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Sung-Bin Lee </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2210.07234">[CCHL'22] The Complexity of NISQ</a></li>
@@ -118,7 +118,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">6</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Interactive Proof Systems (I)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Hyuntaek Shin</td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/1904.05870">[NW'19] NEEXP ⊆ MIP*</a></li>
@@ -163,6 +163,16 @@ This reading group is dedicated to exploring both foundational and recent resear
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2309.16475">[ABN'24] Circuit-to-Hamiltonian from tensor networks and fault tolerance</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">11</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Complexity and Cryptography</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;">
+        <ul>
+          <li><a href="https://arxiv.org/abs/2310.08870">[LMW'23] A one-query lower bound for unitary synthesis and breaking quantum cryptography</a></li>
         </ul>
       </td>
     </tr>
