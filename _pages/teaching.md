@@ -29,6 +29,9 @@ nav_order: 5
     </head>
 </html>
 
+- **Reading Group: Quantum Complexity Theory** (Undergraduate, Graduate)<br>
+**<span style="color:navy;">Instructor.</span>** Fall 2025, QISCA **[<a href="/quantum-complexity-reading-group-fall25" target="_blank">Course Website</a>]**<br>
+
 - **AAA559: College of Informatics Internship 2** (Graduate)<br> 
 **<span style="color:navy;">Instructor.</span>** Fall 2025, Korea University<br>
 
