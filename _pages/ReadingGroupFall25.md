@@ -100,7 +100,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">4</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Understanding BQP</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Jaehun Han</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jaehun Han</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2111.10409">[AIK'24] The Acrobatics of BQP</a></li>
@@ -110,7 +110,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">5</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum State Property Testing and Complexity</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">JungMo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2410.13559">[LW'25] On estimating the trace of quantum state powers</a></li>
@@ -120,7 +120,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">6</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Interactive Proof Systems (I)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Hyuntaek Shin</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyuntaek Shin</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/1904.05870">[NW'19] NEEXP ⊆ MIP*</a></li>
@@ -130,7 +130,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">7</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Interactive Proof Systems (II)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Hyungmin Lim</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyungmin Lim</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2001.04383">[JNVWY'22] MIP* = RE</a></li>
@@ -140,7 +140,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">8</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">NLTS Hamiltonians</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>TBD</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2206.13228">[ABN'22] NLTS Hamiltonians from good quantum codes</a></li>
@@ -151,7 +151,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">9</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum PCPs</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Gyuhyun Kim</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gyuhyun Kim</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2403.04841">[BHW'25] Quantum PCPs: on Adaptivity, Multiple Provers and Reductions to Local Hamiltonians</a></li>
@@ -161,7 +161,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">10</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Complexity and Fault Tolerance</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>Jeongbin Jo</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jeongbin Jo</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2309.16475">[ABN'24] Circuit-to-Hamiltonian from tensor networks and fault tolerance</a></li>
@@ -171,7 +171,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">11</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Complexity and Cryptography</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span>InHee Yun</td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">InHee Yun</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2310.08870">[LMW'23] A one-query lower bound for unitary synthesis and breaking quantum cryptography</a></li>

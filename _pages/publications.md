@@ -11,7 +11,6 @@ nav_order: 3
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
 - Co-first authors with equal contributions are marked with an star (✶). 
 - Alphabetic ordering in theoretical computer science is indicated by (α−β).
-- Corresponding authors are marked with a dagger (†).
 - Selected publications are labeled by :books:.
 
 ---
@@ -58,8 +57,8 @@ Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee<sup>(α−β
 ---
 ##### Journal Articles
 1. <b>Mutual information maximizing quantum generative adversarial networks<br></b>
-Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Kabgyun Jeong<sup>†</sup><br>
-Accepted in Scientific Reports (2025). [[arXiv]](https://arxiv.org/abs/2309.01363) <br>
+Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<sup>†</sup><br>
+[<i>Scientific Reports</i> <b>15</b>, 32835](https://doi.org/10.1038/s41598-025-18476-y) (2025). <br>
 
 1. :books: <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
