@@ -33,6 +33,9 @@ nav_order: 4
 
 
 ##### My Research Papers
+- **Efficient learning of bosonic Gaussian unitaries**<br>
+**<span style="color:navy;">Invited talk</span>** at the 6th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Nov. 11st, 2025)<br>
+
 - **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes**<br>
 **<span style="color:navy;">Invited talk</span>** at the 5th Korea Institute of Science and Technology Information-Seoul National University Joint Workshop (Jun. 16th, 2025)<br>
 
