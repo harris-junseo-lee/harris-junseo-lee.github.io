@@ -6,7 +6,7 @@ permalink: /quantum-learning-theory-references/
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Quantum Learning Theory References</title>
+  <title>Quantum Learning Theory Zoo</title>
   <style>
     body { background: #ffffff; color: #111; font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, "Noto Sans", sans-serif; margin: 0; padding: 0; }
     a { color: #0056b3; text-decoration: none; }
@@ -53,16 +53,36 @@ permalink: /quantum-learning-theory-references/
   <div class="container">
     <header>
     <div>
-        <div class="title">Quantum Learning Theory References</div>
+        <div class="title">Quantum Learning Theory Zoo</div>
         <div class="desc">
         A curated list of research papers and key references in quantum learning theory. 
         Use keyword chips (multi-select) and the year filter to narrow results.<br><br>
-        <span id="metaInfo" style="font-size:0.9em; color:#555;">
-            (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.)
+        <span style="font-size:0.9em; color:#555;">
+            Last updated: <b>October 15, 2025</b> · Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) For feedback or corrections, contact <code>harris.junseo(at)gmail.com</code>.<br><br>
         </span>
+        <!-- New: collapsible About section -->
+          <span style="font-size:0.9em; color:#555;">
+            <details class="about">
+              <summary>About this page</summary>
+              <div style="margin-top:6px; font-size:0.95em; color:#333;">
+                <p style="margin:6px 0;">
+                  This page focuses on <b>learning algorithms for quantum systems (e.g., tomography and property testing)</b> and does <em>not</em> cover <q>quantum machine learning models</q> (e.g., QCNNs, QGANs).
+                </p>
+                <p style="margin:6px 0;">
+                  In the classification, <em>Hamiltonian learning</em> includes some algorithms designed for quantum many-body systems.
+                </p>
+                <p style="margin:6px 0;">
+                  Within each year, papers are <b>sorted alphabetically by title</b>.
+                </p>
+                <p style="margin:6px 0;">
+                  When both arXiv and published (journal or conference) versions exist, the <b>most recent year</b> is reflected.  
+                  All paper links direct to the <b>arXiv version</b>.
+                </p>
+              </div>
+            </details>
+          </span>
         </div>
     </div>
-    <div class="count" id="resultCount">0 results</div>
     </header>
 
 
@@ -70,7 +90,8 @@ permalink: /quantum-learning-theory-references/
       <div class="controls">
         <label class="search" title="Search by title, author, venue, or free keywords">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg>
-          <input id="q" placeholder="Search papers… (e.g., Gaussian, entropy, Pauli)" />
+          <input id="q" placeholder="Search by author or title keywords (e.g., “Lee”, “Bosonic Unitaries”)…" />
+          <div class="count" id="resultCount">0 results</div>
         </label>
         <div class="row">
           <label for="fYear" style="font-size:13px;color:#555">Year</label>
@@ -909,7 +930,7 @@ const PAPERS = [
   },
   {
     id: 'WD25',
-    title: 'EntangleLearning Quantum Processes with Quantum Statistical Queries',
+    title: 'Learning Quantum Processes with Quantum Statistical Queries',
     authors: ['Chirag Wadhwa', 'Mina Doosti'],
     year: 2025,
     venue: 'Quantum',
@@ -1507,6 +1528,22 @@ const PAPERS = [
     link: 'https://arxiv.org/abs/2307.04690',
     keywords: ['hamiltonian learning', 'continuous-variable']
   },
+  {
+    title: 'Learning unitaries with quantum statistical queries',
+    authors: ['Armando Angrisani'],
+    year: 2025,
+    venue: 'Quantum',
+    link: 'https://arxiv.org/abs/2310.02254',
+    keywords: ['process learning']
+  },
+  {
+    title: 'Learning junta distributions, quantum junta states, and QAC0 circuits',
+    authors: ['Jinge Bao', 'Francisco Escudero-Gutiérrez'],
+    year: 2025,
+    venue: 'arXiv',
+    link: 'https://arxiv.org/abs/2410.15822v2',
+    keywords: ['state learning', 'process learning']
+  },
 
 ];
 
@@ -1614,21 +1651,6 @@ $fYear.addEventListener('input', render);
 buildKeywordBar();
 hydrateYearOptions();
 render();
-
-
-const $meta = document.getElementById('metaInfo');
-(function updateMetaInfo(){
-  const today = new Date();
-  const dateStr = today.toLocaleDateString(undefined, {
-    year: 'numeric', month: 'long', day: 'numeric'
-  });
-  $meta.innerHTML = `
-    Last updated: <b>${dateStr}</b> · 
-    Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. 
-    (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) 
-    For feedback or corrections, contact <code>harris.junseo (at) gmail.com</code>.
-  `;
-})();
 
 </script>
 </body>
