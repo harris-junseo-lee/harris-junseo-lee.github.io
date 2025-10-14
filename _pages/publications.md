@@ -5,8 +5,6 @@ title: Publications
 description: 
 nav: true
 nav_order: 3
-toc:
-  sidebar: left
 ---
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
 - Co-first authors with equal contributions are marked with an star (✶). 

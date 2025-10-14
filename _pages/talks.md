@@ -5,8 +5,6 @@ title: Talks
 description: The presentation list is categorized into my research paper presentations, tutorial lectures, and others.
 nav: true
 nav_order: 4
-toc:
-  sidebar: left
 ---
 <html>
     <head>
