@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /qlct/
-title: Quantum Learning and Complexity Theory
+title: Quantum Learning and Complexity Theory (Summer 2025)
 description: 2025 Summer QISCA (Quantum Information Student Community Association) Summer School Program
 nav: false
 nav_order: 0

@@ -5,8 +5,8 @@ title: Talks
 description: The presentation list is categorized into my research paper presentations, tutorial lectures, and others.
 nav: true
 nav_order: 4
-# toc:
-#   sidebar: left
+toc:
+  sidebar: left
 ---
 <html>
     <head>
@@ -35,6 +35,7 @@ nav_order: 4
 ##### My Research Papers
 - **Efficient learning of bosonic Gaussian unitaries**<br>
 **<span style="color:navy;">Invited talk</span>** at the 6th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Nov. 11st, 2025)<br>
+**<span style="color:navy;">Invited talk</span>** (by [Vishnu Iyer](https://vishnuiyer.org/)) at the [1st AIMS Workshop and School on The Theory of Quantum Learning Algorithms](https://aims-quantum-learning-and-testing.github.io/) (Oct 2025)<br>
 
 - **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes**<br>
 **<span style="color:navy;">Invited talk</span>** at the 5th Korea Institute of Science and Technology Information-Seoul National University Joint Workshop (Jun. 16th, 2025)<br>
@@ -64,7 +65,7 @@ nav_order: 4
 **<span style="color:navy;">Invited talk</span>** at North Carolina State University Triangle Quantum Computing Seminar (Nov. 3rd, 2023)<br>
 **<span style="color:navy;">Poster</span>** at the 27th Quantum Information Processing Conference (QIP 2024)<br>
 
-- **High-dimensional private quantum channels and regular polytopes**<br>
+- **High-dimensional private quantum channels, epsilon-randomizing maps and regular polytopes**<br>
 **<span style="color:navy;">Invited talk</span>** at the 2nd Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Sep. 22nd, 2023)<br>
 **<span style="color:navy;">Invited talk</span>** at Seoul National University QST Seminar (Aug. 27th, 2021)<br>
 **<span style="color:navy;">Contributed talk</span>** at Center for Quantum Network’s Channel Capacity Winter Kick-off Workshop (Jan. 15th, 2023)<br>

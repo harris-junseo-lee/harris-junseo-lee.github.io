@@ -5,8 +5,8 @@ title: Publications
 description: 
 nav: true
 nav_order: 3
-# toc:
-#   sidebar: left
+toc:
+  sidebar: left
 ---
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
 - Co-first authors with equal contributions are marked with an star (✶). 
@@ -77,20 +77,20 @@ Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, <b><span style="color:
 Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
 [<i>Quantum Information Processing</i> <b>23</b>, 57](https://link.springer.com/article/10.1007/s11128-023-04253-1) (2024).
 
-5. :books: <b>Quantum Rényi entropy functionals for bosonic gaussian systems<br></b>
+1. :books: <b>Quantum Rényi entropy functionals for bosonic gaussian systems<br></b>
 <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
 [<i>Physics Letters A</i> <b>490</b>, 129183](https://doi.org/10.1016/j.physleta.2023.129183) (2023).
 
-4. <b>Weighted p-Rényi entropy power inequality: Information theory to quantum Shannon theory<br></b>
+1. <b>Weighted p-Rényi entropy power inequality: Information theory to quantum Shannon theory<br></b>
 <b><span style="color:navy">Junseo Lee</span></b>, Hyeonjun Yeo, Kabgyun Jeong<br>
 [<i>International Journal of Theoretical Physics</i> <b>62</b>, 253](https://link.springer.com/article/10.1007/s10773-023-05512-8)  (2023).
 
-3. <b>High-dimensional private quantum channels and regular polytopes<br></b>
+1. <b>High-dimensional private quantum channels and regular polytopes<br></b>
 <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
 [<i>Communications in Physics</i> <b>31</b>, 189](https://vjs.ac.vn/index.php/cip/article/view/15762) (2021).<br>
 Third Prize, Undergraduate Research Project Exhibition, Korean Physical Society (2021).
 
-2. <b>Single qubit private quantum channels and 3-dimensional regular polyhedra<br></b>
+1. <b>Single qubit private quantum channels and 3-dimensional regular polyhedra<br></b>
 Kabgyun Jeong, <b><span style="color:navy">Junseo Lee</span></b>, Jintae Choi, Seokmin Hong, Myunggu Jung, Gyeongbeom Kim, Jaekwon Kim, Suntaek Kim<br>
 [<i>New Physics: Sae Mulli</i> <b>62</b>, 232](https://doi.org/10.3938/NPSM.68.232) (2018).<br>
 Bronze Award, The Humantech Paper Award, Samsung Electronics (2018).

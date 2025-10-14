@@ -5,6 +5,15 @@ title: Teaching
 description:
 nav: true
 nav_order: 5
+dropdown: true
+children:
+  - title: Teaching List
+    permalink: /teaching/
+  - title: Quantum Complexity Theory Reading Group (Fall 2025)
+    permalink: /quantum-complexity-reading-group-fall25/
+  - title: Quantum Learning and Complexity Theory (Summer 2025)
+    permalink: /qlct/
+
 ---
 <html>
     <head>

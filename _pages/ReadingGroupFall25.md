@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /quantum-complexity-reading-group-fall25/
-title: Reading Group (Quantum Complexity Theory, Fall 2025)
+parent: Teaching
+title: Quantum Complexity Theory Reading Group (Fall 2025)
 description:
 nav: false
-nav_order: 0
+nav_order: 
 # toc:
 #   sidebar: left
 ---
@@ -80,7 +81,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">2</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity Theory for NISQ Devices</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Sung-Bin Lee </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Sung-Bin Lee <a href="/assets/pdf/QC_reading/251011_Complexity of NISQ.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2210.07234">[CCHL'22] The Complexity of NISQ</a></li>
@@ -175,6 +176,16 @@ This reading group is dedicated to exploring both foundational and recent resear
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2310.08870">[LMW'23] A one-query lower bound for unitary synthesis and breaking quantum cryptography</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">12</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Computational Power of QAC0</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Wonjun Baek</span></td>
+      <td style="border: 1px solid #ccc;">
+        <ul>
+          <li><a href="https://arxiv.org/pdf/2410.06499">[ADOY'25] On the Computational Power of QAC0 with Barely Superlinear Ancillae</a></li>
         </ul>
       </td>
     </tr>

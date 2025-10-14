@@ -43,54 +43,86 @@ Hello! I’m Junseo Lee, also known as Harris.
 
 I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Scholarship](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. 
 
-Since my undergraduate years, I have been part of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, initially as a research assistant and now as a research associate, continuing my work with the group. For more details, you can find my CV [here](/assets/pdf/cv_harris_junseo.pdf).
+Since my undergraduate years, I have been part of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, initially as a research assistant and now as a research associate, continuing my work with the group. For more details, you can find my CV [here](/assets/pdf/CV.pdf).
 
-<b>Contact:</b> I love discussing new research ideas and beyond, so feel free to reach out to me at <span style="color:#0F52BA;">`harris.junseo(at)gmail.com`</span> for collaborations, questions, or just to connect. I’m always happy to hear from you!
+<b>Contact:</b> For collaborations or research discussions, feel free to reach out at:<br>
+📧 harris (dot) [first name, all lowercase] (at) gmail.com
 
-You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum) and [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko).
+
+You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
+
+I maintain the [Quantum Learning Theory References](/quantum-learning-theory-references/) page. If you're interested in quantum learning theory, you might enjoy exploring it!
 
 ---
 #### Research Interests
-My main research interest lies in the theory of quantum computation, with a particular curiosity about how physical and computational resources and constraints shape the behavior of quantum systems. More broadly, I am also interested in theoretical computer science and quantum information.
-
 Recently, my primary research focuses on the following topics:
+- Quantum learning theory and property testing  
+- Quantum complexity theory  
+- Quantum algorithms  
+- Quantum many-body physics  
+- Quantum Shannon theory and mathematical physics  
+- Continuous-variable quantum systems
 
-<div style="padding-left: 20px;">
+I am also generally interested in algebraic geometry, statistical learning theory, and theoretical computer science. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
+
+<!-- <div style="padding-left: 20px;">
   <details>
     <summary><b>Quantum Learning Theory</b></summary>
     <p>
-      I study efficient algorithms and lower bounds for learning and testing tasks 
-      on both discrete and continuous-variable quantum systems, including quantum states, 
-      unitaries, and channels. A central question I pursue is 
-      <i>"how different resources affect the feasibility and complexity of extracting 
-      information from quantum systems."</i>
+      My research in quantum learning theory focuses on developing efficient algorithms and 
+      fundamental lower bounds for learning and testing tasks over both discrete-variable (DV) 
+      and continuous-variable (CV) quantum systems — including quantum states, unitary transformations, 
+      and dynamical processes. I aim to characterize the precise sample and query complexities 
+      required for learning under physically meaningful constraints, such as limited energy or 
+      single-copy access. Broadly, my work seeks to understand 
+      <i>how different physical and informational resources fundamentally shape the feasibility 
+      and efficiency of extracting information from quantum systems.</i>
     </p>
   </details>
 
   <details>
     <summary><b>Quantum Complexity Theory</b></summary>
     <p>
-      I investigate the capabilities and limitations of quantum proof systems and 
-      complexity classes, with particular attention to 
-      <i>"how restrictions such as quantum advice, entanglement, or uniqueness conditions 
-      change the computational power of quantum models."</i> 
-      This includes studying quantum-classical separations and structural properties 
-      of quantum complexity classes.
+      I study the computational power and structural properties of quantum proof systems and 
+      complexity classes. My work explores 
+      <i>how constraints such as bounded entanglement, quantum advice, or uniqueness conditions 
+      affect the expressive and computational capabilities of quantum models.</i> 
+      I am particularly interested in the theory of quantum interactive proof systems and 
+      their connections to quantum cryptography and verification. 
     </p>
   </details>
 
   <details>
     <summary><b>Quantum Algorithms</b></summary>
     <p>
-      For me, learning theory represents the <i>“final step”</i> of quantum information 
-      processing, while complexity theory provides the fundamental landscape of what 
-      quantum computers can or cannot do. Building on these theoretical foundations, 
-      I aim to design efficient quantum algorithms and protocols that leverage quantum 
-      advantages in solving concrete problems, particularly in algebra, combinatorics, 
-      and topology.
+      Building on insights from quantum learning and complexity theory, I design 
+      <i>end-to-end quantum algorithms</i> that bridge theoretical feasibility with 
+      experimental realizability. My current focus lies in constructing 
+      resource-efficient protocols that harness quantum advantages for concrete problems in 
+      algebraic, combinatorial, and topological domains. 
+      Ultimately, I aim to develop algorithmic frameworks that connect the 
+      <i>mathematical foundations of quantum information</i> to the 
+      <i>practical goal of making quantum computers learn and reason efficiently 
+      from data and physical systems.</i>
     </p>
   </details>
-</div>
+</div> -->
 
-<br>
-I have also worked on other topics in the past, including quantum channel capacity and the quantum entropy power inequality, and quantum machine learning and its applications.
+---
+#### Recent Papers
+- <b>Efficient learning of bosonic Gaussian unitaries<br></b>
+(α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
+[arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
+- <b>Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis<br></b>
+Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
+[arXiv:2508.01516](https://arxiv.org/abs/2508.01516) (2025). <br>
+- <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
+Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
+[<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>
+- <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br></b>
+(α−β) Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee</span></b><br>
+[arXiv:2506.19792](https://www.arxiv.org/abs/2506.19792) (2025). <br>
+
+---
+#### Recent Teaching
+I recently taught <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> and am currently leading the <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>.
