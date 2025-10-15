@@ -152,8 +152,8 @@ const KEYWORDS = [
   { key: 'process learning', label: 'Process Learning' },
   { key: 'agnostic learning', label: 'Agnostic Learning' },
   { key: 'hamiltonian learning', label: 'Hamiltonian Learning' },
-  { key: 'PAC learning', label: 'PAC learning' },
-  { key: 'function learning', label: 'Function Learning' },
+  { key: 'PAC learning', label: 'PAC Learning' },
+  { key: 'boolean function', label: 'Boolean Function' },
   { key: 'property testing', label: 'Property Testing' },
   { key: 'certification', label: 'Certification' },
   { key: 'continuous-variable', label: 'Continuous-Variable' },
@@ -217,7 +217,7 @@ const PAPERS = [
     year: 2021,
     venue: 'Quantum',
     link: 'https://arxiv.org/abs/1810.00481',
-    keywords: ['function learning'],
+    keywords: ['boolean function'],
   },
   {
     title: 'Guest column: A survey of quantum learning theory',
@@ -233,7 +233,7 @@ const PAPERS = [
     year: 2018,
     venue: 'JMLR',
     link: 'https://arxiv.org/pdf/1607.00932',
-    keywords: ['PAC learning', 'function learning'],
+    keywords: ['PAC learning', 'boolean function'],
   },
   {
     title: 'Quantum learning algorithms imply circuit lower bounds',
@@ -241,7 +241,7 @@ const PAPERS = [
     year: 2022,
     venue: 'FOCS',
     link: 'https://arxiv.org/pdf/2012.01920',
-    keywords: ['PAC learning', 'function learning'],
+    keywords: ['PAC learning', 'boolean function'],
   },
   {
     title: 'Quantum statistical query learning',
@@ -249,7 +249,7 @@ const PAPERS = [
     year: 2020,
     venue: 'arXiv:2002.08240',
     link: 'https://arxiv.org/pdf/2002.08240',
-    keywords: ['PAC learning', 'function learning'],
+    keywords: ['PAC learning', 'boolean function'],
   },
   {
     title: 'Distributed quantum inner product estimation',
@@ -265,7 +265,7 @@ const PAPERS = [
     year: 2021,
     venue: 'NeurIPS 2021',
     link: 'https://arxiv.org/abs/2102.07171',
-    keywords: ['state learning']
+    keywords: ['state learning', 'property testing']
   },
   {
     title: 'Cryptography from pseudorandom quantum states',
@@ -289,7 +289,7 @@ const PAPERS = [
     year: 2007,
     venue: 'QIP',
     link: 'https://arxiv.org/abs/0707.3479',
-    keywords: ['property testing', 'function learning']
+    keywords: ['property testing', 'boolean function']
   },
   {
     title: 'Learning a local Hamiltonian from local measurements',
@@ -321,7 +321,7 @@ const PAPERS = [
     year: 2020,
     venue: 'QIP',
     link: 'https://arxiv.org/abs/1902.08753',
-    keywords: ['function learning']
+    keywords: ['boolean function']
   },
   {
     title: 'Learning quantum processes and Hamiltonians via the Pauli transfer matrix',
@@ -473,7 +473,7 @@ const PAPERS = [
     year: 2021,
     venue: 'arXiv',
     link: 'https://arxiv.org/abs/2110.05517',
-    keywords: ['process learning', 'function learning', 'PAC learning']
+    keywords: ['process learning', 'boolean function', 'PAC learning']
   },
   {
     title: 'A single T-gate makes distribution learning hard',
@@ -481,7 +481,7 @@ const PAPERS = [
     year: 2022,
     venue: 'PRL',
     link: 'https://arxiv.org/abs/2207.03140',
-    keywords: ['process learning', 'function learning']
+    keywords: ['process learning']
   },
   {
     title: 'Query-optimal estimation of unitary channels in diamond distance',
@@ -553,7 +553,7 @@ const PAPERS = [
     year: 2019,
     venue: 'QIC',
     link: 'https://arxiv.org/abs/1802.05690',
-    keywords: ['function learning']
+    keywords: ['boolean function']
   },
   {
     title: 'Entanglement Hamiltonian tomography in quantum simulation',
@@ -601,7 +601,7 @@ const PAPERS = [
     year: 2025,
     venue: 'ACM Transactions on Computation Theory',
     link: 'https://arxiv.org/abs/2207.14438',
-    keywords: ['state learning', 'lower bounds']
+    keywords: ['state learning']
   },
   {
     title: 'Learning and testing algorithms for the Clifford group',
@@ -617,7 +617,7 @@ const PAPERS = [
     year: 2023,
     venue: 'STOC',
     link: 'https://arxiv.org/abs/2303.00209',
-    keywords: ['function learning', 'property testing']
+    keywords: ['boolean function', 'property testing']
   },
   {
     title: 'A polynomial time algorithm for the ground state of one-dimensional gapped local Hamiltonians',
@@ -649,7 +649,7 @@ const PAPERS = [
     year: 2025,
     venue: 'Quantum',
     link: 'https://arxiv.org/abs/2305.05765',
-    keywords: ['process learning', 'function learning']
+    keywords: ['process learning']
   }, 
   {
     title: 'Efficient learning of ground & thermal states within phases of matter',
@@ -673,7 +673,7 @@ const PAPERS = [
     year: 2016,
     venue: 'Proceedings of the 48th Annual ACM Symposium on Theory of Computing (STOC 2016), pp. 899–912',
     link: 'https://doi.org/10.1145/2897518.2897646',
-    keywords: ['state learning', 'tomography']
+    keywords: ['state learning']
   },
   {
     title: 'Efficient quantum tomography II',
@@ -697,7 +697,7 @@ const PAPERS = [
     year: 2019,
     venue: 'Journal of the ACM',
     link: 'https://arxiv.org/abs/1602.05161',
-    keywords: ['function learning']
+    keywords: ['boolean function']
   },
   {
     title: 'Learning quantum many-body systems from a few copies',
@@ -761,7 +761,7 @@ const PAPERS = [
     year: 2023,
     venue: 'NeurIPS',
     link: 'https://arxiv.org/abs/2306.03161',
-    keywords: ['function learning']
+    keywords: ['boolean function']
   },
   {
     title: 'Neural network state estimation for full quantum state tomography',
@@ -1625,7 +1625,7 @@ const PAPERS = [
     year: 2021,
     venue: 'SICOMP',
     link: 'https://arxiv.org/abs/1903.02840',
-    keywords: ['function learning', 'PAC learning']
+    keywords: ['boolean function', 'PAC learning']
   },
   {
     title: 'Quantum hardness of learning shallow classical circuits',
@@ -1633,7 +1633,7 @@ const PAPERS = [
     year: 2024,
     venue: 'ICALP',
     link: 'https://arxiv.org/abs/2405.10933',
-    keywords: ['process learning', 'function learning']
+    keywords: ['process learning', 'boolean function']
   },
   {
     title: 'Efficient tomography of a quantum many-body system',
