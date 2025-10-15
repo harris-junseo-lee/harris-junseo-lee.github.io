@@ -19,7 +19,23 @@ nav_order: 7
     .title { font-size: clamp(22px, 3vw, 32px); font-weight: 700; }
     .desc { color: #444; max-width: 880px; margin-top: 4px; }
     .panel { background: #f7f7f7; border: 1px solid #ddd; border-radius: 14px; padding: 16px; }
-    .controls { display: grid; grid-template-columns: 2fr 1fr; gap: 10px; align-items: center; }
+
+    /* 수정된 컨트롤 라인 */
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto auto; /* Search | Year | Venue */
+      gap: 10px;
+      align-items: center;
+    }
+    .controls .slim {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: #555;
+      white-space: nowrap;
+    }
+
     .search { display:flex; align-items:center; gap:8px; background: #fff; border:1px solid #ccc; border-radius: 8px; padding: 8px 12px; }
     .search input{ width:100%; background:transparent; color:#111; border:none; outline:none; font-size:14px; }
 
@@ -27,8 +43,7 @@ nav_order: 7
     .chip { display:inline-flex; align-items:center; gap:8px; background: #fff; border:1px solid #ccc; color:#333; border-radius:999px; padding:6px 10px; font-size:12px; cursor:pointer; user-select:none; }
     .chip.on { background:#1a73e8; color:#fff; border-color:#1a73e8; }
 
-    .row { display:flex; align-items:center; gap:10px; flex-wrap: wrap; margin-top: 10px; }
-    select { background: #fff; color: #111; border:1px solid #ccc; border-radius: 8px; padding: 8px 12px; font-size:14px; }
+    select { background: #fff; color: #111; border:1px solid #ccc; border-radius: 8px; padding: 6px 10px; font-size:14px; }
 
     .count { margin-left:auto; color:#666; font-size:13px; }
 
@@ -47,7 +62,7 @@ nav_order: 7
     footer { color: #666; font-size: 12px; text-align:center; margin: 36px 0 12px; }
 
     @media (max-width: 860px){
-      .controls { grid-template-columns: 1fr; }
+      .controls { grid-template-columns: 1fr; } /* 모바일에서는 세로 배치 */
       .pub { grid-template-columns: 1fr; }
     }
   </style>
@@ -55,91 +70,47 @@ nav_order: 7
 <body>
   <div class="container">
     <header>
-    <div>
-      <div class="title">⚛️ Quantum Learning Theory Zoo</div>
-      <div class="desc">
-        A curated list of research papers and key references in quantum learning theory. 
-        Use keyword chips (multi-select) and the year filter to narrow results.<br><br>
-        <span style="font-size:0.9em; color:#555;">
-          Last updated: <b>October 15, 2025</b> · Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. 
-          (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) 
-          For feedback or corrections, contact <code>harris.junseo(at)gmail.com</code>.<br><br>
-        </span>
-        <!-- About section -->
-        <span style="font-size:0.9em; color:#555;">
-          <details class="about">
-            <summary>About this zoo</summary>
-            <div style="margin-top:6px; font-size:0.95em; color:#333;">
-              <p style="margin:6px 0;">
-                This page focuses on <b>learning and testing algorithms for understanding quantum systems</b> and does 
-                <em>not</em> cover <q>(variational) quantum machine learning models</q> (e.g., QCNNs, QGANs).
-              </p>
-              <p style="margin:6px 0;">
-                In the keyword classification, <em>Hamiltonian learning</em> includes certain algorithms designed for quantum many-body systems.
-              </p>
-              <p style="margin:6px 0;">
-                Within each year, papers are <b>sorted alphabetically by title</b>.
-              </p>
-              <p style="margin:6px 0;">
-                When both arXiv and published (journal or conference) versions exist, the <b>most recent publication year</b> is shown,  
-                and all paper links point to the <b>arXiv version</b>.
-              </p>
-            </div>
-          </details>
-        </span>
-        <!-- Friends of this zoo section -->
-        <span style="font-size:0.9em; color:#555;">
-          <details class="about">
-            <summary>Friends of this zoo 🐾</summary>
-            <div style="margin-top:6px; font-size:0.95em; color:#333;">
-              <p style="margin:6px 0;">
-                This project is inspired by other remarkable “zoo” collections in quantum information and theoretical computer science:
-              </p>
-              <ul style="margin:6px 0 6px 20px;">
-                <li><a href="https://quantumalgorithmzoo.org/" target="_blank" rel="noopener">Quantum Algorithm Zoo</a></li>
-                <li><a href="https://complexityzoo.net/Complexity_Zoo" target="_blank" rel="noopener">Complexity Zoo</a></li>
-                <li><a href="https://errorcorrectionzoo.org/" target="_blank" rel="noopener">Error Correction Zoo</a></li>
-                <li><a href="https://wiki.veriqloud.fr/index.php?title=Main_Page" target="_blank" rel="noopener">Quantum Protocol Zoo</a></li>
-              </ul>
-            </div>
-          </details>
-        </span>
-        <!-- Useful resources on quantum learning theory -->
-        <span style="font-size:0.9em; color:#555;">
-          <details class="about">
-            <summary>Useful resources on quantum learning theory 📚</summary>
-            <div style="margin-top:6px; font-size:0.95em; color:#333;">
-              <p style="margin:6px 0;">Courses and workshops for those interested in learning theory aspects of quantum information:</p>
-              <ul style="margin:6px 0 6px 20px;">
-                <li><a href="https://harvard-quantum-learning.github.io/" target="_blank" rel="noopener">Harvard Quantum Learning Theory Course</a> (Sitan Chen, Jordan Cotler)</li>
-                <li><a href="https://caltech-quantum-learning-theory.github.io/" target="_blank" rel="noopener">Caltech Quantum Learning Theory Course</a> (Hsin-Yuan Huang)</li>
-                <li><a href="https://people.eecs.berkeley.edu/~jswright/quantumlearningtheory24/" target="_blank" rel="noopener">UC Berkeley Quantum Learning Theory Course</a> (John Wright)</li>
-                <li><a href="https://jerryzli.github.io/focs24-workshop.html" target="_blank" rel="noopener">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
-                <li><a href="https://aims-quantum-learning-and-testing.github.io/" target="_blank" rel="noopener">1st AIMS Workshop and School on the Theory of Quantum Learning Algorithms</a></li>
-                <li><a href="https://youtube.com/playlist?list=PL26QpnXK4-QV0mg5-4t3V_3hrLKJE8Lry&si=B8DioQb_fwhUnSYS" target="_blank" rel="noopener">QIP 2025 Learning and Tomography Session Recordings</a></li>
-              </ul>
-            </div>
-          </details>
-        </span>
+      <div>
+        <div class="title">⚛️ Quantum Learning Theory Zoo</div>
+        <div class="desc">
+          A curated list of research papers and key references in quantum learning theory. 
+          Use keyword chips (multi-select) and the year filter to narrow results.<br><br>
+          <span style="font-size:0.9em; color:#555;">
+            Last updated: <b>October 15, 2025</b> · Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. 
+            (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) 
+            For feedback or corrections, contact <code>harris.junseo(at)gmail.com</code>.<br><br>
+          </span>
+        </div>
       </div>
-    </div>
-  </header>
+    </header>
 
     <div class="panel">
       <div class="controls">
         <label class="search" title="Search by title, author, venue, or free keywords">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            <circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.6" fill="none"/>
+          </svg>
           <input id="q" placeholder="Search by author or title keywords (e.g., “Lee”, “Bosonic Unitaries”)…" />
           <div class="count" id="resultCount">0 results</div>
         </label>
-        <div class="row">
-          <label for="fYear" style="font-size:13px;color:#555">Year</label>
+
+        <label class="slim" for="fYear">
+          Year
           <select id="fYear"></select>
-        </div>
+        </label>
+
+        <label class="slim" for="fVenue">
+          Venue
+          <select id="fVenue"></select>
+        </label>
       </div>
+
       <div class="filterbar" id="keywordBar"></div>
     </div>
+
     <div id="list"></div>
+
     <footer>
       Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. 
       Built for quick literature navigation in quantum learning theory.
@@ -167,7 +138,7 @@ const PAPERS = [
     title: 'Efficient learning of bosonic Gaussian unitaries',
     authors: ['Marco Fanizza', 'Vishnu Iyer', 'Junseo Lee', 'Antonio A. Mele', 'Francesco A. Mele'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.05531',
     keywords: ['process learning', 'continuous-variable'],
   },
@@ -175,7 +146,7 @@ const PAPERS = [
     title: 'Sample-efficient learning of interacting quantum systems',
     authors: ['Anurag Anshu', 'Srinivasan Arunachalam', 'Tomotaka Kuwahara', 'Mehdi Soleimanifar'],
     year: 2021,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/2004.07266',
     keywords: ['hamiltonian learning'],
   },
@@ -183,7 +154,7 @@ const PAPERS = [
     title: 'The learnability of quantum states',
     authors: ['Scott Aaronson'],
     year: 2007,
-    venue: 'Proceedings of the Royal Society A',
+    venue: 'Proc. R. Soc. Lond. A',
     link: 'https://arxiv.org/abs/quant-ph/0608142',
     keywords: ['state learning'],
   },
@@ -207,7 +178,7 @@ const PAPERS = [
     title: 'Optimal algorithms for learning quantum phase states',
     authors: ['Srinivasan Arunachalam', 'Sergey Bravyi', 'Arkopal Dutt', 'Theodore J. Yoder'],
     year: 2022,
-    venue: 'TQC',
+    venue: 'TQC (Proceedings)',
     link: 'https://arxiv.org/abs/2208.07851',
     keywords: ['state learning', 'hamiltonian learning'],
   },
@@ -247,7 +218,7 @@ const PAPERS = [
     title: 'Quantum statistical query learning',
     authors: ['Srinivasan Arunachalam', 'Alex B. Grilo', 'Henry Yuen'],
     year: 2020,
-    venue: 'arXiv:2002.08240',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/pdf/2002.08240',
     keywords: ['PAC learning', 'boolean function'],
   },
@@ -263,7 +234,7 @@ const PAPERS = [
     title: 'Private learning implies quantum stability',
     authors: ['Srinivasan Arunachalam', 'Yihui Quek', 'John A. Smolin'],
     year: 2021,
-    venue: 'NeurIPS 2021',
+    venue: 'NeurIPS',
     link: 'https://arxiv.org/abs/2102.07171',
     keywords: ['state learning', 'property testing']
   },
@@ -287,7 +258,7 @@ const PAPERS = [
     title: 'Quantum algorithms for learning and testing juntas',
     authors: ['Alp Atici', 'Rocco A. Servedio'],
     year: 2007,
-    venue: 'QIP',
+    venue: 'QIP (Journal)',
     link: 'https://arxiv.org/abs/0707.3479',
     keywords: ['property testing', 'boolean function']
   },
@@ -319,7 +290,7 @@ const PAPERS = [
     title: 'Quantum learning boolean linear functions wrt product distributions',
     authors: ['Matthias C. Caro'],
     year: 2020,
-    venue: 'QIP',
+    venue: 'QIP (Journal)',
     link: 'https://arxiv.org/abs/1902.08753',
     keywords: ['boolean function']
   },
@@ -327,7 +298,7 @@ const PAPERS = [
     title: 'Learning quantum processes and Hamiltonians via the Pauli transfer matrix',
     authors: ['Matthias C. Caro'],
     year: 2022,
-    venue: 'ACM Transactions on Quantum Computing',
+    venue: 'ACM TQC',
     link: 'https://arxiv.org/abs/2212.04471',
     keywords: ['process learning', 'hamiltonian learning']
   },
@@ -359,7 +330,7 @@ const PAPERS = [
     title: 'Sample efficient algorithms for learning quantum channels in PAC model and the approximate state discrimination problem',
     authors: ['Kai-Min Chung', 'Han-Hsuan Lin'],
     year: 2021,
-    venue: 'TQC',
+    venue: 'TQC (Proceedings)',
     link: 'https://arxiv.org/abs/1810.10938',
     keywords: ['process learning', 'PAC learning']
   },
@@ -367,7 +338,7 @@ const PAPERS = [
     title: 'Efficient quantum state tomography',
     authors: ['Marcus Cramer', 'Martin B. Plenio', 'Steven T. Flammia', 'Rolando Somma', 'David Gross', 'Stephen D. Bartlett', 'Olivier Landon-Cardinal', 'Yi-Kai Liu', 'David Poulin'],
     year: 2010,
-    venue: 'Nature Communications',
+    venue: 'Nat. Commun.',
     link: 'https://arxiv.org/abs/1101.4366',
     keywords: ['state learning']
   },
@@ -375,7 +346,7 @@ const PAPERS = [
     title: 'Active learning of quantum system Hamiltonians yields query advantage',
     authors: ['Arkopal Dutt', 'Edwin Pednault', 'Chai Wah Wu', 'Sarah Sheldon', 'John Smolin', 'Lev Bishop', 'Isaac L. Chuang'],
     year: 2021,
-    venue: 'PRR',
+    venue: 'PRResearch',
     link: 'https://arxiv.org/abs/2112.14553',
     keywords: ['hamiltonian learning']
   },
@@ -383,7 +354,7 @@ const PAPERS = [
     title: 'Fast and robust quantum state tomography from few basis measurements',
     authors: ['Fernando G. S. L. Brandão', 'Richard Kueng', 'Daniel Stilck França'],
     year: 2021,
-    venue: 'TQC',
+    venue: 'TQC (Proceedings)',
     link: 'https://arxiv.org/abs/2009.08216',
     keywords: ['state learning']
   },
@@ -391,7 +362,7 @@ const PAPERS = [
     title: 'Quantum tomography via compressed sensing: error bounds, sample complexity and efficient estimators',
     authors: ['Steven T. Flammia', 'David Gross', 'Yi-Kai Liu', 'Jens Eisert'],
     year: 2012,
-    venue: 'NPJ',
+    venue: 'NJP',
     link: 'https://arxiv.org/abs/1205.2300',
     keywords: ['state learning']
   },
@@ -423,7 +394,7 @@ const PAPERS = [
     title: 'Efficient learning of quantum states prepared with few non-Clifford gates',
     authors: ['Sabee Grewal', 'Vishnu Iyer', 'William Kretschmer', 'Daniel Liang'],
     year: 2023,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2305.13409',
     keywords: ['state learning']
   },
@@ -447,7 +418,7 @@ const PAPERS = [
     title: 'Learning quantum systems',
     authors: ['Valentin Gebhart', 'Raffaele Santagati', 'Antonio Andrea Gentile', 'Erik M. Gauger', 'David Craig', 'Natalia Ares', 'Leonardo Banchi', 'Florian Marquardt', 'Luca Pezzè', 'Cristian Bonato'],
     year: 2023,
-    venue: 'Nature Reviews Physics, February 2023',
+    venue: 'Nat. Rev. Phys.',
     link: 'https://arxiv.org/abs/2207.00298',
     keywords: ['state learning', 'process learning', 'survey']
   },
@@ -471,7 +442,7 @@ const PAPERS = [
     title: 'Learnability of the output distributions of local quantum circuits',
     authors: ['Marcel Hinsche', 'Marios Ioannou', 'Alexander Nietner', 'Jonas Haferkamp', 'Yihui Quek', 'Dominik Hangleiter', 'Jean-Pierre Seifert', 'Jens Eisert', 'Ryan Sweke'],
     year: 2021,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2110.05517',
     keywords: ['process learning', 'boolean function', 'PAC learning']
   },
@@ -495,7 +466,7 @@ const PAPERS = [
     title: 'Predicting many properties of a quantum system from very few measurements',
     authors: ['Hsin-Yuan Huang', 'Richard Kueng', 'John Preskill'],
     year: 2020,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/2002.08953',
     keywords: ['state learning', 'property testing']
   },
@@ -535,7 +506,7 @@ const PAPERS = [
     title: 'Hamiltonian simulation with optimal sample complexity',
     authors: ['Shelby Kimmel', 'Cedric Yen-Yu Lin', 'Guang Hao Low', 'Maris Ozols', 'Theodore J. Yoder'],
     year: 2017,
-    venue: 'npj Quantum Information',
+    venue: 'npj Quantum Inf.',
     link: 'https://arxiv.org/abs/1608.00281',
     keywords: ['hamiltonian learning']
   },
@@ -559,7 +530,7 @@ const PAPERS = [
     title: 'Entanglement Hamiltonian tomography in quantum simulation',
     authors: ['Christian Kokail', 'Rick van Bijnen', 'Andreas Elben', 'Benoît Vermersch', 'Peter Zoller'],
     year: 2021,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/2009.09000',
     keywords: ['hamiltonian learning']
   },
@@ -567,7 +538,7 @@ const PAPERS = [
     title: 'Learning quantum circuits of some T gates',
     authors: ['Ching-Yi Lai', 'Hao-Chung Cheng'],
     year: 2022,
-    venue: 'IEEE Transactions on Information Theory',
+    venue: 'IEEE Trans. Inf. Theory',
     link: 'https://arxiv.org/abs/2106.12524',
     keywords: ['process learning']
   },
@@ -575,7 +546,7 @@ const PAPERS = [
     title: 'Efficient direct tomography for matrix product states',
     authors: ['Olivier Landon-Cardinal', 'Yi-Kai Liu', 'David Poulin'],
     year: 2010,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/1002.4632',
     keywords: ['state learning']
   },
@@ -583,7 +554,7 @@ const PAPERS = [
     title: 'Improved machine learning algorithm for predicting ground state properties',
     authors: ['Laura Lewis', 'Hsin-Yuan Huang', 'Viet T. Tran', 'Sebastian Lehner', 'Richard Kueng', 'John Preskill'],
     year: 2023,
-    venue: 'Nature Communications',
+    venue: 'Nat. Commun.',
     link: 'https://arxiv.org/abs/2301.13169',
     keywords: ['hamiltonian learning']
   },
@@ -599,7 +570,7 @@ const PAPERS = [
     title: 'Lower bounds for learning quantum states with single-copy measurements',
     authors: ['Angus Lowe', 'Ashwin Nayak'],
     year: 2025,
-    venue: 'ACM Transactions on Computation Theory',
+    venue: 'ACM ToCT',
     link: 'https://arxiv.org/abs/2207.14438',
     keywords: ['state learning']
   },
@@ -623,7 +594,7 @@ const PAPERS = [
     title: 'A polynomial time algorithm for the ground state of one-dimensional gapped local Hamiltonians',
     authors: ['Zeph Landau', 'Umesh Vazirani', 'Thomas Vidick'],
     year: 2015,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/1307.5143',
     keywords: ['hamiltonian learning']
   },
@@ -631,7 +602,7 @@ const PAPERS = [
     title: 'Learning stabilizer states by Bell sampling',
     authors: ['Ashley Montanaro'],
     year: 2017,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/1707.04012',
     keywords: ['state learning', 'property testing']
   },
@@ -655,7 +626,7 @@ const PAPERS = [
     title: 'Efficient learning of ground & thermal states within phases of matter',
     authors: ['Emilio Onorati', 'Cambyse Rouzé', 'Daniel Stilck França', 'James D. Watson'],
     year: 2023,
-    venue: 'Nature Communications',
+    venue: 'Nat. Commun.',
     link: 'https://arxiv.org/abs/2301.12946',
     keywords: ['state learning', 'hamiltonian learning']
   },
@@ -671,7 +642,7 @@ const PAPERS = [
     title: 'Efficient quantum tomography',
     authors: ['Ryan O’Donnell', 'John Wright'],
     year: 2016,
-    venue: 'Proceedings of the 48th Annual ACM Symposium on Theory of Computing (STOC 2016), pp. 899–912',
+    venue: 'STOC',
     link: 'https://doi.org/10.1145/2897518.2897646',
     keywords: ['state learning']
   },
@@ -695,7 +666,7 @@ const PAPERS = [
     title: 'Fast learning requires good memory: A time-space lower bound for parity learning',
     authors: ['Ran Raz'],
     year: 2019,
-    venue: 'Journal of the ACM',
+    venue: 'JACM',
     link: 'https://arxiv.org/abs/1602.05161',
     keywords: ['boolean function']
   },
@@ -719,7 +690,7 @@ const PAPERS = [
     title: 'Quantifying hole-motion-induced frustration in doped antiferromagnets by Hamiltonian reconstruction',
     authors: ['Henning Schlomer', 'Timon Hilker', 'Immanuel Bloch', 'Ulrich Schollwöck', 'Fabian Grusdt', 'Annabelle Bohrdt'],
     year: 2023,
-    venue: 'Communications Materials ',
+    venue: 'Commun. Mater.',
     link: 'https://arxiv.org/abs/2210.02440',
     keywords: ['hamiltonian learning']
   },
@@ -751,7 +722,7 @@ const PAPERS = [
     title: 'A survey on the complexity of learning quantum states',
     authors: ['Anurag Anshu', 'Srinivasan Arunachalam'],
     year: 2024,
-    venue: 'Nature Review Physics',
+    venue: 'Nat. Rev. Phys.',
     link: 'https://arxiv.org/abs/2305.20069',
     keywords: ['state learning', 'hamiltonian learning', 'survey']
   },
@@ -767,7 +738,7 @@ const PAPERS = [
     title: 'Neural network state estimation for full quantum state tomography',
     authors: ['Qian Xu', 'Shuqi Xu'],
     year: 2018,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/1811.06654',
     keywords: ['state learning']
   },
@@ -775,7 +746,7 @@ const PAPERS = [
     title: 'Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood',
     authors: ['Sitan Chen', 'Weiyuan Gong', 'Jonas Haferkamp', 'Yihui Quek'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2505.22743',
     keywords: ['state learning', 'process learning']
   },
@@ -799,7 +770,7 @@ const PAPERS = [
     title: 'Optimal high-precision shadow estimation',
     authors: ['Sitan Chen', 'Jerry Li', 'Allen Liu'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2407.13874',
     keywords: ['state learning']
   },
@@ -847,7 +818,7 @@ const PAPERS = [
     title: 'A Hierarchy for Replica Quantum Advantage',
     authors: ['Sitan Chen', 'Jordan Cotler', 'Hsin-Yuan Huang', 'Jerry Li'],
     year: 2021,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2111.05874',
     keywords: ['state learning', 'property testing']
   },
@@ -855,7 +826,7 @@ const PAPERS = [
     title: 'Instance-Optimal Quantum State Certification with Entangled Measurements',
     authors: ['Ryan O’Donnell', 'Chirag Wadhwa'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2507.06010',
     keywords: ['certification']
   },
@@ -887,7 +858,7 @@ const PAPERS = [
     title: 'Agnostic Process Tomography',
     authors: ['Chirag Wadhwa', 'Laura Lewis', 'Elham Kashefi', 'Mina Doosti'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.11957',
     keywords: ['process learning', 'agnostic learning']
   },
@@ -895,7 +866,7 @@ const PAPERS = [
     title: 'Mildly-Interacting Fermionic Unitaries are Efficiently Learnable',
     authors: ['Vishnu Iyer'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2504.11318',
     keywords: ['process learning', 'fermionic']
   },
@@ -903,7 +874,7 @@ const PAPERS = [
     title: 'Agnostic Tomography of Stabilizer Product States',
     authors: ['Sabee Grewal', 'Vishnu Iyer', 'William Kretschmer', 'Daniel Liang'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2404.03813',
     keywords: ['state learning', 'agnostic learning']
   },
@@ -911,7 +882,7 @@ const PAPERS = [
     title: 'Beating full state tomography for unentangled spectrum estimation',
     authors: ['Angelos Pelecanos', 'Xinyu Tan', 'Ewin Tang', 'John Wright'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2504.02785',
     keywords: ['state learning', 'property testing']
   },
@@ -935,7 +906,7 @@ const PAPERS = [
     title: 'Certifying almost all quantum states with few single-qubit measurements',
     authors: ['Hsin-Yuan Huang', 'John Preskill', 'Mehdi Soleimanifar'],
     year: 2025,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/2404.07281',
     keywords: ['certification']
   },
@@ -943,7 +914,7 @@ const PAPERS = [
     title: 'Unitary designs in nearly optimal depth',
     authors: ['Laura Cui', 'Thomas Schuster', 'Fernando Brandao', 'Hsin-Yuan Huang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2507.06216',
     keywords: ['pseudorandomness']
   },
@@ -999,7 +970,7 @@ const PAPERS = [
     title: 'Exponential Separations between Quantum Learning with and without Purification',
     authors: ['Zhenhuan Liu', 'Weiyuan Gong', 'Zhenyu Du', 'Zhenyu Cai'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.17718',
     keywords: ['state learning', 'property testing']
   },
@@ -1007,7 +978,7 @@ const PAPERS = [
     title: 'On the sample complexity of purity and inner product estimation',
     authors: ['Weiyuan Gong', 'Jonas Haferkamp', 'Qi Ye', 'Zhihan Zhang'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.12712',
     keywords: ['property testing']
   },
@@ -1023,7 +994,7 @@ const PAPERS = [
     title: 'Adaptivity can help exponentially for shadow tomography',
     authors: ['Sitan Chen', 'Weiyuan Gong', 'Zhihan Zhang'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2412.19022',
     keywords: ['state learning']
   },
@@ -1031,7 +1002,7 @@ const PAPERS = [
     title: 'An infinite hierarchy of multi-copy quantum learning tasks',
     authors: ['Jan Nöller', 'Viet T. Tran', 'Mariami Gachechiladze', 'Richard Kueng'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08070',
     keywords: ['state learning']
   },
@@ -1039,7 +1010,7 @@ const PAPERS = [
     title: 'Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation',
     authors: ['Xi Huang', 'Lixing Zhang', 'Di Luo'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08419',
     keywords: ['hamiltonian learning', 'continuous-variable']
   },
@@ -1047,7 +1018,7 @@ const PAPERS = [
     title: 'Agnostic Product Mixed State Tomography via Robust Statistics',
     authors: ['Alvan Arulandu', 'Ilias Diakonikolas', 'Daniel Kane', 'Jerry Li'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08472',
     keywords: ['state learning', 'agnostic learning']
   },
@@ -1055,7 +1026,7 @@ const PAPERS = [
     title: 'Learning and certification of local time-dependent quantum dynamics and noise',
     authors: ['Daniel Stilck França', 'Tim Möbus', 'Cambyse Rouzé', 'Albert H. Werner'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08500',
     keywords: ['process learning', 'hamiltonian learning', 'certification']
   },
@@ -1063,7 +1034,7 @@ const PAPERS = [
     title: 'Product testing with single-copy measurements',
     authors: ['Jacob Beckey', 'Luke Coffman', 'Ariel Shlosberg', 'Louis Schatzki', 'Felix Leditzky'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.07820',
     keywords: ['property testing']
   },
@@ -1071,7 +1042,7 @@ const PAPERS = [
     title: 'Optimal lower bounds for quantum state tomography',
     authors: ['Thilo Scharnhorst', 'Jack Spilecki', 'John Wright'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://www.arxiv.org/abs/2510.07699',
     keywords: ['state learning']
   },
@@ -1079,7 +1050,7 @@ const PAPERS = [
     title: 'Random unitaries from Hamiltonian dynamics',
     authors: ['Laura Cui', 'Thomas Schuster', 'Liang Mao', 'Hsin-Yuan Huang', 'Fernando Brandao'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://www.arxiv.org/abs/2510.08434',
     keywords: ['pseudorandomness', 'hamiltonian learning']
   },
@@ -1087,7 +1058,7 @@ const PAPERS = [
     title: 'Quantum Probe Tomography',
     authors: ['Sitan Chen', 'Jordan Cotler', 'Hsin-Yuan Huang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08499',
     keywords: ['hamiltonian learning']
   },
@@ -1095,7 +1066,7 @@ const PAPERS = [
     title: 'Random unitaries that conserve energy',
     authors: ['Liang Mao', 'Laura Cui', 'Thomas Schuster', 'Hsin-Yuan Huang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08448v1',
     keywords: ['pseudorandomness']
   },
@@ -1103,7 +1074,7 @@ const PAPERS = [
     title: 'Non-iid hypothesis testing: from classical to quantum',
     authors: ['Giacomo De Palma', 'Marco Fanizza', 'Connor Mowry', 'Ryan O’Donnell'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.06147',
     keywords: ['property testing']
   },
@@ -1111,7 +1082,7 @@ const PAPERS = [
     title: 'Is it Gaussian? Testing bosonic quantum states',
     authors: ['Filippo Girardi', 'Freek Witteveen', 'Francesco Anna Mele', 'Lennart Bittel', 'Salvatore F. E. Oliviero', 'David Gross', 'Michael Walter'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.07305',
     keywords: ['property testing', 'continuous-variable']
   },
@@ -1119,7 +1090,7 @@ const PAPERS = [
     title: 'Higher moment theory and learnability of bosonic states',
     authors: ['Joseph T. Iosue', 'Yu-Xin Wang', 'Ishaun Datta', 'Soumik Ghosh', 'Changhun Oh', 'Bill Fefferman', 'Alexey V. Gorshkov'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.01610',
     keywords: ['state learning', 'continuous-variable']
   },
@@ -1127,7 +1098,7 @@ const PAPERS = [
     title: 'Query-Optimal Estimation of Unitary Channels via Pauli Dimensionality',
     authors: ['Sabee Grewal', 'Daniel Liang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.00168',
     keywords: ['process learning', 'property testing']
   },
@@ -1135,7 +1106,7 @@ const PAPERS = [
     title: 'Exponential Advantage from One More Replica in Estimating Nonlinear Properties of Quantum States',
     authors: ['Qi Ye', 'Zhenhuan Liu', 'Dong-Ling Deng'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.24000',
     keywords: ['property testing']
   },
@@ -1143,7 +1114,7 @@ const PAPERS = [
     title: 'Lower Bounds for Learning Hamiltonians from Time Evolution',
     authors: ['Ziyun Chen', 'Jerry Li'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.20665',
     keywords: ['hamiltonian learning']
   },
@@ -1151,7 +1122,7 @@ const PAPERS = [
     title: 'Efficiently learning depth-3 circuits via quantum agnostic boosting',
     authors: ['Srinivasan Arunachalam', 'Arkopal Dutt', 'Alexandru Gheorghiu', 'Michael de Oliveira'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://www.arxiv.org/abs/2509.14461',
     keywords: ['agnostic learning', 'process learning']
   },
@@ -1159,7 +1130,7 @@ const PAPERS = [
     title: 'Nearly optimal algorithms to learn sparse quantum Hamiltonians in physically motivated distances',
     authors: ['Amira Abbas', 'Nunzia Cerrato', 'Francisco Escudero Gutiérrez', 'Dmitry Grinko', 'Francesco Anna Mele', 'Pulkit Sinha'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.09813',
     keywords: ['hamiltonian learning']
   },
@@ -1167,7 +1138,7 @@ const PAPERS = [
     title: 'Certifying and learning quantum Ising Hamiltonians',
     authors: ['Andreas Bluhm', 'Matthias C. Caro', 'Francisco Escudero Gutiérrez', 'Aadil Oufkir', 'Cambyse Rouzé'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.10239',
     keywords: ['hamiltonian learning', 'certification']
   },
@@ -1175,7 +1146,7 @@ const PAPERS = [
     title: 'Improved Hamiltonian learning and sparsity testing through Bell sampling',
     authors: ['Savar D. Sinha', 'Yu Tong'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.07937',
     keywords: ['hamiltonian learning', 'property testing']
   },
@@ -1183,7 +1154,7 @@ const PAPERS = [
     title: 'Energy-independent tomography of Gaussian states',
     authors: ['Lennart Bittel', 'Francesco A. Mele', 'Jens Eisert', 'Antonio A. Mele'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2508.14979',
     keywords: ['state learning', 'continuous-variable']
   },
@@ -1191,7 +1162,7 @@ const PAPERS = [
     title: 'Adversarially robust quantum state learning and testing',
     authors: ['Maryam Aliakbarpour', 'Vladimir Braverman', 'Nai-Hui Chia', 'Yuhan Liu'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2508.13959',
     keywords: ['state learning', 'property testing']
   },
@@ -1199,7 +1170,7 @@ const PAPERS = [
     title: 'Random Unitaries in Constant (Quantum) Time',
     authors: ['Ben Foxman', 'Natalie Parham', 'Francisca Vasconcelos', 'Henry Yuen'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2508.11487',
     keywords: ['pseudorandomness']
   },
@@ -1207,7 +1178,7 @@ const PAPERS = [
     title: 'Certifying Quantum States with Uniform Measurements',
     authors: ['Liang Mao', 'Yifei Wang', 'Yingfei Gu', 'Chengshu Li'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://www.arxiv.org/abs/2508.09259',
     keywords: ['certification']
   },
@@ -1215,7 +1186,7 @@ const PAPERS = [
     title: 'Pauli Measurements Are Near-Optimal for Single-Qubit Tomography',
     authors: ['Jayadev Acharya', 'Abhilash Dharmavarapu', 'Yuhan Liu',' Nengkun Yu'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2507.22001',
     keywords: ['state learning']
   },
@@ -1223,7 +1194,7 @@ const PAPERS = [
     title: 'Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness',
     authors: ['Chirag Wadhwa', 'Mina Doosti'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2405.12085',
     keywords: ['process learning']
   },
@@ -1231,7 +1202,7 @@ const PAPERS = [
     title: 'Online Learning of Pure States is as Hard as Mixed States',
     authors: ['Maxime Meyer', 'Soumik Adhikary', 'Naixu Guo', 'Patrick Rebentrost'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2502.00823',
     keywords: ['state learning']
   },
@@ -1255,7 +1226,7 @@ const PAPERS = [
     title: 'Learning quantum states of continuous variable systems',
     authors: ['Francesco Anna Mele', 'Antonio Anna Mele', 'Lennart Bittel', 'Jens Eisert', 'Vittorio Giovannetti', 'Ludovico Lami', 'Lorenzo Leone', 'Salvatore F.E. Oliviero'],
     year: 2025,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/2405.01431',
     keywords: ['state learning', 'continuous-variable']
   },
@@ -1263,7 +1234,7 @@ const PAPERS = [
     title: 'Quantum Hamiltonian Certification',
     authors: ['Minbo Gao', 'Zhengfeng Ji', 'Qisheng Wang', 'Wenjun Yu', 'Qi Zhao'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2505.13217',
     keywords: ['certification', 'hamiltonian learning']
   },
@@ -1271,7 +1242,7 @@ const PAPERS = [
     title: 'Hamiltonian Locality Testing via Trotterized Postselection',
     authors: ['John Kallaugher', 'Daniel Liang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2505.06478',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1279,7 +1250,7 @@ const PAPERS = [
     title: 'Efficient Learning Implies Quantum Glassiness',
     authors: ['Eric R. Anschuetz'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2505.00087',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1287,7 +1258,7 @@ const PAPERS = [
     title: 'Efficiently learning fermionic unitaries with few non-Gaussian gates',
     authors: ['Sharoon Austin', 'Mauro E.S. Morales', 'Alexey Gorshkov'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2504.15356',
     keywords: ['process learning', 'fermionic']
   },
@@ -1295,7 +1266,7 @@ const PAPERS = [
     title: 'Learning to erase quantum states: thermodynamic implications of quantum learning theory',
     authors: ['Haimeng Zhao', 'Yuzhen Zhang', 'John Preskill'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2504.07341',
     keywords: ['state learning']
   },
@@ -1303,7 +1274,7 @@ const PAPERS = [
     title: 'Learning quantum Gibbs states locally and efficiently',
     authors: ['Chi-Fang Chen', 'Anurag Anshu', 'Quynh T. Nguyen'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2504.02706',
     keywords: ['state learning', 'hamiltonian learning']
   },
@@ -1311,7 +1282,7 @@ const PAPERS = [
     title: 'Quantum advantage for learning shallow neural networks with natural data distributions',
     authors: ['Laura Lewis', 'Dar Gilboa', 'Jarrod R. McClean'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2503.20879',
     keywords: ['process learning']
   },
@@ -1319,7 +1290,7 @@ const PAPERS = [
     title: 'A Dobrushin condition for quantum Markov chains: Rapid mixing and conditional mutual information at high temperature',
     authors: ['Ainesh Bakshi', 'Allen Liu', 'Ankur Moitra', 'Ewin Tang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.08542',
     keywords: ['hamiltonian learning']
   },
@@ -1359,7 +1330,7 @@ const PAPERS = [
     title: 'Nearly tight bounds for testing tree tensor network states',
     authors: ['Benjamin Lovitz', 'Angus Lowe'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.21417',
     keywords: ['property testing']
   },
@@ -1367,7 +1338,7 @@ const PAPERS = [
     title: 'Efficient Hamiltonian, structure and trace distance learning of Gaussian states',
     authors: ['Marco Fanizza', 'Cambyse Rouzé', 'Daniel Stilck França'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2411.03163',
     keywords: ['state learning', 'hamiltonian learning', 'continuous-variable']
   },
@@ -1375,7 +1346,7 @@ const PAPERS = [
     title: 'A Survey of Quantum Property Testing',
     authors: ['Ashley Montanaro', 'Ronald de Wolf'],
     year: 2018,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/1310.2035',
     keywords: ['property testing', 'survey']
   },
@@ -1423,7 +1394,7 @@ const PAPERS = [
     title: 'Efficient Tomography of Non-Interacting Fermion States',
     authors: ['Scott Aaronson', 'Sabee Grewal'],
     year: 2023,
-    venue: 'TQC',
+    venue: 'TQC (Proceedings)',
     link: 'https://arxiv.org/abs/2102.10458',
     keywords: ['state learning', 'fermionic']
   },
@@ -1431,7 +1402,7 @@ const PAPERS = [
     title: 'Heisenberg-limited Hamiltonian learning continuous variable systems via engineered dissipation',
     authors: ['Tim Möbus', 'Andreas Bluhm', 'Tuvia Gefen', 'Yu Tong', 'Albert H. Werner', 'Cambyse Rouzé'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2506.00606',
     keywords: ['hamiltonian learning', 'continuous-variable']
   },
@@ -1439,7 +1410,7 @@ const PAPERS = [
     title: 'Learning k-body Hamiltonians via compressed sensing',
     authors: ['Muzhou Ma', 'Steven T. Flammia', 'John Preskill', 'Yu Tong'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.18928',
     keywords: ['hamiltonian learning']
   },
@@ -1447,7 +1418,7 @@ const PAPERS = [
     title: 'Heisenberg-limited Hamiltonian learning for interacting bosons',
     authors: ['Haoya Li', 'Yu Tong', 'Hongkang Ni', 'Tuvia Gefen', 'Lexing Ying'],
     year: 2024,
-    venue: 'npj Quantum Information',
+    venue: 'npj Quantum Inf.',
     link: 'https://arxiv.org/abs/2307.04690',
     keywords: ['hamiltonian learning', 'continuous-variable']
   },
@@ -1463,7 +1434,7 @@ const PAPERS = [
     title: 'Learning junta distributions, quantum junta states, and QAC0 circuits',
     authors: ['Jinge Bao', 'Francisco Escudero-Gutiérrez'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.15822v2',
     keywords: ['state learning', 'process learning']
   },
@@ -1479,7 +1450,7 @@ const PAPERS = [
     title: 'Sample Optimal and Memory Efficient Quantum State Tomography',
     authors: ['Yanglin Hu', 'Enrique Cervero-Martín', 'Elias Theil', 'Laura Mančinska', 'Marco Tomamichel'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.16220',
     keywords: ['state learning']
   },
@@ -1487,7 +1458,7 @@ const PAPERS = [
     title: 'Optimal Fidelity Estimation from Binary Measurements for Discrete and Continuous Variable Systems',
     authors: ['Omar Fawzi', 'Aadil Oufkir', 'Robert Salzmann'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2409.04189',
     keywords: ['property testing', 'continuous-variable']
   },
@@ -1495,7 +1466,7 @@ const PAPERS = [
     title: 'Learning State Preparation Circuits for Quantum Phases of Matter',
     authors: ['Hyun-Soo Kim', 'Isaac H. Kim', 'Daniel Ranard'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.23544',
     keywords: ['process learning']
   },
@@ -1519,7 +1490,7 @@ const PAPERS = [
     title: 'The learnability of Pauli noise',
     authors: ['Senrui Chen', 'Yunchao Liu', 'Matthew Otten', 'Alireza Seif', 'Bill Fefferman', 'Liang Jiang'],
     year: 2023,
-    venue: 'Nature Communications',
+    venue: 'Nat. Commun.',
     link: 'https://arxiv.org/abs/2206.06362',
     keywords: ['process learning']
   },
@@ -1559,7 +1530,7 @@ const PAPERS = [
     title: 'Efficient self-consistent learning of gate set Pauli noise',
     authors: ['Senrui Chen', 'Zhihan Zhang', 'Liang Jiang', 'Steven T. Flammia'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2410.03906',
     keywords: ['process learning']
   },
@@ -1583,7 +1554,7 @@ const PAPERS = [
     title: 'Entanglement-enhanced learning of quantum processes at scale',
     authors: ['Alireza Seif', 'Senrui Chen', 'Swarnadeep Majumder', 'Haoran Liao', 'Derek S. Wang', 'Moein Malekakhlagh', 'Ali Javadi-Abhari', 'Liang Jiang', 'Zlatko K. Minev'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2408.03376',
     keywords: ['process learning', 'property testing']
   },
@@ -1591,7 +1562,7 @@ const PAPERS = [
     title: 'Learning stabilizer structure of quantum states',
     authors: ['Srinivasan Arunachalam', 'Arkopal Dutt'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2510.05890',
     keywords: ['state learning', 'agnostic learning']
   },
@@ -1639,7 +1610,7 @@ const PAPERS = [
     title: 'Efficient tomography of a quantum many-body system',
     authors: ['B. P. Lanyon', 'C. Maier', 'M. Holzäpfel', 'T. Baumgratz', 'C. Hempel', 'P. Jurcevic', 'I. Dhand', 'A. S. Buyskikh', 'A. J. Daley', 'M. Cramer', 'M. B. Plenio', 'R. Blatt', 'C. F. Roos'],
     year: 2017,
-    venue: 'Nature Physics',
+    venue: 'Nat. Phys.',
     link: 'https://arxiv.org/abs/1612.08000',
     keywords: ['state learning']
   },
@@ -1647,7 +1618,7 @@ const PAPERS = [
     title: 'Learning finitely correlated states: stability of the spectral reconstruction',
     authors: ['Marco Fanizza', 'Niklas Galke', 'Josep Lumbreras', 'Cambyse Rouzé', 'Andreas Winter'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2312.07516',
     keywords: ['state learning']
   },
@@ -1679,7 +1650,7 @@ const PAPERS = [
     title: 'Strong random unitaries and fast scrambling',
     authors: ['Thomas Schuster', 'Fermi Ma', 'Alex Lombardi', 'Fernando Brandao', 'Hsin-Yuan Huang'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2509.26310',
     keywords: ['pseudorandomness']
   },
@@ -1687,7 +1658,7 @@ const PAPERS = [
     title: 'Will it glue? On short-depth designs beyond the unitary group',
     authors: ['Lorenzo Grevink', 'Jonas Haferkamp', 'Markus Heinrich', 'Jonas Helsen', 'Marcel Hinsche', 'Thomas Schuster', 'Zoltán Zimborás'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://www.arxiv.org/abs/2506.23925',
     keywords: ['pseudorandomness']
   },
@@ -1703,7 +1674,7 @@ const PAPERS = [
     title: 'Learning quantum systems via out-of-time-order correlators',
     authors: ['Thomas Schuster', 'Murphy Niu', 'Jordan Cotler', 'Thomas E. O’Brien', 'Jarrod R. McClean', 'Masoud Mohseni'],
     year: 2023,
-    venue: 'PRR',
+    venue: 'PRResearch',
     link: 'https://arxiv.org/abs/2208.02254',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1711,7 +1682,7 @@ const PAPERS = [
     title: 'Quantum Algorithmic Measurement',
     authors: ['Dorit Aharonov', 'Jordan Cotler', 'Xiao-Liang Qi'],
     year: 2022,
-    venue: 'Nature Communications',
+    venue: 'Nat. Commun.',
     link: 'https://arxiv.org/abs/2101.04634',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1719,7 +1690,7 @@ const PAPERS = [
     title: 'Hamiltonian Property Testing',
     authors: ['Andreas Bluhm', 'Matthias C. Caro', 'Aadil Oufkir'],
     year: 2024,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2403.02968',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1727,7 +1698,7 @@ const PAPERS = [
     title: 'Unitarity estimation for quantum channels',
     authors: ['Kean Chen', 'Qisheng Wang', 'Peixun Long',' Mingsheng Ying'],
     year: 2023,
-    venue: 'IEEE Transactions on Information Theory',
+    venue: 'IEEE Trans. Inf. Theory',
     link: 'https://arxiv.org/abs/2212.09319',
     keywords: ['process learning']
   },
@@ -1743,7 +1714,7 @@ const PAPERS = [
     title: 'Few Single-Qubit Measurements Suffice to Certify Any Quantum State',
     authors: ['Meghal Gupta', 'William He', 'Ryan O’Donnell'],
     year: 2025,
-    venue: 'arXiv',
+    venue: 'arXiv (Preprint)',
     link: 'https://arxiv.org/abs/2506.11355',
     keywords: ['certification']
   },
@@ -1751,7 +1722,7 @@ const PAPERS = [
     title: 'Low rank matrix recovery from rank one measurements',
     authors: ['Richard Kueng', 'Holger Rauhut', 'Ulrich Terstiege'],
     year: 2017,
-    venue: 'Applied and Computational Harmonic Analysis',
+    venue: 'ACHA',
     link: 'https://arxiv.org/abs/1410.6913',
     keywords: ['state learning']
   },
@@ -1795,6 +1766,7 @@ const PAPERS = [
 const $list = document.getElementById('list');
 const $q = document.getElementById('q');
 const $fYear = document.getElementById('fYear');
+const $fVenue = document.getElementById('fVenue');
 const $bar = document.getElementById('keywordBar');
 const $count = document.getElementById('resultCount');
 const selectedKeywords = new Set();
@@ -1820,6 +1792,12 @@ function hydrateYearOptions(){
   years.forEach(y=>{ const o=document.createElement('option'); o.value=String(y); o.textContent=String(y); $fYear.appendChild(o); });
 }
 
+function hydrateVenueOptions(){
+  const venues = [...new Set(PAPERS.map(p => (p.venue || '').trim()).filter(v => v))].sort((a,b)=>a.localeCompare(b));
+  const all = document.createElement('option'); all.value=''; all.textContent='All venues'; $fVenue.appendChild(all);
+  venues.forEach(v => { const o=document.createElement('option'); o.value=v; o.textContent=v; $fVenue.appendChild(o); });
+}
+
 function matchQuery(p, q){
   if (!q) return true;
   const hay = [p.title, p.venue, p.authors.join(' '), (p.tags||[]).join(' '), (p.note||''), (p.keywords||[]).join(' ')].join(' ').toLowerCase();
@@ -1839,20 +1817,23 @@ function groupByYear(items){
     if (!map.has(it.year)) map.set(it.year, []);
     map.get(it.year).push(it);
   }
-
   for (const [year, list] of map.entries()){
     list.sort((a, b) => a.title.localeCompare(b.title));
   }
-
   return [...map.entries()].sort((a,b)=>b[0]-a[0]);
 }
-
 
 function render(){
   const q = ($q.value||'').trim().toLowerCase();
   const y = $fYear.value;
+  const v = $fVenue.value;
 
-  const filtered = PAPERS.filter(p => matchQuery(p, q) && matchKeywords(p) && (!y || String(p.year) === y));
+  const filtered = PAPERS.filter(p =>
+    matchQuery(p, q) &&
+    matchKeywords(p) &&
+    (!y || String(p.year) === y) &&
+    (!v || (p.venue || '').trim() === v)
+  );
 
   $count.textContent = `${filtered.length} result${filtered.length===1?'':'s'}`;
   $list.innerHTML = '';
@@ -1888,8 +1869,11 @@ function renderPub(p){
 
 $q.addEventListener('input', render);
 $fYear.addEventListener('input', render);
+$fVenue.addEventListener('input', render);
+
 buildKeywordBar();
 hydrateYearOptions();
+hydrateVenueOptions();
 render();
 
 </script>
