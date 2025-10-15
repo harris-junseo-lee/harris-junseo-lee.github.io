@@ -51,7 +51,7 @@ Since my undergraduate years, I have been part of the Quantum Information Theory
 
 You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
 
-I maintain the [Quantum Learning Theory Zoo](/quantum-learning-theory-references/). If you're interested in quantum learning theory, you might enjoy exploring it!
+<b>I maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></b>, a curated reference page for key works in quantum learning theory. If you're interested in this rapidly growing field, feel free to explore and share it!
 
 ---
 #### Research Interests
