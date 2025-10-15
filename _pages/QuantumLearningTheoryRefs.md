@@ -80,10 +80,65 @@ nav_order: 7
             (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) 
             For feedback or corrections, contact <code>harris.junseo(at)gmail.com</code>.<br><br>
           </span>
+          <!-- About section -->
+          <span style="font-size:0.9em; color:#555;">
+            <details class="about">
+              <summary><b>About this zoo</b></summary>
+              <div style="margin-top:6px; font-size:0.95em; color:#333;">
+                <p style="margin:6px 0;">
+                  This page focuses on <b>learning and testing algorithms for understanding quantum systems</b> and does 
+                  <em>not</em> cover <q>(variational) quantum machine learning models</q> (e.g., QCNNs, QGANs).
+                </p>
+                <p style="margin:6px 0;">
+                  In the keyword classification, <em>Hamiltonian learning</em> includes certain algorithms designed for quantum many-body systems.
+                </p>
+                <p style="margin:6px 0;">
+                  Within each year, papers are <i>sorted alphabetically by title</i>.
+                </p>
+                <p style="margin:6px 0;">
+                  When both arXiv and published (journal or conference) versions exist, the <i>most recent publication year</i> is shown,  
+                  and all paper links point to the <i>arXiv version</i>.
+                </p>
+              </div>
+            </details>
+          </span>
+          <!-- Friends of this zoo section -->
+          <span style="font-size:0.9em; color:#555;">
+            <details class="about">
+              <summary>Friends of this zoo 🐾</summary>
+              <div style="margin-top:6px; font-size:0.95em; color:#333;">
+                <p style="margin:6px 0;">
+                  This project is inspired by other remarkable “zoo” collections in quantum information and theoretical computer science:
+                </p>
+                <ul style="margin:6px 0 6px 20px;">
+                  <li><a href="https://quantumalgorithmzoo.org/" target="_blank" rel="noopener">Quantum Algorithm Zoo</a></li>
+                  <li><a href="https://complexityzoo.net/Complexity_Zoo" target="_blank" rel="noopener">Complexity Zoo</a></li>
+                  <li><a href="https://errorcorrectionzoo.org/" target="_blank" rel="noopener">Error Correction Zoo</a></li>
+                  <li><a href="https://wiki.veriqloud.fr/index.php?title=Main_Page" target="_blank" rel="noopener">Quantum Protocol Zoo</a></li>
+                </ul>
+              </div>
+            </details>
+          </span>
+          <!-- Useful resources on quantum learning theory -->
+          <span style="font-size:0.9em; color:#555;">
+            <details class="about">
+              <summary>Useful resources on quantum learning theory 📚</summary>
+              <div style="margin-top:6px; font-size:0.95em; color:#333;">
+                <p style="margin:6px 0;">Courses and workshops for those interested in learning theory aspects of quantum information:</p>
+                <ul style="margin:6px 0 6px 20px;">
+                  <li><a href="https://harvard-quantum-learning.github.io/" target="_blank" rel="noopener">Harvard Quantum Learning Theory Course (Fall 2025)</a> (Sitan Chen, Jordan Cotler)</li>
+                  <li><a href="https://caltech-quantum-learning-theory.github.io/" target="_blank" rel="noopener">Caltech Quantum Learning Theory Course (Fall 2025)</a> (Hsin-Yuan Huang)</li>
+                  <li><a href="https://people.eecs.berkeley.edu/~jswright/quantumlearningtheory24/" target="_blank" rel="noopener">UC Berkeley Quantum Learning Theory Course (Fall 2024)</a> (John Wright)</li>
+                  <li><a href="https://jerryzli.github.io/focs24-workshop.html" target="_blank" rel="noopener">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
+                  <li><a href="https://aims-quantum-learning-and-testing.github.io/" target="_blank" rel="noopener">1st AIMS Workshop and School on the Theory of Quantum Learning Algorithms</a></li>
+                  <li><a href="https://youtube.com/playlist?list=PL26QpnXK4-QV0mg5-4t3V_3hrLKJE8Lry&si=B8DioQb_fwhUnSYS" target="_blank" rel="noopener">QIP 2025 Learning and Tomography Session Recordings</a></li>
+                </ul>
+              </div>
+            </details>
+          </span>
         </div>
       </div>
     </header>
-
     <div class="panel">
       <div class="controls">
         <label class="search" title="Search by title, author, venue, or free keywords">
