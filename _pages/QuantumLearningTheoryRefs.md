@@ -75,22 +75,20 @@ nav_order: 7
         <div class="desc">
           A curated list of research papers and key references in quantum learning theory. 
           Use keyword chips (multi-select) and the year filter to narrow results.<br><br>
-          <span style="font-size:0.9em; color:#555;">
-            Last updated: <b>October 15, 2025</b> · Maintained by <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a>. 
-            (This list may not be fully exhaustive, but efforts are made to keep it as up to date as possible.) 
-            For feedback or corrections, contact <code>harris.junseo(at)gmail.com</code>.<br><br>
+          <span style="font-size:0.9em; color:#555; line-height:1.5;">
+            <b>Zookeeper:</b> <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a><br>
+            <b>Last updated:</b> October 16, 2025, 01:36 UTC<br>
+            <b>Contact:</b> <code>harris.junseo(at)gmail.com</code>
+            <span style="font-size:0.9em; color:#666;">(This list may not be fully exhaustive, but I do my best to keep it up to date.  If you know of any missing papers, have suggestions, or would like to collaborate, please feel free to get in touch anytime!)</span><br><br>
           </span>
           <!-- About section -->
           <span style="font-size:0.9em; color:#555;">
             <details class="about">
-              <summary><b>About this zoo</b></summary>
+              <summary>About this zoo</summary>
               <div style="margin-top:6px; font-size:0.95em; color:#333;">
                 <p style="margin:6px 0;">
                   This page focuses on <b>learning and testing algorithms for understanding quantum systems</b> and does 
                   <em>not</em> cover <q>(variational) quantum machine learning models</q> (e.g., QCNNs, QGANs).
-                </p>
-                <p style="margin:6px 0;">
-                  In the keyword classification, <em>Hamiltonian learning</em> includes certain algorithms designed for quantum many-body systems.
                 </p>
                 <p style="margin:6px 0;">
                   Within each year, papers are <i>sorted alphabetically by title</i>.
@@ -99,6 +97,31 @@ nav_order: 7
                   When both arXiv and published (journal or conference) versions exist, the <i>most recent publication year</i> is shown,  
                   and all paper links point to the <i>arXiv version</i>.
                 </p>
+                <p style="margin:6px 0;">
+                  Conference talks without official proceedings (e.g., <b>QIP</b>, <b>QTML</b>) are <em>not</em> included in the venue list. For <b>TQC</b>, only papers that appeared in its <i>proceedings track</i> are reflected.
+                </p>
+              </div>
+            </details>
+          </span>
+          <!-- Keyword descriptions -->
+          <span style="font-size:0.9em; color:#555;">
+            <details class="about">
+              <summary>Keyword descriptions 🔍</summary>
+              <div style="margin-top:6px; font-size:0.95em; color:#333;">
+                <ul style="margin:6px 0 6px 20px;">
+                  <li><span style="color:#004080;">State Learning:</span> Covers quantum state tomography and related estimation problems.</li>
+                  <li><span style="color:#004080;">Process Learning:</span> Includes learning of quantum channels, unitaries, and circuits.</li>
+                  <li><span style="color:#004080;">Agnostic Learning:</span> Studies learning without assuming the data-generating process fits a specific quantum model.</li>
+                  <li><span style="color:#004080;">Hamiltonian Learning:</span> Focuses on learning unknown Hamiltonians, including algorithms for quantum many-body systems.</li>
+                  <li><span style="color:#004080;">PAC Learning:</span> Explores Probably Approximately Correct (PAC) frameworks adapted to quantum settings.</li>
+                  <li><span style="color:#004080;">Boolean Function:</span> Relates to quantum learning of Boolean functions and Fourier analysis on the Boolean cube.</li>
+                  <li><span style="color:#004080;">Property Testing:</span> Concerns testing global properties of quantum states or processes.</li>
+                  <li><span style="color:#004080;">Certification:</span> Addresses verification and certification of quantum states, channels, or devices.</li>
+                  <li><span style="color:#004080;">Continuous-Variable:</span> Studies learning-theoretic problems in bosonic systems with infinite-dimensional Hilbert spaces.</li>
+                  <li><span style="color:#004080;">Fermionic:</span> Deals with learning problems involving fermionic quantum systems.</li>
+                  <li><span style="color:#004080;">Pseudorandomness:</span> Involves unitary designs, random unitaries, and pseudorandom quantum states related to quantum learning and lower bounds.</li>
+                  <li><span style="color:#004080;">Survey:</span> Includes review and overview papers summarizing progress in quantum learning theory.</li>
+                </ul>
               </div>
             </details>
           </span>
@@ -129,6 +152,7 @@ nav_order: 7
                   <li><a href="https://harvard-quantum-learning.github.io/" target="_blank" rel="noopener">Harvard Quantum Learning Theory Course (Fall 2025)</a> (Sitan Chen, Jordan Cotler)</li>
                   <li><a href="https://caltech-quantum-learning-theory.github.io/" target="_blank" rel="noopener">Caltech Quantum Learning Theory Course (Fall 2025)</a> (Hsin-Yuan Huang)</li>
                   <li><a href="https://people.eecs.berkeley.edu/~jswright/quantumlearningtheory24/" target="_blank" rel="noopener">UC Berkeley Quantum Learning Theory Course (Fall 2024)</a> (John Wright)</li>
+                  <li><a href="https://warwick.ac.uk/fac/sci/dcs/people/matthias_caro/reading-group-quantum-learning-and-testing/" target="_blank" rel="noopener">Warwick Quantum Learning and Testing Reading Group</a> (Matthias C. Caro)</li>
                   <li><a href="https://jerryzli.github.io/focs24-workshop.html" target="_blank" rel="noopener">FOCS 2024 Workshop: Recent Advances in Quantum Learning</a></li>
                   <li><a href="https://aims-quantum-learning-and-testing.github.io/" target="_blank" rel="noopener">1st AIMS Workshop and School on the Theory of Quantum Learning Algorithms</a></li>
                   <li><a href="https://youtube.com/playlist?list=PL26QpnXK4-QV0mg5-4t3V_3hrLKJE8Lry&si=B8DioQb_fwhUnSYS" target="_blank" rel="noopener">QIP 2025 Learning and Tomography Session Recordings</a></li>
@@ -614,7 +638,7 @@ const PAPERS = [
     keywords: ['hamiltonian learning']
   },
   {
-    title: 'Clifford circuits can be properly PAC learned if and only if RP = NP',
+    title: 'Clifford circuits can be properly PAC learned if and only if RP=NP',
     authors: ['Daniel Liang'],
     year: 2022,
     venue: 'Quantum',
@@ -1217,7 +1241,7 @@ const PAPERS = [
     title: 'Adversarially robust quantum state learning and testing',
     authors: ['Maryam Aliakbarpour', 'Vladimir Braverman', 'Nai-Hui Chia', 'Yuhan Liu'],
     year: 2025,
-    venue: 'arXiv (Preprint)',
+    venue: 'FOCS',
     link: 'https://arxiv.org/abs/2508.13959',
     keywords: ['state learning', 'property testing']
   },
@@ -1297,7 +1321,7 @@ const PAPERS = [
     title: 'Hamiltonian Locality Testing via Trotterized Postselection',
     authors: ['John Kallaugher', 'Daniel Liang'],
     year: 2025,
-    venue: 'arXiv (Preprint)',
+    venue: 'TQC (Proceedings)',
     link: 'https://arxiv.org/abs/2505.06478',
     keywords: ['property testing', 'hamiltonian learning']
   },
@@ -1427,7 +1451,7 @@ const PAPERS = [
     year: 2025,
     venue: 'Quantum',
     link: 'https://arxiv.org/abs/2404.03585',
-    keywords: ['state learning', 'fermionic']
+    keywords: ['state learning', 'PAC learning', 'fermionic']
   },
   {
     title: 'Efficient learning of quantum states prepared with few fermionic non-Gaussian gates',
@@ -1812,6 +1836,150 @@ const PAPERS = [
     venue: 'SODA',
     link: 'https://arxiv.org/abs/2207.08800',
     keywords: ['state learning']
+  },
+  {
+    title: 'Provable Advantage in Quantum PAC Learning',
+    authors: ['Wilfred Salmon', 'Sergii Strelchuk', 'Tom Gur'],
+    year: 2024,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2309.10887',
+    keywords: ['PAC learning']
+  },
+  {
+    title: 'Improved algorithms for learning quantum Hamiltonians, via flat polynomials',
+    authors: ['Shyam Narayanan'],
+    year: 2025,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2407.04540',
+    keywords: ['hamiltonian learning']
+  },
+  {
+    title: 'The role of shared randomness in quantum state certification with unentangled measurements',
+    authors: ['Yuhan Liu', 'Jayadev Acharya'],
+    year: 2024,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2401.09650',
+    keywords: ['certification']
+  },
+  {
+    title: 'Information-theoretic generalization bounds for learning from quantum data',
+    authors: ['Matthias Caro', 'Tom Gur', 'Cambyse Rouzé', 'Daniel Stilck França', 'Sathyawageeswar Subramanian'],
+    year: 2024,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2311.05529',
+    keywords: ['PAC learning', 'state learning']
+  },
+  {
+    title: 'Testing and Learning Quantum Juntas Nearly Optimally',
+    authors: ['Thomas Chen', 'Shivam Nadimpalli', 'Henry Yuen'],
+    year: 2023,
+    venue: 'SODA',
+    link: 'https://arxiv.org/abs/2207.05898',
+    keywords: ['process learning', 'boolean function', 'property testing']
+  },
+  {
+    title: 'On Testing and Learning Quantum Junta Channels',
+    authors: ['Zongbo Bao', 'Penghui Yao'],
+    year: 2023,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2305.12097',
+    keywords: ['process learning', 'boolean function', 'property testing']
+  },
+  {
+    title: 'Covert Quantum Learning: Privately and Verifiably Learning from Quantum Data',
+    authors: ['Abhishek Anand', 'Matthias C. Caro', 'Ari Karchmer', 'Saachi Mutreja'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2510.07193',
+    keywords: ['certification', 'property testing', 'state learning']
+  },
+  {
+    title: 'Testing classical properties from quantum data',
+    authors: ['Matthias C. Caro', 'Preksha Naik', 'Joseph Slote'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2411.12730',
+    keywords: ['property testing', 'boolean function']
+  },
+  {
+    title: 'Interactive proofs for verifying (quantum) learning and testing',
+    authors: ['Matthias C. Caro', 'Jens Eisert', 'Marcel Hinsche', 'Marios Ioannou', 'Alexander Nietner', 'Ryan Sweke'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2410.23969',
+    keywords: ['property testing', 'state learning']
+  },
+  {
+    title: 'Online learning of quantum processes',
+    authors: ['Asad Raza', 'Matthias C. Caro', 'Jens Eisert', 'Sumeet Khatri'],
+    year: 2024,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2406.04250',
+    keywords: ['process learning']
+  },
+  {
+    title: 'Classical Verification of Quantum Learning',
+    authors: ['Matthias C. Caro', 'Marcel Hinsche', 'Marios Ioannou', 'Alexander Nietner', 'Ryan Sweke'],
+    year: 2024,
+    venue: 'ITCS',
+    link: 'https://arxiv.org/abs/2306.04843',
+    keywords: ['boolean function', 'agnostic learning']
+  },
+  {
+    title: 'Dissipation-enabled bosonic Hamiltonian learning via new information-propagation bounds',
+    authors: ['Tim Möbus', 'Andreas Bluhm', 'Matthias C. Caro', 'Albert H. Werner', 'Cambyse Rouzé'],
+    year: 2023,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2307.15026',
+    keywords: ['hamiltonian learning', 'continuous-variable']
+  },
+  {
+    title: 'Quantum state testing with restricted measurements',
+    authors: ['Yuhan Liu', 'Jayadev Acharya'],
+    year: 2024,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2408.17439',
+    keywords: ['property testing']
+  },
+  {
+    title: 'Efficient Closest Matrix Product State Learning in Logarithmic Depth',
+    authors: ['Chia-Ying Lin', 'Nai-Hui Chia', 'Shih-Han Hung'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2510.07798',
+    keywords: ['state learning']
+  },
+  {
+    title: 'Efficient learning of t-doped stabilizer states with single-copy measurements',
+    authors: ['Nai-Hui Chia', 'Ching-Yi Lai', 'Han-Hsuan Lin'],
+    year: 2024,
+    venue: 'Quantum',
+    link: 'https://arxiv.org/abs/2308.07014',
+    keywords: ['state learning']
+  },
+  {
+    title: 'Quantum State Learning Implies Circuit Lower Bounds',
+    authors: ['Nai-Hui Chia', 'Daniel Liang', 'Fang Song'],
+    year: 2025,
+    venue: 'COLT',
+    link: 'https://arxiv.org/abs/2405.10242',
+    keywords: ['state learning']
+  },
+  {
+    title: 'Tolerant Testing of Stabilizer States with Mixed State Inputs',
+    authors: ['Vishnu Iyer', 'Daniel Liang'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2411.08765',
+    keywords: ['property testing']
+  },
+  {
+    title: 'On the Hardness of PAC-learning Stabilizer States with Noise',
+    authors: ['Aravind Gollakota', 'Daniel Liang'],
+    year: 2022,
+    venue: 'Quantum',
+    link: 'https://arxiv.org/abs/2102.05174',
+    keywords: ['PAC learning', 'state learning']
   },
 
 ];
