@@ -5,9 +5,9 @@ permalink: /
 subtitle:
 
 profile:
-  align: right
-  image: harris.jpg
-  image_circular: true # crops the image to make it circular
+  align: left
+  image: junseo.jpg
+  image_circular: false # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
@@ -41,13 +41,13 @@ social: false # includes social icons at the bottom of the page
 #### About Me
 Hello! I’m Junseo Lee, also known as Harris.
 
-I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Scholarship](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. 
+I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Foundation](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. 
 
-Since my undergraduate years, I have been part of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, initially as a research assistant and now as a research associate, continuing my work with the group. For more details, you can find my CV [here](/assets/pdf/CV.pdf).
+Since my undergraduate years, I have been part of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, initially as a research assistant and now as a research associate, continuing my work with the group. For more details, you can find my [<b>CV</b>](/assets/pdf/CV.pdf).
+
 
 <b>Contact:</b> For collaborations or research discussions, feel free to reach out at:<br>
-📧 harris (dot) [first name, all lowercase] (at) gmail.com
-
+📧 <code>harris (dot) [first name, all lowercase] (at) gmail.com</code>
 
 You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
 
@@ -63,7 +63,7 @@ Recently, my primary research focuses on the following topics:
 - Quantum Shannon theory and mathematical physics  
 - Continuous-variable quantum systems
 
-I am also generally interested in algebraic geometry, statistical learning theory, and theoretical computer science. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
+I am also generally interested in applied mathematics, statistical learning theory, and theoretical computer science. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
 
 <!-- <div style="padding-left: 20px;">
   <details>
@@ -113,9 +113,6 @@ I am also generally interested in algebraic geometry, statistical learning theor
 - <b>Efficient learning of bosonic Gaussian unitaries<br></b>
 (α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
 [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
-- <b>Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis<br></b>
-Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
-[arXiv:2508.01516](https://arxiv.org/abs/2508.01516) (2025). <br>
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
 [<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>

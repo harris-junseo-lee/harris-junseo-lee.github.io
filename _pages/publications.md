@@ -68,7 +68,7 @@ Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</su
 Featured as Monthly News (August 2025) in [<i>Property Testing Review</i>](https://ptreview.sublinear.info/2025/09/news-for-august-2025/).
 
 1. <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br></b>
-Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Mingyu Lee, Dongwha Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
 [<i>Physical Review A</i> <b>110</b>, 062418](https://doi.org/10.1103/PhysRevA.110.062418) (2024).
 
 1. <b>Estimating quantum mutual information through a quantum neural network<br></b>
