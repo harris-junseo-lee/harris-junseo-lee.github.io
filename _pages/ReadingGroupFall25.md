@@ -81,7 +81,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">2</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity Theory for NISQ Devices</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Sung-Bin Lee <a href="/assets/pdf/QC_reading/251011_Complexity of NISQ.pdf">[Slides]</a></span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Sung-Bin Lee <a href="/assets/pdf/QC_reading/2_NISQComplexity.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2210.07234">[CCHL'22] The Complexity of NISQ</a></li>
@@ -91,7 +91,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">3</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Complexity Theory, Unitary Designs, and Randomness</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Seonggeun Park</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Seonggeun Park <a href="/assets/pdf/QC_reading/3_ComplexityGrowth.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/1912.04297">[BCHKP'19] Models of quantum complexity growth</a></li>
@@ -101,10 +101,11 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">4</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Understanding BQP</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jaehun Han</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jaehun Han  <a href="/assets/pdf/QC_reading/4_BQP.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2111.10409">[AIK'24] The Acrobatics of BQP</a></li>
+          <li><a href="https://arxiv.org/abs/2508.02514">[GS'25] Forrelation is Extremally Hard</a></li>
         </ul>
       </td>
     </tr>
