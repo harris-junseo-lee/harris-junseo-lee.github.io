@@ -6,10 +6,10 @@ description:
 nav: true
 nav_order: 3
 ---
-- [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a full list under chronological/citations order.
-- Co-first authors with equal contributions are marked with an star (✶). 
-- Alphabetic ordering in theoretical computer science is indicated by (α−β).
-- Selected publications are labeled by :books:.
+- [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a complete list of publications, sortable by date or citation count.
+- Co-first authors with equal contributions are marked with an asterisk (✻).
+- Alphabetical author ordering, as commonly used in theoretical computer science, is indicated by (α–β).
+- Selected publications are labeled with :books:.
 
 ---
 <html>
@@ -44,10 +44,6 @@ nav_order: 3
 Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
 [arXiv:2508.01516](https://arxiv.org/abs/2508.01516) (2025). <br>
 
-1. <b>Bounding quantum uncommon information with quantum neural estimators<br></b>
-Donghwa Ji, <b><span style="color:navy">Junseo Lee</span></b>, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
-[arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
-
 1. :books: <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br></b>
 (α−β) Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee</span></b><br>
 [arXiv:2506.19792](https://www.arxiv.org/abs/2506.19792) (2025). <br>
@@ -58,17 +54,21 @@ Donghwa Ji, <b><span style="color:navy">Junseo Lee</span></b>, Myeongjin Shin, I
 
 ---
 ##### Journal Articles
+1. <b>Bounding quantum uncommon information with quantum neural estimators<br></b>
+Donghwa Ji, <b><span style="color:navy">Junseo Lee</span></b>, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
+Accepted in Quantum Science and Technology. [arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
+
 1. <b>Mutual information maximizing quantum generative adversarial networks<br></b>
 Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
 [<i>Scientific Reports</i> <b>15</b>, 32835](https://doi.org/10.1038/s41598-025-18476-y) (2025). <br>
 
 1. :books: <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
-Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
 [<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>
 Featured as Monthly News (August 2025) in [<i>Property Testing Review</i>](https://ptreview.sublinear.info/2025/09/news-for-august-2025/).
 
 1. <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures<br></b>
-Myeongjin Shin<sup>✶</sup>, Seungwoo Lee<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✻</sup>, Seungwoo Lee<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
 [<i>Physical Review A</i> <b>110</b>, 062418](https://doi.org/10.1103/PhysRevA.110.062418) (2024).
 
 1. <b>Estimating quantum mutual information through a quantum neural network<br></b>
@@ -109,5 +109,5 @@ Korea Patent: App. No. 10-2024-0104765 (2024).
 ---
 ##### Conference Abstracts
 - <b>Quantum multiple kernel learning with entropy power inequalities<br></b>
-Ju-Young Ryu<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Tak Hur, Daniel K. Park<br>
+Ju-Young Ryu<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Tak Hur, Daniel K. Park<br>
 <i>Quantum Techniques in Machine Learning (QTML)</i> (2025).

@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: The presentation list is categorized into my research paper talks, tutorial lectures, and others.
+description: The presentation list is categorized into research paper talks and invited tutorial lectures.
 nav: true
 nav_order: 4
 ---
@@ -30,62 +30,57 @@ nav_order: 4
 </html>
 
 
-##### My Research Papers
-- **Efficient learning of bosonic Gaussian unitaries**<br>
-**<span style="color:navy;">Invited talk</span>** at the 6th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Nov. 11st, 2025)<br>
-**<span style="color:navy;">Invited talk</span>** (by [Vishnu Iyer](https://vishnuiyer.org/)) at the [1st AIMS Workshop and School on The Theory of Quantum Learning Algorithms](https://aims-quantum-learning-and-testing.github.io/) (Oct 2025)<br>
 
-- **New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes**<br>
-**<span style="color:navy;">Invited talk</span>** at the 5th Korea Institute of Science and Technology Information-Seoul National University Joint Workshop (Jun. 16th, 2025)<br>
+##### Research Talks
+
+- **Efficient learning of bosonic Gaussian unitaries** <br>
+**<span style="color:navy;">Invited talk</span>**, Annual Meeting of the Quantum Information Society of Korea (QISK), *Seoul, Korea* — Feb. 2026 (Upcoming)<br>
+**<span style="color:navy;">Invited talk</span>**, [N³etFraST Workshop](https://www.nnnetfrast.kr/), *Seoul, Korea* — Nov. 2025<br>
+**<span style="color:navy;">Invited talk</span>**, Quantum Data Science & AI (Q-DNA) Lab, *Yonsei University, Seoul, Korea* — Nov. 2025<br>
+**<span style="color:navy;">Invited talk</span>** (by [Vishnu Iyer](https://vishnuiyer.org/)), [1st AIMS Workshop and School on The Theory of Quantum Learning Algorithms](https://aims-quantum-learning-and-testing.github.io/), *Cape Town, South Africa* — Oct. 2025<br>
+
+- **New aspects of quantum topological data analysis**  <br>
+**<span style="color:navy;">Invited talk</span>**, KISTI–SNU Joint Workshop, *Daejeon, Korea* — Jun. 2025<br>
 
 - **Resource-efficient algorithm for estimating the trace of quantum state powers** [<a href="/assets/pdf/rank_qst.pdf" target="_blank">Slide</a>], [<a href="/assets/pdf/rank_poster.pdf" target="_blank">Poster</a>]<br>
-**<span style="color:navy;">Invited talk</span>** at Electronics and Telecommunications Research Institute (Dec. 18th, 2024)<br>
-**<span style="color:navy;">Invited talk</span>** at Seoul National University QST Seminar (Dec. 13th, 2024)<br>
-**<span style="color:navy;">Invited talk</span>** at IBM-Yonsei Qiskit Fall Fest 2024 (Nov. 7th, 2024)<br>
-**<span style="color:navy;">Invited talk</span>** at the 4th Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Oct. 15th, 2024)<br>
-**<span style="color:navy;">Contributed talk</span>** at the Annual Meeting of Korean Mathematical Society (Oct. 25th, 2024)<br>
-**<span style="color:navy;">Poster</span>** at the 28th Quantum Information Processing Conference (QIP 2025)<br>
+**<span style="color:navy;">Invited talk</span>**, Quantum Computing Lab, *Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea* — Dec. 2024<br>
+**<span style="color:navy;">Invited talk</span>**, [Quantum Information Theory Seminar (QST Seminar)](https://sites.google.com/view/team-qst/qst-seminar), *Seoul National University, Seoul, Korea* — Dec. 2024<br>
+**<span style="color:navy;">Invited talk</span>**, [IBM–Yonsei Qiskit Fall Fest](https://qiya-yonsei.github.io/), *Seoul, Korea* — Nov. 2024<br>
+**<span style="color:navy;">Invited talk</span>**, KISTI–KU–SNU Joint Workshop, *Seoul, Korea* — Oct. 2024<br>
+**<span style="color:navy;">Contributed talk</span>**, Annual Meeting of the Korean Mathematical Society (KMS), *Suwon, Korea* — Oct. 2024<br>
+**<span style="color:navy;">Poster</span>**, Annual Quantum Information Processing Conference (QIP 2025), *Raleigh, NC, USA* — Feb. 2025<br>
 
-- **Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures**<br>
-**<span style="color:navy;">Contributed talk</span>** at the Spring Meeting of the Korean Physical Society (Apr. 25th, 2024)<br>
-**<span style="color:navy;">Contributed talk</span>** at the Annual Meeting of the Quantum Information Society of Korea (Apr. 23rd, 2024)<br>
-**<span style="color:navy;">Poster</span>** at the 27th Quantum Information Processing Conference (QIP 2024)<br>
+- **Mutual information maximizing quantum generative adversarial network**  <br>
+**<span style="color:navy;">Invited talk</span>**, [Triangle Quantum Computing Seminar](https://quantum.ncsu.edu/quantum-seminars/), *UNC Kenan-Flagler’s Rethinc. Labs, Raleigh, NC, USA* — Nov. 2023<br>
 
-- **Estimating quantum mutual information through a quantum neural network**<br>
-**<span style="color:navy;">Invited talk</span>** at National Institute of Science Education and Research Bhubaneswar (Aug. 18th, 2023)<br>
-**<span style="color:navy;">Poster</span>** at the 18th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2023)<br>
+- **Estimating quantum mutual information through a quantum neural network**  <br>
+**<span style="color:navy;">Invited talk</span>**, [CS Katha Barta](https://www.niser.ac.in/~smishra/event/cskathabarta/archive/2023.html), *National Institute of Science Education and Research (NISER) Bhubaneswar, India* — Aug. 2023<br>
 
-- **Quantum Rényi entropy functionals for bosonic gaussian systems**<br>
-**<span style="color:navy;">Contributed talk</span>** at the Annual Meeting of the Korean Society for Industrial and Applied Mathematics (Dec. 3rd, 2021)<br>
-**<span style="color:navy;">Poster</span>** at the 25th Quantum Information Processing Conference (QIP 2022)<br>
+- **Quantum Rényi entropy functionals for bosonic Gaussian systems**  <br>
+**<span style="color:navy;">Poster</span>**, Annual Quantum Information Processing Conference (QIP 2022), *Pasadena, CA, USA* — Mar. 2022<br>
 
-- **Mutual information maximizing quantum generative adversarial network**<br>
-**<span style="color:navy;">Invited talk</span>** at North Carolina State University Triangle Quantum Computing Seminar (Nov. 3rd, 2023)<br>
-**<span style="color:navy;">Poster</span>** at the 27th Quantum Information Processing Conference (QIP 2024)<br>
-
-- **High-dimensional private quantum channels, epsilon-randomizing maps and regular polytopes**<br>
-**<span style="color:navy;">Invited talk</span>** at the 2nd Korea Institute of Science and Technology Information-Korea University-Seoul National University Joint Workshop (Sep. 22nd, 2023)<br>
-**<span style="color:navy;">Invited talk</span>** at Seoul National University QST Seminar (Aug. 27th, 2021)<br>
-**<span style="color:navy;">Contributed talk</span>** at Center for Quantum Network’s Channel Capacity Winter Kick-off Workshop (Jan. 15th, 2023)<br>
-**<span style="color:navy;">Contributed talk</span>** at the Winter Meeting of the Optical Society of Korea (Feb. 17th, 2022)<br>
-**<span style="color:navy;">Contributed talk</span>** at the Fall Meeting of the Korean Physical Society (Oct. 21st, 2021)<br>
-**<span style="color:navy;">Poster</span>** at the 25th Quantum Information Processing Conference (QIP 2022)<br>
+- **High-dimensional private quantum channels, ε-randomizing maps and regular polytopes**  <br>
+**<span style="color:navy;">Invited talk</span>**, KISTI–KU–SNU Joint Workshop, *Seoul, Korea* — Sep. 2023<br>
+**<span style="color:navy;">Invited talk</span>**, [Quantum Information Theory Seminar (QST Seminar)](https://sites.google.com/view/team-qst/qst-seminar), *Seoul National University, Seoul, Korea* — Aug. 2021<br>
+**<span style="color:navy;">Contributed talk</span>**, Winter Meeting of the Optical Society of Korea (OSK), *Daejeon, Korea* — Feb. 2022<br>
+**<span style="color:navy;">Contributed talk</span>**, Fall Meeting of the Korean Physical Society (KPS), *Korea (Virtual Conference)* — Feb. 2022<br>
+**<span style="color:navy;">Poster</span>**, Annual Quantum Information Processing Conference (QIP 2022), *Pasadena, CA, USA* — Mar. 2022<br>
 
 ---
-##### Lectures & Tutorials
-- **Introduction to quantum machine learning**<br>
-**<span style="color:navy;">Invited lecture</span>** at AWS Healthcare & Research Team (Mar. 27th, 2025)<br>
 
-- **Topics in theoretical quantum computer sciences**<br>
-**<span style="color:navy;">Invited lecture</span>** at Shinil High School (Aug. 28th, 2024)<brs>
+##### Invited Lectures
 
----
-##### Others (e.g., lab seminars, journal clubs)
-- **The NLTS theorem and the quantum PCP conjecture**<br>
-**<span style="color:navy;">Invited talk</span>** at Center for Quantum Network’s Channel Capacity Summer Workshop (Jul. 25th, 2024)<br>
+- **Introduction to quantum machine learning**  <br>
+**<span style="color:navy;">Invited lecture</span>**, Healthcare & Research Team, *Amazon Web Services (AWS), Seoul, Korea* — Mar. 2025<br>
 
-- **Quantum machine learning models for drug library generation**<br>
-**<span style="color:navy;">Invited talk</span>** at Yonsei University Quantum Computing and Monte Carlo Workshop (Aug. 30th, 2024)<br>
+- **Topics in theoretical quantum computer science**  <br>
+**<span style="color:navy;">Invited lecture</span>**, Shinil High School, *Seoul, Korea* — Aug. 2024<br>
 
-- **Minimal data may be sufficient for quantum artificial intelligence**<br>
-**<span style="color:navy;">Invited talk</span>** at Seoul National University QST Seminar (Jun. 30th, 2023)<br>
+- **Quantum machine learning models for drug library generation**  <br>
+**<span style="color:navy;">Invited lecture</span>**, Yonsei Quantum Computing and Monte Carlo Workshop, *Chuncheon, Korea* — Aug. 2024<br>
+
+- **QMA ≟ NP: The NLTS theorem and the quantum PCP conjecture**  <br>
+**<span style="color:navy;">Invited lecture</span>**, Center for Quantum Network’s Channel Capacity Summer Workshop, *Seoul, Korea* — Jul. 2024<br>
+
+- **Minimal data may be sufficient for quantum artificial intelligence**  <br>
+**<span style="color:navy;">Invited lecture</span>**, [Department of Mathematical Sciences Seminar](https://www.math.snu.ac.kr/bbs/board.php?bo_table=Math_Seminar&wr_id=31035&page=38&year=2025&month=10&day=20), *Seoul National University, Seoul, Korea* — Jun. 2023<br>

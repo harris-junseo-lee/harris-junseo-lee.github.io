@@ -58,4 +58,4 @@ I have been actively engaged in community service, taking on organizational and 
 - **Creator, and Maintainer**, [Quantum Learning Theory Zoo](https://harris-junseo-lee.github.io/quantum-learning-theory-references/) (2025–)
 - **Selection Committee**, [Quantum Internship Program](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99835&bcIdx=27953&parentSeq=27953), National Information Society Agency (2024–2025)
 - **Co-organizer**, [SNU Quantum Information Theory Seminar (QST Seminar)](https://sites.google.com/view/team-qst/qst-seminar) (2024–2025)
-- **Co-organizer, Problem Writer, and Judge**, [Quantum AI Hackathon](https://aifactory.space/task/9154/overview) (2025)
+- **Co-organizer**, [Quantum AI Hackathon](https://aifactory.space/task/9154/overview), jointly organized by Kakao Enterprise Corp., Jeonju University, and AIFactory (2025)

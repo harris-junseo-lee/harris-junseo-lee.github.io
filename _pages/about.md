@@ -39,31 +39,29 @@ social: false # includes social icons at the bottom of the page
 
 
 #### About Me
-Hello! I’m Junseo Lee, also known as Harris.
+Hello! I’m Junseo Lee (also known as Harris).
 
-I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Foundation](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing. 
+I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Foundation](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing.
 
-Since my undergraduate years, I have been part of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, initially as a research assistant and now as a research associate, continuing my work with the group. For more details, you can find my [<b>CV</b>](/assets/pdf/CV.pdf).
-
+Since my undergraduate years, I have been a member of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, where I first worked as a research assistant and now continue as a research associate. For more details, you can find my [<b>CV</b>](/assets/pdf/CV.pdf).
 
 <b>Contact:</b> For collaborations or research discussions, feel free to reach out at:<br>
 📧 <code>harris (dot) [first name, all lowercase] (at) gmail.com</code>
 
 You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
 
-<b>I maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></b>, a curated reference page for key works in quantum learning theory. If you're interested in this rapidly growing field, feel free to explore and share it!
+<b>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></b>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
 
 ---
 #### Research Interests
 Recently, my primary research focuses on the following topics:
-- Quantum learning theory and property testing  
-- Quantum complexity theory  
-- Quantum algorithms  
-- Quantum many-body physics  
-- Quantum Shannon theory and mathematical physics  
+- Quantum tomography, learning, and many-body theory
+- Quantum complexity theory
+- Quantum algorithms
+- Quantum (Shannon) information theory
 - Continuous-variable quantum systems
 
-I am also generally interested in applied mathematics, statistical learning theory, and theoretical computer science. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
+I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
 
 <!-- <div style="padding-left: 20px;">
   <details>
@@ -114,7 +112,7 @@ I am also generally interested in applied mathematics, statistical learning theo
 (α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
 [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
-Myeongjin Shin<sup>✶</sup>, <b><span style="color:navy">Junseo Lee<sup>✶</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
+Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
 [<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>
 - <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br></b>
 (α−β) Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee</span></b><br>
