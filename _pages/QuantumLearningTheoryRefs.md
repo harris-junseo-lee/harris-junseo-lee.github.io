@@ -77,7 +77,7 @@ nav_order: 7
           Use keyword chips (multi-select) and the year filter to narrow results.<br><br>
           <span style="font-size:0.9em; color:#555; line-height:1.5;">
             <b>Zookeeper:</b> <a href="https://harris-junseo-lee.github.io" target="_blank" rel="noopener">Junseo Lee</a><br>
-            <b>Last updated:</b> October 16, 2025, 01:36 UTC<br>
+            <b>Last updated:</b> October 29, 2025, 08:13 UTC<br>
             <b>Contact:</b> <code>harris.junseo(at)gmail.com</code>
             <span style="font-size:0.9em; color:#666;">(This list may not be fully exhaustive, but I do my best to keep it up to date.  If you know of any missing papers, have suggestions, or would like to collaborate, please feel free to get in touch anytime!)</span><br><br>
           </span>
@@ -213,6 +213,14 @@ const KEYWORDS = [
 ];
 
 const PAPERS = [
+  {
+    title: 'The debiased Keyl\'s algorithm: a new unbiased estimator for full state tomography',
+    authors: ['Angelos Pelecanos', 'Jack Spilecki', 'John Wright'],
+    year: 2025,
+    venue: 'arXiv (Preprint)',
+    link: 'https://arxiv.org/abs/2510.07788',
+    keywords: ['state learning'],
+  },
   {
     title: 'Efficient learning of bosonic Gaussian unitaries',
     authors: ['Marco Fanizza', 'Vishnu Iyer', 'Junseo Lee', 'Antonio A. Mele', 'Francesco A. Mele'],

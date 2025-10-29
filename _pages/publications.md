@@ -104,10 +104,10 @@ CRC Press (2024).
 ##### Patents
 - <b>Method for estimating quantum mutual information through a quantum neural network<br></b>
 Kabgyun Jeong, Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b><br>
-Korea Patent: App. No. 10-2024-0104765 (2024).
+Korea Patent: App. No. 10-2024-0104765 (pending, 2024).
 
----
+<!-- ---
 ##### Conference Abstracts
 - <b>Quantum multiple kernel learning with entropy power inequalities<br></b>
 Ju-Young Ryu<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Tak Hur, Daniel K. Park<br>
-<i>Quantum Techniques in Machine Learning (QTML)</i> (2025).
+<i>Quantum Techniques in Machine Learning (QTML)</i> (2025). -->
