@@ -33,7 +33,7 @@ nav_order: 4
 
 ##### Research Talks
 
-- **Efficient learning of bosonic Gaussian unitaries** <br>
+- **Efficient learning of bosonic Gaussian unitaries** [<a href="/assets/pdf/CV_unitary_learning_slide.pdf" target="_blank">Slide</a>]<br>
 **<span style="color:navy;">Invited talk</span>**, Annual Meeting of the Quantum Information Society of Korea (QISK), *Seoul, Korea* — Feb. 2026 (Upcoming)<br>
 **<span style="color:navy;">Invited talk</span>**, [N³etFraST Workshop](https://www.nnnetfrast.kr/), *Seoul, Korea* — Nov. 2025<br>
 **<span style="color:navy;">Invited talk</span>**, Quantum Data Science & AI (Q-DNA) Lab, *Yonsei University, Seoul, Korea* — Nov. 2025<br>
