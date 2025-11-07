@@ -29,18 +29,6 @@ nav_order: 6
     </head>
 </html>
 
-#### Mentoring
-I have been fortunate to mentor several talented undergraduate students, many of whom have co-authored published or forthcoming research papers with me.
-
-- <b>Current mentees:</b>
-    - [Myeongjin Shin](https://myeongjinshin.github.io/) (2023–, KAIST CS): co-authored [[SLJ'23]](https://link.springer.com/article/10.1007/s11128-023-04253-1), [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[SLLJ'25]](https://quantum-journal.org/papers/q-2025-08-27-1832/), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
-    - [Mingyu Lee](https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko) (2023–, SNU CSE): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y)
-    - [Donghwa Ji](https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko) (2024–, SNU Math): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
-    - [Júlio Barczyszyn](https://jucazyn.github.io/) (2025–, UFSC Math)
-- <b>Former mentees:</b>
-    - [Kartik Anand](https://www.linkedin.com/in/kartik-anand-6abb94192/) (2025, IIT Goa CSE): co-authored [[AJL'25]](https://www.arxiv.org/abs/2506.19792)
-
----
 
 #### Reviewing
 I am currently serving, and have served, as a reviewer for journals and conferences including:
@@ -60,3 +48,16 @@ I have been actively engaged in community service, taking on organizational and 
 - **Selection Committee**, [Quantum Internship Program](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99835&bcIdx=27953&parentSeq=27953), National Information Society Agency (2024–2025)
 - **Co-organizer**, [SNU Quantum Information Theory Seminar (QST Seminar)](https://sites.google.com/view/team-qst/qst-seminar) (2024–2025)
 - **Co-organizer**, [Quantum AI Hackathon](https://aifactory.space/task/9154/overview), jointly organized by Kakao Enterprise Corp., Jeonju University, and AIFactory (2025)
+
+
+---
+#### Mentoring
+I have been fortunate to mentor several talented undergraduate students, many of whom have co-authored published or forthcoming research papers with me.
+
+- <b>Current mentees:</b>
+    - [Myeongjin Shin](https://myeongjinshin.github.io/) (2023–, KAIST CS): co-authored [[SLJ'23]](https://link.springer.com/article/10.1007/s11128-023-04253-1), [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[SLLJ'25]](https://quantum-journal.org/papers/q-2025-08-27-1832/), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
+    - [Mingyu Lee](https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko) (2023–, SNU CSE): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y)
+    - [Donghwa Ji](https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko) (2024–, SNU Math): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
+    - [Júlio Barczyszyn](https://jucazyn.github.io/) (2025–, UFSC Math)
+- <b>Former mentees:</b>
+    - [Kartik Anand](https://www.linkedin.com/in/kartik-anand-6abb94192/) (2025, IIT Goa CSE): co-authored [[AJL'25]](https://www.arxiv.org/abs/2506.19792)

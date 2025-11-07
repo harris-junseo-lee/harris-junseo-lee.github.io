@@ -56,7 +56,7 @@ Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei
 ##### Journal Articles
 1. <b>Bounding quantum uncommon information with quantum neural estimators<br></b>
 Donghwa Ji, <b><span style="color:navy">Junseo Lee</span></b>, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
-Accepted in Quantum Science and Technology. [arXiv:2507.06091](https://arxiv.org/abs/2507.06091) (2025). <br>
+[<i>Quantum Science and Technology</i> <b>11</b>, 015001](https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4) (2026). <br>
 
 1. <b>Mutual information maximizing quantum generative adversarial networks<br></b>
 Mingyu Lee, Myeongjin Shin, <b><span style="color:navy">Junseo Lee</span></b>, Kabgyun Jeong<br>
