@@ -112,7 +112,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">5</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum State Property Testing and Complexity</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">JungMo Lee</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">JungMo Lee <a href="/assets/pdf/QC_reading/5_trace_of_power.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2410.13559">[LW'25] On estimating the trace of quantum state powers</a></li>
@@ -122,7 +122,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">6</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Interactive Proof Systems (I)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyuntaek Shin</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyuntaek Shin <a href="/assets/pdf/QC_reading/6_NEEXP_MIPstar.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/1904.05870">[NW'19] NEEXP ⊆ MIP*</a></li>
