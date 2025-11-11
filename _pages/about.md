@@ -110,7 +110,7 @@ I am also broadly interested in theoretical computer science, mathematical physi
 #### Recent Papers
 - <b>Efficient learning of bosonic Gaussian unitaries<br></b>
 (α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
-<b>Accepted as a talk at [QIP 2026](https://qip2026.lu.lv/).</b> [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
+<span style="color:#B22222;"><b>Accepted as a talk at [QIP 2026](https://qip2026.lu.lv/).</b></span> [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>

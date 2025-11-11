@@ -39,7 +39,7 @@ nav_order: 3
 1. :books: <b>Efficient learning of bosonic Gaussian unitaries<br></b>
 (α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
 [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
-<b>Accepted as a talk at [QIP 2026](https://qip2026.lu.lv/) </b>
+<span style="color:#B22222;"><b>Accepted as a talk at [QIP 2026](https://qip2026.lu.lv/) </b></span>
 
 1. <b>Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis<br></b>
 Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
