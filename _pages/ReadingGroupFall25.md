@@ -132,7 +132,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">7</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum Interactive Proof Systems (II)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyungmin Lim</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hyungmin Lim <a href="/assets/pdf/QC_reading/7_MIPstar=RE.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2001.04383">[JNVWY'22] MIP* = RE</a></li>
@@ -142,7 +142,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">8</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">NLTS Hamiltonians</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Eunsoo Eun</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2206.13228">[ABN'22] NLTS Hamiltonians from good quantum codes</a></li>
