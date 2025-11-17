@@ -71,6 +71,9 @@ nav_order: 4
 
 ##### Invited Lectures
 
+- **Learning theory in ∞-dimensional quantum systems** <br>
+**<span style="color:navy;">Invited lecture</span>**, Team QST Summer Workshop, *Seoul National University, Seoul, Korea* — Aug. 2025<br>
+
 - **Introduction to quantum machine learning**  <br>
 **<span style="color:navy;">Invited lecture</span>**, Healthcare & Research Team, *Amazon Web Services (AWS), Seoul, Korea* — Mar. 2025<br>
 
