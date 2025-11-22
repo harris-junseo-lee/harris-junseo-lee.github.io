@@ -43,7 +43,7 @@ Hello! I’m Junseo Lee (also known as Harris).
 
 I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Foundation](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing.
 
-Since my undergraduate years, I have been a member of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, where I first worked as a research assistant and now continue as a research associate. For more details, you can find my [<b>Curriculum Vitae (CV)</b>](/assets/pdf/CV.pdf).
+Since my undergraduate years, I have been a member of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, where I first worked as a research assistant and now continue as a research affiliate. For more details, you can find my [<b>Curriculum Vitae (CV)</b>](/assets/pdf/CV.pdf).
 
 <b>Contact:</b> For collaborations or research discussions, feel free to reach out at:<br>
 📧 <code>harris (dot) [first name, all lowercase] (at) gmail.com</code>

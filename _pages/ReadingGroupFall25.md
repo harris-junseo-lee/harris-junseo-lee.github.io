@@ -142,7 +142,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">8</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">NLTS Hamiltonians</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Eunsoo Eun</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2206.13228">[ABN'22] NLTS Hamiltonians from good quantum codes</a></li>
@@ -153,7 +153,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">9</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum PCPs</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gyuhyun Kim</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gyuhyun Kim <a href="/assets/pdf/QC_reading/9_QPCP.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2403.04841">[BHW'25] Quantum PCPs: on Adaptivity, Multiple Provers and Reductions to Local Hamiltonians</a></li>
@@ -163,7 +163,7 @@ This reading group is dedicated to exploring both foundational and recent resear
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">10</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Complexity and Fault Tolerance</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jeongbin Jo</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jeongbin Jo <a href="/assets/pdf/QC_reading/10_Circ2Ham.pdf">[Slides]</a></span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2309.16475">[ABN'24] Circuit-to-Hamiltonian from tensor networks and fault tolerance</a></li>
