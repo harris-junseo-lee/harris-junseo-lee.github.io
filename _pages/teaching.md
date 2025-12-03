@@ -9,6 +9,8 @@ dropdown: true
 children:
   - title: Teaching List
     permalink: /teaching/
+  - title: Quantum Learning Theory for Bosonic Systems (Winter 2025)
+    permalink: /bosonic-learning-theory-winter25/
   - title: Quantum Complexity Theory Reading Group (Fall 2025)
     permalink: /quantum-complexity-reading-group-fall25/
   - title: Quantum Learning and Complexity Theory (Summer 2025)
@@ -38,32 +40,48 @@ children:
     </head>
 </html>
 
-- **Reading Group: Quantum Complexity Theory** (Undergraduate, Graduate)<br>
-**<span style="color:navy;">Instructor.</span>** Fall 2025, QISCA **[<a href="/quantum-complexity-reading-group-fall25" target="_blank">Course Website</a>]**<br>
+##### Instructor
 
-- **AAA559: College of Informatics Internship 2** (Graduate)<br> 
-**<span style="color:navy;">Instructor.</span>** Fall 2025, Korea University<br>
+* **Quantum Learning Theory for Bosonic Systems** (Undergraduate, Graduate)
+  <br> Winter 2025, QISCA 
+  **[<a href="/bosonic-learning-theory-winter25" target="_blank">Course Website</a>]**
 
-- **AAA558: College of Informatics Internship 1** (Graduate)<br>
-**<span style="color:navy;">Instructor.</span>** Fall 2025, Korea University<br>
+* **Reading Group: Quantum Complexity Theory** (Undergraduate, Graduate)
+  <br> Fall 2025, QISCA 
+  **[<a href="/quantum-complexity-reading-group-fall25" target="_blank">Course Website</a>]**
 
-- **Quantum Learning and Complexity Theory** (Undergraduate, Graduate)<br>
-**<span style="color:navy;">Instructor.</span>** Summmer 2025, QISCA **[<a href="/qlct" target="_blank">Course Website</a>]**<br>
+* **AAA559: College of Informatics Internship 2** (Graduate)
+  <br> Fall 2025, Korea University
 
-- **SW4343: Software Field Placement 1** (Undergraduate)<br> 
-**<span style="color:navy;">Instructor.</span>** Fall 2024, Korea Aerospace University and Korea Quantum Industry Center<br>
+* **AAA558: College of Informatics Internship 1** (Graduate)
+  <br> Fall 2025, Korea University
 
-- **YCS1009: Change the World through Programming** (Undergraduate)<br>
-**<span style="color:navy;">Teaching Assistant.</span>** Fall 2022, Yonsei University<br>
+* **Quantum Learning and Complexity Theory** (Undergraduate, Graduate)
+  <br> Summer 2025, QISCA
+  **[<a href="/qlct" target="_blank">Course Website</a>]**
 
-- **YCS1002: Software Programming** (Undergraduate)<br>
-**<span style="color:navy;">Teaching Assistant.</span>** Fall 2022, Yonsei University<br>
+* **SW4343: Software Field Placement 1** (Undergraduate)
+  <br> Fall 2024, Korea Aerospace University and Korea Quantum Industry Center
 
-- **MAT2016: Engineering Mathematics 3 (Differential Equations and Linear Algebra)** (Undergraduate)<br>
-**<span style="color:navy;">Course Tutor.</span>** Spring 2022, Yonsei University <span style="color:navy;"> *Best Tutor Award</span><br>
+---
 
-- **EEE1108: Engineering Information Processing** (Undergraduate)<br>
-**<span style="color:navy;">Teaching Assistant.</span>** Fall 2021, Yonsei University<br>
+##### Teaching Assistant
 
-- **MAT1012: Engineering Mathematics 2 (Multivariable and Vector Calculus)** (Undergraduate)<br>
-**<span style="color:navy;">Course Tutor.</span>** Fall 2021, Yonsei University <span style="color:navy;"> *Best Tutor Award</span><br>
+* **YCS1009: Change the World through Programming** (Undergraduate)
+  <br> Fall 2022, Yonsei University
+
+* **YCS1002: Software Programming** (Undergraduate)
+  <br> Fall 2022, Yonsei University
+
+* **EEE1108: Engineering Information Processing** (Undergraduate)
+  <br> Fall 2021, Yonsei University
+
+---
+
+##### Course Tutor
+
+* **MAT2016: Engineering Mathematics 3 (Differential Equations and Linear Algebra)** (Undergraduate)
+  <br> Spring 2022, Yonsei University, **<span style="color:navy;">Best Tutor Award</span>**
+
+* **MAT1012: Engineering Mathematics 2 (Multivariable and Vector Calculus)** (Undergraduate)
+  <br> Fall 2021, Yonsei University, **<span style="color:navy;">Best Tutor Award</span>**
