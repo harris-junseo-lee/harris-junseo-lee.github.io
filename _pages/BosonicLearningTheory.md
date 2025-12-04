@@ -33,15 +33,20 @@ nav_order:
 </html>
 
 #### Course Details
-This winter school offers a focused introduction to quantum learning theory for bosonic and continuous-variable (CV) systems. Quantum learning theory seeks to understand how efficiently information can be extracted from quantum systems, yet most theoretical guarantees have historically been developed for finite-dimensional settings. In contrast, many experimental platforms, especially those in quantum optics, naturally operate in infinite-dimensional Hilbert spaces, where rigorous learning guarantees have been much less developed.
+This winter school provides a focused introduction to quantum learning theory for bosonic and continuous-variable (CV) systems. Quantum learning theory seeks to understand how efficiently information can be extracted from quantum systems, yet most rigorous guarantees have traditionally been developed in finite-dimensional settings. In contrast, many experimental platforms, particularly those in quantum optics, operate in infinite-dimensional Hilbert spaces where theoretical learning guarantees have remained comparatively underdeveloped.
 
-Recent progress has begun to close this gap, providing new tools for learning bosonic states, unitaries, and Hamiltonians under realistic physical constraints. This program will introduce these developments, explain the conceptual techniques behind them, and highlight open directions at the interface of CV quantum information and learning theory.
+Recent progress has begun to close this gap by introducing new techniques for learning bosonic states, unitaries, and Hamiltonians under physically realistic constraints. The program will present these developments, explain the conceptual tools that drive them, and highlight emerging open directions at the interface of CV quantum information and quantum learning theory. In addition to bosonic systems, the school will also discuss several related results for fermionic systems.
 
-**Prerequisites:** Participants are expected to have basic familiarity with quantum information theory and mathematical methods used in theoretical computer science. An understanding of quantum states, channels, and measurements, as well as introductory ideas from learning theory (such as sample complexity or concentration inequalities), will be helpful but not strictly required. Prior exposure to continuous-variable quantum information (Gaussian states and operations) is advantageous but optional. Motivated students with strong mathematical interest are fully encouraged to participate.
+**Prerequisites:** Participants are expected to have basic familiarity with quantum information theory and mathematical methods used in theoretical computer science. Knowledge of quantum states, channels, and measurements, as well as introductory concepts from learning theory such as sample complexity and concentration inequalities, will be helpful but not strictly required. Prior exposure to continuous-variable quantum information, including Gaussian states and operations, is advantageous but optional. Motivated students with strong mathematical interest are fully encouraged to participate.
 
 #### Instructor
-- [Junseo Lee](https://harris-junseo-lee.github.io/) (`harris.junseo(at)gmail.com`)
-- TBA.
+- **Main Organizer:** [Junseo Lee](https://harris-junseo-lee.github.io/) (Seoul National University, `harris.junseo(at)gmail.com`)
+- **Invited Lecturers** (in alphabetical order):
+  - [Marco Fanizza](https://quriosity.telecom-paris.fr/author/marco-fanizza/) (Inria, Télécom Paris - LTCI, Institut Polytechnique de Paris)
+  - Filippo Girardi (Scuola Normale Superiore)
+  - [Vishnu Iyer](https://vishnuiyer.org/) (University of Texas at Austin)
+  - [Antonio Anna Mele](https://antonioannamele.com/) (Freie Universität Berlin)
+  - [Francesco Anna Mele](https://sites.google.com/sns.it/francescoannamele/about-me) (Scuola Normale Superiore)
 
 #### Course Policies
 - TBA.
@@ -63,7 +68,7 @@ Recent progress has begun to close this gap, providing new tools for learning bo
     <tr>
       <th style="padding: 10px; border: 1px solid #ccc;">Week</th>
       <th style="padding: 10px; border: 1px solid #ccc;">Topic</th>
-      <th style="padding: 10px; border: 1px solid #ccc;">Notes</th>
+      <th style="padding: 10px; border: 1px solid #ccc;">Lecturer</th>
       <th style="padding: 10px; border: 1px solid #ccc;">Readings</th>
     </tr>
   </thead>
@@ -71,100 +76,115 @@ Recent progress has begun to close this gap, providing new tools for learning bo
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">1</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Course Overview</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://harris-junseo-lee.github.io/quantum-learning-theory-references/" target="_blank" rel="noopener">Quantum Learning Theory Zoo</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">2</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of Quantum Learning Theory</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Introduction to Quantum Learning Theory and Continuous-Variable Quantum Information</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://harris-junseo-lee.github.io/qlct/" target="_blank" rel="noopener">Quantum Learning and Complexity Theory (Summer 2025)</a></li>
+          <li><a href="https://www.nature.com/articles/s42254-023-00662-4" target="_blank" rel="noopener">A survey on the complexity of learning quantum states</a></li>
+          <li><a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.77.513" target="_blank" rel="noopener">Quantum information with continuous variables</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">3</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of Continuous-Variable Quantum Information Theory</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Energy-Constrained States and Bosonic Gaussian States</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://www.nature.com/articles/s41567-025-03086-2" target="_blank" rel="noopener">Learning quantum states of continuous-variable systems</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">4</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Tomography of Bosonic Quantum States</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Trace Distance between Bosonic Gaussian States: Estimation and Applications</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://quantum-journal.org/papers/q-2025-06-12-1769/" target="_blank" rel="noopener">Optimal estimates of trace distance between bosonic Gaussian states and applications to learning</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">5</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Tomography of Bosonic Gaussian Unitaries</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic and Bosonic Gaussian States</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010319" target="_blank" rel="noopener">Efficient Learning of Quantum States Prepared With Few Fermionic Non-Gaussian Gates</a></li>
+          <li><a href="https://www.nature.com/articles/s41567-025-03086-2" target="_blank" rel="noopener">Learning quantum states of continuous-variable systems</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">6</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Energy-Independent Gaussian State Tomography</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Energy-Independent Learning of Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://arxiv.org/abs/2508.14979v1" target="_blank" rel="noopener">Energy-independent tomography of Gaussian states</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">7</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Testing of Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gaussianity Testing of Bosonic Quantum States</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Filippo Girardi</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://arxiv.org/abs/2510.07305v1" target="_blank" rel="noopener">Is it Gaussian? Testing bosonic quantum states</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">8</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Bosonic Hamiltonians</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Learning for Bosonic Gaussian States</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Marco Fanizza</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://arxiv.org/abs/2411.03163" target="_blank" rel="noopener">Efficient Hamiltonian, structure and trace distance learning of Gaussian states</a></li>
         </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">9</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Fermionic Processes</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic Unitaries</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Vishnu Iyer</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.020328" target="_blank" rel="noopener">Fermion Sampling: A Robust Quantum Computational Advantage Scheme Using Fermionic Linear Optics and Magic Input States</a></li>
+          <li><a href="https://arxiv.org/abs/2504.11318v2" target="_blank" rel="noopener">Mildly-Interacting Fermionic Unitaries are Efficiently Learnable</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">10</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open Problems and Research Directions</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Bosonic Gaussian Unitaries</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
-          <li>TBA.</li>
+          <li><a href="https://arxiv.org/abs/2510.05531v1" target="_blank" rel="noopener">Efficient learning of bosonic Gaussian unitaries</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9; color:black;">
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">11</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Additional Topics</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
+      <td style="border: 1px solid #ccc;">
+        <ul>
+          <li><a href="https://arxiv.org/abs/2211.07578" target="_blank" rel="noopener">Classical shadow tomography for continuous variables quantum systems</a></li>
+          <li><a href="https://arxiv.org/abs/2510.08545v1" target="_blank" rel="noopener">Energy, Bosons and Computational Complexity</a></li>
         </ul>
       </td>
     </tr>
