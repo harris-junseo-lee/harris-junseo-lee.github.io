@@ -108,8 +108,12 @@ I am also broadly interested in theoretical computer science, mathematical physi
 
 ---
 #### Recent Papers
+- <b>Optimal certification of constant-local Hamiltonians<br></b>
+<b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
+[arXiv:2512.09778](https://arxiv.org/abs/2512.09778v1) (2025). <br>
+
 - <b>Efficient learning of bosonic Gaussian unitaries<br></b>
-(α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
+Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
 <span style="color:#B22222;"><b>Accepted as a contributed talk at [QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)</b></span>. [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
@@ -118,4 +122,6 @@ Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</su
 
 ---
 #### Recent Teaching
-I recently taught <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> and am currently leading the <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>.
+<b>This winter, I will teach a new course on <a href="/bosonic-learning-theory-winter25/" target="_black"> Quantum Learning Theory for Bosonic Systems</a>!</b>
+
+I recently taught <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> and led the <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>.

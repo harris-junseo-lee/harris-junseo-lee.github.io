@@ -8,7 +8,7 @@ nav_order: 3
 ---
 - [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko) provides a complete list of publications, sortable by date or citation count.
 - Co-first authors with equal contributions are marked with an asterisk (✻).
-- Alphabetical author ordering, as commonly used in theoretical computer science, is indicated by (α–β).
+- Alphabetical author ordering, standard in theoretical computer science, is indicated by a dagger symbol (†).
 - Selected publications are labeled with :books:.
 
 ---
@@ -36,8 +36,13 @@ nav_order: 3
 </html>
 
 ##### Preprints & Submitted
+1. :books: <b>Optimal certification of constant-local Hamiltonians<br></b>
+<b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
+[arXiv:2512.09778](https://arxiv.org/abs/2512.09778v1) (2025). <br>
+
+
 1. :books: <b>Efficient learning of bosonic Gaussian unitaries<br></b>
-(α−β) Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee</span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
+Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
 [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
 <span style="color:#B22222;"><b>Accepted as a contributed talk at [QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)</b></span>. <br>
 
@@ -45,12 +50,12 @@ nav_order: 3
 Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
 [arXiv:2508.01516](https://arxiv.org/abs/2508.01516) (2025). <br>
 
-1. :books: <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br></b>
-(α−β) Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee</span></b><br>
+1. <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy<br></b>
+Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b><br>
 [arXiv:2506.19792](https://www.arxiv.org/abs/2506.19792) (2025). <br>
 
 1. :books: <b>New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes<br></b>
-(α−β) <b><span style="color:navy">Junseo Lee</span></b>, Nhat A. Nghiem<br>
+<b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Nhat A. Nghiem<br>
 [arXiv:2506.01432](https://arxiv.org/abs/2506.01432) (2025). <br>
 
 ---
