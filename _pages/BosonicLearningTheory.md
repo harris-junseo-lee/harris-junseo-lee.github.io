@@ -49,7 +49,8 @@ Recent progress has begun to close this gap by introducing new techniques for le
   - [Francesco Anna Mele](https://sites.google.com/sns.it/francescoannamele/about-me) (Scuola Normale Superiore)
 
 #### Course Policies
-- TBA.
+- All lectures will be conducted in English.
+- All lectures are scheduled for 5:00 PM (KST) and may be adjusted depending on speaker availability.
 
 
 #### Announcements
@@ -66,7 +67,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
 <table style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
   <thead style="background-color: #2e86c1; color: white;">
     <tr>
-      <th style="padding: 10px; border: 1px solid #ccc;">Week</th>
+      <th style="padding: 10px; border: 1px solid #ccc;"> </th>
       <th style="padding: 10px; border: 1px solid #ccc;">Topic</th>
       <th style="padding: 10px; border: 1px solid #ccc;">Lecturer</th>
       <th style="padding: 10px; border: 1px solid #ccc;">Readings</th>
@@ -74,7 +75,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
   </thead>
   <tbody>
     <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">1</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 1 (12/29)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Course Overview</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
@@ -84,7 +85,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">2</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 2 (1/5)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Introduction to Quantum Learning Theory and Continuous-Variable Quantum Information</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
@@ -96,7 +97,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">3</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 3 (1/8)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Energy-Constrained States and Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele</span></td>
       <td style="border: 1px solid #ccc;">
@@ -106,7 +107,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">4</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 4 (1/12)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Trace Distance between Bosonic Gaussian States: Estimation and Applications</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
       <td style="border: 1px solid #ccc;">
@@ -116,7 +117,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">5</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 5 (1/15)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic and Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele</span></td>
       <td style="border: 1px solid #ccc;">
@@ -127,7 +128,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">6</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 6 (1/19)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Energy-Independent Learning of Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBA.</span></td>
       <td style="border: 1px solid #ccc;">
@@ -137,7 +138,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">7</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 7 (2/2)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gaussianity Testing of Bosonic Quantum States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Filippo Girardi</span></td>
       <td style="border: 1px solid #ccc;">
@@ -147,7 +148,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">8</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 8 (2/5)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Learning for Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Marco Fanizza</span></td>
       <td style="border: 1px solid #ccc;">
@@ -157,7 +158,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">9</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 9 (2/9)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic Unitaries</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Vishnu Iyer</span></td>
       <td style="border: 1px solid #ccc;">
@@ -168,7 +169,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">10</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 10 (2/12)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Bosonic Gaussian Unitaries</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
@@ -178,14 +179,17 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">11</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Additional Topics</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
-          <li><a href="https://arxiv.org/abs/2211.07578" target="_blank" rel="noopener">Classical shadow tomography for continuous variables quantum systems</a></li>
-          <li><a href="https://arxiv.org/abs/2510.08545v1" target="_blank" rel="noopener">Energy, Bosons and Computational Complexity</a></li>
-        </ul>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 11 (2/16)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
+      <td style="border: 1px solid #ccc;"> TBD
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 12 (2/19)</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
+      <td style="border: 1px solid #ccc;"> TBD
       </td>
     </tr>
   </tbody>
