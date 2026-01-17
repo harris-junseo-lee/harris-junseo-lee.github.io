@@ -41,6 +41,7 @@ I am currently serving, and have served, as a reviewer for journals and conferen
 - [Physics Letters A](https://www.sciencedirect.com/journal/physics-letters-a)
 - [Annalen der Physik](https://onlinelibrary.wiley.com/journal/15213889)
 - Quantum Techniques in Machine Learning (QTML) ([2025](https://qtml2025.cqt.sg/))
+- Quantum Computing Theory in Practice (QCTiP) ([2026](https://qctipconf.github.io/))
 
 ---
 
@@ -52,13 +53,13 @@ I have been actively engaged in community service, taking on organizational and 
 - **Co-organizer**, [Quantum AI Hackathon](https://aifactory.space/task/9154/overview), jointly organized by Kakao Enterprise Corp., Jeonju University, and AIFactory (2025)
 - **Facilitator (Mentor)**, Mathematics Section, Korea Scholar’s Conference for Youth (KSCY), Yonsei University (2019)
 
----
+<!-- ---
 #### Mentoring
 I have been fortunate to mentor several talented undergraduate students, many of whom have co-authored published or forthcoming research papers with me.
 
 - <b>Current mentees:</b>
-    - [Myeongjin Shin](https://myeongjinshin.github.io/) (2023–, KAIST CS): co-authored [[SLJ'23]](https://link.springer.com/article/10.1007/s11128-023-04253-1), [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[SLLJ'25]](https://quantum-journal.org/papers/q-2025-08-27-1832/), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
-    - [Mingyu Lee](https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko) (2023–, SNU CSE): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[LSLJ'25]](https://doi.org/10.1038/s41598-025-18476-y)
-    - [Donghwa Ji](https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko) (2024–, SNU Math): co-authored [[SLL+'24]](https://doi.org/10.1103/PhysRevA.110.062418), [[JLS+'25]](https://arxiv.org/abs/2507.06091)
+    - [Myeongjin Shin](https://myeongjinshin.github.io/) (2023–, KAIST CS)
+    - [Mingyu Lee](https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko) (2023–, SNU CSE)
+    - [Donghwa Ji](https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko) (2024–, SNU Math)
 - <b>Former mentees:</b>
-    - [Kartik Anand](https://www.linkedin.com/in/kartik-anand-6abb94192/) (2025, IIT Goa CSE): co-authored [[AJL'25]](https://www.arxiv.org/abs/2506.19792)
+    - [Kartik Anand](https://www.linkedin.com/in/kartik-anand-6abb94192/) (2025, IIT Goa CSE) -->
