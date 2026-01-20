@@ -100,10 +100,12 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 2 (1/19)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Tomography of Energy-Constrained and Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele <br> [<a href="/assets/pdf/BLT/Lecture2_Francesco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/J8_KzazbYcw?si=_YcS1eS71bpB1vn8"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://www.nature.com/articles/s41567-025-03086-2" target="_blank" rel="noopener">Learning quantum states of continuous-variable systems</a></li>
+          <li><a href="https://quantum-journal.org/papers/q-2025-06-12-1769/" target="_blank" rel="noopener">Optimal estimates of trace distance between bosonic Gaussian states and applications to learning</a></li>
+          <li><a href="https://arxiv.org/abs/2508.14979" target="_blank" rel="noopener">Energy-independent tomography of Gaussian states</a></li>
         </ul>
       </td>
     </tr>
