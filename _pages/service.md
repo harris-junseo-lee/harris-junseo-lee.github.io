@@ -35,6 +35,7 @@ I am currently serving, and have served, as a reviewer for journals and conferen
 - [Physical Review Letters](https://journals.aps.org/prl/)
 - [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 - [npj Quantum Information](https://www.nature.com/npjqi/)
+- [Quantum](https://quantum-journal.org/)
 - [Physical Review Research](https://journals.aps.org/prresearch/)
 - [Physical Review Applied](https://journals.aps.org/prapplied/)
 - [Physical Review A](https://journals.aps.org/pra/)
