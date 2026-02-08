@@ -9,8 +9,8 @@ dropdown: true
 children:
   - title: Teaching List
     permalink: /teaching/
-  - title: Quantum Learning Theory for Bosonic Systems (Winter 2025)
-    permalink: /bosonic-learning-theory-winter25/
+  - title: Quantum Learning Theory for Bosonic Systems (Winter 2026)
+    permalink: /bosonic-learning-theory-winter26/
   - title: Quantum Complexity Theory Reading Group (Fall 2025)
     permalink: /quantum-complexity-reading-group-fall25/
   - title: Quantum Learning and Complexity Theory (Summer 2025)
@@ -44,7 +44,7 @@ children:
 
 * **Quantum Learning Theory for Bosonic Systems** (Undergraduate, Graduate)
   <br> Winter 2025, QISCA 
-  **[<a href="/bosonic-learning-theory-winter25" target="_blank">Course Website</a>]**
+  **[<a href="/bosonic-learning-theory-winter26" target="_blank">Course Website</a>]**
 
 * **Reading Group: Quantum Complexity Theory** (Undergraduate, Graduate)
   <br> Fall 2025, QISCA 

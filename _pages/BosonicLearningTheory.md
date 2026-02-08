@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /bosonic-learning-theory-winter25/
+permalink: /bosonic-learning-theory-winter26/
 parent: Teaching
-title: Quantum Learning Theory for Bosonic Systems (Winter 2025)
+title: Quantum Learning Theory for Bosonic Systems (Winter 2026)
 description:
 nav: false
 nav_order: 
@@ -100,7 +100,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 2 (1/19)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Tomography of Energy-Constrained and Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele <br> [<a href="/assets/pdf/BLT/Lecture2_Francesco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/J8_KzazbYcw?si=_YcS1eS71bpB1vn8"><b>Video</b></a>] </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele <br> [<a href="/assets/pdf/BLT/Lecture2_Francesco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/J8_KzazbYcw?si=kzmByzS09Yl2S-eC"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://www.nature.com/articles/s41567-025-03086-2" target="_blank" rel="noopener">Learning quantum states of continuous-variable systems</a></li>
@@ -112,7 +112,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 3 (1/21)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic and Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele <br> [<a href="https://youtu.be/tjAtRf_cpvM?si=AMCp2z9Fk8RGlexJ"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010319" target="_blank" rel="noopener">Efficient Learning of Quantum States Prepared With Few Fermionic Non-Gaussian Gates</a></li>
@@ -128,7 +128,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 4 (2/2)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gaussianity Testing of Bosonic Quantum States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Filippo Girardi</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Filippo Girardi <br> [<a href="/assets/pdf/BLT/Lecture4_Filippo.pdf"><b>Notes</b></a>, <a href="https://youtu.be/i1Qrj-UPCMI?si=j2O0x-MiwcoJ9dqM"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2510.07305v1" target="_blank" rel="noopener">Is it Gaussian? Testing bosonic quantum states</a></li>
@@ -138,7 +138,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 5 (2/5)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Learning for Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Marco Fanizza</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Marco Fanizza <br> [<a href="/assets/pdf/BLT/Lecture5_Marco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/H2BAFZhQ3_I?si=kuBjlpUV22MLK0xJ"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2411.03163" target="_blank" rel="noopener">Efficient Hamiltonian, structure and trace distance learning of Gaussian states</a></li>

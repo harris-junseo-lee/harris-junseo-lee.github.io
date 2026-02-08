@@ -43,6 +43,7 @@ I am currently serving, and have served, as a reviewer for journals and conferen
 - [Annalen der Physik](https://onlinelibrary.wiley.com/journal/15213889)
 - Quantum Techniques in Machine Learning (QTML) ([2025](https://qtml2025.cqt.sg/))
 - Quantum Computing Theory in Practice (QCTiP) ([2026](https://qctipconf.github.io/))
+- Theory of Quantum Computation, Communication and Cryptography (TQC) ([2026](https://tqc-conference.org/2026/))
 
 ---
 

@@ -37,7 +37,6 @@ nav_order: 4
 **<span style="color:navy;">Invited talk</span>**, Annual Meeting of the Quantum Information Society of Korea (QISK), *Seoul, Korea* — Feb. 2026 (Upcoming)<br>
 **<span style="color:navy;">Invited talk</span>**, [N³etFraST Workshop](https://www.nnnetfrast.kr/), *Seoul, Korea* — Nov. 2025<br>
 **<span style="color:navy;">Invited talk</span>**, Quantum Data Science & AI (Q-DNA) Lab, *Yonsei University, Seoul, Korea* — Nov. 2025<br>
-**<span style="color:navy;">Invited talk</span>** (by [Vishnu Iyer](https://vishnuiyer.org/)), [1st AIMS Workshop and School on The Theory of Quantum Learning Algorithms](https://aims-quantum-learning-and-testing.github.io/), *Cape Town, South Africa* — Oct. 2025<br>
 **<span style="color:navy;">Contributed talk</span>**, [Annual Conference on Quantum Information Processing (QIP 2026)](https://qip2026.lu.lv/), *Riga, Latvia* — Jan. 2026 (Upcoming)<br>
 
 - **New aspects of quantum topological data analysis**  <br>

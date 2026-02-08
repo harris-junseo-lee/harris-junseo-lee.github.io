@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 
 profile:
-  align: left
+  align: right
   image: junseo.jpg
   image_circular: false # crops the image to make it circular
   more_info:
@@ -37,20 +37,26 @@ social: false # includes social icons at the bottom of the page
     </head>
 </html>
 
-
-#### About Me
 Hello! I’m Junseo Lee (also known as Harris).
 
-I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor Chung Mong-Koo Foundation](https://www.hyundai-cmkfoundation.org/en/main). I am currently fulfilling my mandatory national service through an alternative program, working as a research scientist in theoretical quantum computing.
+I received my bachelor’s degree in Electrical and Electronic Engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), fully supported by the [Hyundai Motor CMK Foundation](https://www.hyundai-cmkfoundation.org/en/main). After completing my undergraduate studies, I fulfilled my mandatory military service in South Korea as a Technical Research Personnel, during which I spent three years conducting research in theoretical quantum computing. Since my undergraduate years, I have been affiliated with the Quantum Information Theory Group at the [Research Institute of Mathematics, Seoul National University](https://rim.math.snu.ac.kr/).
 
-Since my undergraduate years, I have been a member of the Quantum Information Theory Group at the Research Institute of Mathematics, Seoul National University, where I first worked as a research assistant and now continue as a research affiliate. For more details, you can find my [<b>Curriculum Vitae (CV)</b>](/assets/pdf/CV.pdf).
+For more details, please see my **[Curriculum Vitae (CV)](/assets/pdf/CV.pdf)**. You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
 
-<b>Contact:</b> For collaborations or research discussions, feel free to reach out at:<br>
-📧 <code>harris (dot) [first name, all lowercase] (at) gmail.com</code>
+<b>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></b>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it! 
 
-You can also find me on [LinkedIn](http://www.linkedin.com/in/harris-quantum), [Google Scholar](https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko), and on [X (formerly Twitter)](https://x.com/harris_junseo).
-
-<b>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></b>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
+<div style="
+  display: inline-block;
+  border-left: 4px solid #1b5e20;
+  background-color: #f7f9f7;
+  padding: 0.6em 0.9em;
+  margin-top: 0.1em;
+  border-radius: 4px;
+  font-size: 0.95em;
+  text-align: left;
+">
+  <strong>Email:</strong> harris.junseo (at) gmail.com
+</div>
 
 ---
 #### Research Interests
@@ -59,52 +65,9 @@ Recently, my primary research focuses on the following topics:
 - Quantum complexity theory
 - Quantum algorithms
 - Quantum Shannon theory
-- Quantum information processing with bosons
+- Continuous-variable quantum information
 
 I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
-
-<!-- <div style="padding-left: 20px;">
-  <details>
-    <summary><b>Quantum Learning Theory</b></summary>
-    <p>
-      My research in quantum learning theory focuses on developing efficient algorithms and 
-      fundamental lower bounds for learning and testing tasks over both discrete-variable (DV) 
-      and continuous-variable (CV) quantum systems — including quantum states, unitary transformations, 
-      and dynamical processes. I aim to characterize the precise sample and query complexities 
-      required for learning under physically meaningful constraints, such as limited energy or 
-      single-copy access. Broadly, my work seeks to understand 
-      <i>how different physical and informational resources fundamentally shape the feasibility 
-      and efficiency of extracting information from quantum systems.</i>
-    </p>
-  </details>
-
-  <details>
-    <summary><b>Quantum Complexity Theory</b></summary>
-    <p>
-      I study the computational power and structural properties of quantum proof systems and 
-      complexity classes. My work explores 
-      <i>how constraints such as bounded entanglement, quantum advice, or uniqueness conditions 
-      affect the expressive and computational capabilities of quantum models.</i> 
-      I am particularly interested in the theory of quantum interactive proof systems and 
-      their connections to quantum cryptography and verification. 
-    </p>
-  </details>
-
-  <details>
-    <summary><b>Quantum Algorithms</b></summary>
-    <p>
-      Building on insights from quantum learning and complexity theory, I design 
-      <i>end-to-end quantum algorithms</i> that bridge theoretical feasibility with 
-      experimental realizability. My current focus lies in constructing 
-      resource-efficient protocols that harness quantum advantages for concrete problems in 
-      algebraic, combinatorial, and topological domains. 
-      Ultimately, I aim to develop algorithmic frameworks that connect the 
-      <i>mathematical foundations of quantum information</i> to the 
-      <i>practical goal of making quantum computers learn and reason efficiently 
-      from data and physical systems.</i>
-    </p>
-  </details>
-</div> -->
 
 ---
 #### Recent Papers
