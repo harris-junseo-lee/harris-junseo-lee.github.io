@@ -2,7 +2,7 @@
 layout: page
 permalink: /bosonic-learning-theory-winter26/
 parent: Teaching
-title: Quantum Learning Theory for Bosonic Systems (Winter 2026)
+title: Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)
 description:
 nav: false
 nav_order: 
@@ -54,6 +54,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
 
 
 #### Announcements
+- All lectures from our course have now been released as a public **[YouTube playlist](https://youtube.com/playlist?list=PLD-yYWNmQxZxDqJo25kkS-NWIh9jWT0NT&si=D5yztAx674aklQ8b)**.
 - Please note that Lecture 6, scheduled for February 9, will take place at 2:00 PM (KST).
 
 <!-- #### Acknowledgement
@@ -148,7 +149,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 6 (Feb 9)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic Unitaries</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Vishnu Iyer</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Vishnu Iyer <br> [<a href="https://youtu.be/pEx7CgVYSBw?si=mv-NSGWFAvlNdAxy"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.020328" target="_blank" rel="noopener">Fermion Sampling: A Robust Quantum Computational Advantage Scheme Using Fermionic Linear Optics and Magic Input States</a></li>
