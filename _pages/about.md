@@ -85,6 +85,6 @@ Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</su
 
 ---
 #### Recent Teaching
-<b>This winter, I will teach a new course on <a href="/bosonic-learning-theory-winter25/" target="_black"> Quantum Learning Theory for Bosonic Systems</a>!</b>
+<b>This winter, I will teach a new course on <a href="/bosonic-learning-theory-winter26/" target="_black"> Quantum Learning Theory for Bosonic Systems</a>!</b>
 
 I recently taught <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> and led the <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>.

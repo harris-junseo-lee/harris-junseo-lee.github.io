@@ -54,7 +54,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
 
 
 #### Announcements
-- TBA.
+- Please note that Lecture 6, scheduled for February 9, will take place at 2:00 PM (KST).
 
 <!-- #### Acknowledgement
 - We thank [Chirag Wadhwa](https://chirag-w.github.io/) for delivering an excellent special lecture on quantum state certification in Lecture 3.
@@ -85,7 +85,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr> -->
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 1 (1/16)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 1 (Jan 16)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Course Overview</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
@@ -98,7 +98,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 2 (1/19)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 2 (Jan 19)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Tomography of Energy-Constrained and Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Francesco Anna Mele <br> [<a href="/assets/pdf/BLT/Lecture2_Francesco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/J8_KzazbYcw?si=kzmByzS09Yl2S-eC"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
@@ -110,7 +110,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 3 (1/21)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 3 (Jan 21)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic and Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele <br> [<a href="https://youtu.be/tjAtRf_cpvM?si=AMCp2z9Fk8RGlexJ"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
@@ -122,11 +122,11 @@ Recent progress has begun to close this gap by introducing new techniques for le
     </tr>
     <tr>
     <td colspan="4" style="border: 1px solid #ccc; text-align: center;">
-      <span style="color:#000000;">QIP 2026 (1/24–1/30) · No Class</span>
+      <span style="color:#000000;">QIP 2026 (Jan 24 – Jan 30) · No Class</span>
     </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 4 (2/2)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 4 (Feb 2)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Gaussianity Testing of Bosonic Quantum States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Filippo Girardi <br> [<a href="/assets/pdf/BLT/Lecture4_Filippo.pdf"><b>Notes</b></a>, <a href="https://youtu.be/i1Qrj-UPCMI?si=j2O0x-MiwcoJ9dqM"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
@@ -136,7 +136,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 5 (2/5)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 5 (Feb 5)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Hamiltonian Learning for Bosonic Gaussian States</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Marco Fanizza <br> [<a href="/assets/pdf/BLT/Lecture5_Marco.pdf"><b>Notes</b></a>, <a href="https://youtu.be/H2BAFZhQ3_I?si=kuBjlpUV22MLK0xJ"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
@@ -146,7 +146,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 6 (2/9)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 6 (Feb 9)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic Unitaries</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Vishnu Iyer</span></td>
       <td style="border: 1px solid #ccc;">
@@ -157,27 +157,13 @@ Recent progress has begun to close this gap by introducing new techniques for le
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 7 (2/12)</span></td>
+      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 7 (Feb 12)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Bosonic Gaussian Unitaries</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2510.05531v1" target="_blank" rel="noopener">Efficient learning of bosonic Gaussian unitaries</a></li>
         </ul>
-      </td>
-    </tr>
-    <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 8 (2/16)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
-      <td style="border: 1px solid #ccc;"> TBD
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 9 (2/19)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">TBD</span></td>
-      <td style="border: 1px solid #ccc;"> TBD
       </td>
     </tr>
   </tbody>
