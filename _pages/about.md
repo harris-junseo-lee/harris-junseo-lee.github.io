@@ -55,7 +55,7 @@ For more details, please see my **[Curriculum Vitae (CV)](/assets/pdf/CV.pdf)**.
   font-size: 0.95em;
   text-align: left;
 ">
-  <strong>Email:</strong> harris.junseo (at) gmail.com
+  <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
 </div>
 
 ---
@@ -85,6 +85,6 @@ Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</su
 
 ---
 #### Recent Teaching
-<b>This winter, I will teach a new course on <a href="/bosonic-learning-theory-winter26/" target="_black"> Quantum Learning Theory for Bosonic and Fermionic Systems</a>!</b>
-
-I recently taught <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> and led the <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>.
+- <a href="/bosonic-learning-theory-winter26/" target="_black"> Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)</a>
+- <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>
+- <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> 
