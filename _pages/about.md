@@ -87,7 +87,6 @@ Recently, my primary research focuses on the following topics:
 - Quantum tomography, learning, and many-body theory
 - Quantum complexity theory
 - Quantum algorithms
-- Quantum Shannon theory
 - Continuous-variable quantum information
 
 I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
