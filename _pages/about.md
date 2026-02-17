@@ -7,8 +7,20 @@ subtitle:
 profile:
   align: right
   image: junseo.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:
+  image_circular: false
+  more_info: |
+    <div style="
+      margin-top: -5px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+    ">
+      <img src="/assets/img/HQI.png"
+           style="height: 52px; width: auto; object-fit: contain;">
+      <img src="/assets/img/harvard.png"
+           style="height: 43px; width: auto; object-fit: contain;">
+    </div>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -38,6 +50,10 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 <p>
+  Hello! I’m Junseo Lee, also known as Harris. Welcome to my website!
+</p>
+
+<p>
   I am an incoming PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a> starting in Fall 2026, where I will be part of the dynamic research environment of the <a href="https://quantum.harvard.edu/">Harvard Quantum Initiative</a>.
 </p>
 
@@ -53,22 +69,15 @@ social: false # includes social icons at the bottom of the page
   <strong>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></strong>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- LEFT: Email box -->
-  <div style="
-      border-left: 4px solid #A51C30;
-      background-color: #f8f4f5;
-      padding: 8px 12px;
-  ">
-    <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
-  </div>
-
-  <!-- RIGHT: Logos -->
-  <div style="display: flex; align-items: center; gap: 14px;">
-    <img src="/assets/img/harvard.png" style="height: 35px;">
-    <img src="/assets/img/HQI.png" style="height: 43px;">
-  </div>
+<div style="
+  border-left: 4px solid #8B1E2D;
+  background-color: #faf6f7;
+  padding: 10px 14px;
+  margin: 6px 0 0 0;
+  border-radius: 4px;
+  display: inline-block;
+">
+  <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
 </div>
 
 ---
