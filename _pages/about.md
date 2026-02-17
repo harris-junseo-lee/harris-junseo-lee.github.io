@@ -4,11 +4,11 @@ title: About
 permalink: /
 subtitle:
 
-# profile:
-#   align: right
-#   image: junseo.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info:
+profile:
+  align: right
+  image: junseo.jpg
+  image_circular: false # crops the image to make it circular
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -37,54 +37,38 @@ social: false # includes social icons at the bottom of the page
     </head>
 </html>
 
-<div style="display: flex; align-items: flex-start; gap: 40px;">
+<p>
+  I am an incoming PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a> starting in Fall 2026, where I will be part of the dynamic research environment of the <a href="https://quantum.harvard.edu/">Harvard Quantum Initiative</a>.
+</p>
 
-  <!-- LEFT: TEXT -->
-  <div style="flex: 1; max-width: 720px;">
-    
-    <p>I am an incoming PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a> starting in Fall 2026, where I will be part of the dynamic research environment of the <a href="https://quantum.harvard.edu/">Harvard Quantum Initiative</a>.
-    </p>
+<p>
+  I received my bachelor’s degree in Electrical and Electronic Engineering from <a href="https://www.yonsei.ac.kr/en_sc/index.do">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main">Hyundai Motor CMK Scholarship</a> in Intelligent Information Technology. After graduation, I completed my mandatory military service in South Korea as a Technical Research Personnel, where I conducted research in theoretical quantum computing for three years. Since my undergraduate years, I have been affiliated with the Quantum Information Theory Group at the <a href="https://rim.math.snu.ac.kr/">Research Institute of Mathematics, Seoul National University</a>.
+</p>
 
-    <p>
-    I received my bachelor’s degree in Electrical and Electronic Engineering from <a href="https://www.yonsei.ac.kr/en_sc/index.do">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main">Hyundai Motor CMK Scholarship</a> in Intelligent Information Technology. After graduation, I completed my mandatory military service in South Korea as a Technical Research Personnel, where I conducted research in theoretical quantum computing for three years. Since my undergraduate years, I have been affiliated with the Quantum Information Theory Group at the <a href="https://rim.math.snu.ac.kr/">Research Institute of Mathematics, Seoul National University</a>.
-    </p>
+<p>
+  For more details, please see my <strong><a href="/assets/pdf/CV.pdf">Curriculum Vitae (CV)</a></strong>. You can also find me on <a href="http://www.linkedin.com/in/harris-quantum">LinkedIn</a>, <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko">Google Scholar</a>, and on <a href="https://x.com/harris_junseo">X (formerly Twitter)</a>.
+</p>
 
-    <p>
-    For more details, please see my <strong><a href="/assets/pdf/CV.pdf">Curriculum Vitae (CV)</a></strong>. You can also find me on <a href="http://www.linkedin.com/in/harris-quantum">LinkedIn</a>, <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko">Google Scholar</a>, and on <a href="https://x.com/harris_junseo">X (formerly Twitter)</a>.
-    </p>
+<p>
+  <strong>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></strong>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
+</p>
 
-    <p>
-    <strong>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></strong>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
-    </p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-      <div style="
-      display: inline-block;
+  <!-- LEFT: Email box -->
+  <div style="
       border-left: 4px solid #A51C30;
-      background-color: #faf6f7;
-      padding: 0.6em 0.9em;
-      margin-top: 0.1em;
-      border-radius: 4px;
-      font-size: 0.95em;
-      text-align: left;
-    ">
-      <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
-    </div>
-
+      background-color: #f8f4f5;
+      padding: 8px 12px;
+  ">
+    <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
   </div>
 
-   <!-- RIGHT: IMAGE -->
-  <div style="width: 250px; display: flex; flex-direction: column; align-items: center;">
-
-    <!-- Profile Photo -->
-    <img src="/assets/img/junseo.jpg" style="width: 100%; border-radius: 12px; margin-bottom: 15px;">
-
-    <!-- Logo 1 -->
-    <img src="/assets/img/HQI.png" style="height: 50px; margin-bottom: 8px;">
-
-    <!-- Logo 2 -->
-    <img src="/assets/img/harvard.png" style="height: 40px;">
+  <!-- RIGHT: Logos -->
+  <div style="display: flex; align-items: center; gap: 14px;">
+    <img src="/assets/img/harvard.png" style="height: 35px;">
+    <img src="/assets/img/HQI.png" style="height: 43px;">
   </div>
-
 </div>
 
 ---
