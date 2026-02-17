@@ -10,8 +10,8 @@ profile:
   image_circular: false
   more_info: |
     <div style="
-      margin-top: -5px;
-      margin-bottom: 3px;
+      margin-top: -6px;
+      margin-bottom: 5px;
       display: flex;
       flex-direction: column;
       align-items: center;
