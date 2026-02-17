@@ -11,6 +11,7 @@ profile:
   more_info: |
     <div style="
       margin-top: -5px;
+      margin-bottom: 3px;
       display: flex;
       flex-direction: column;
       align-items: center;
