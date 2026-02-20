@@ -10,8 +10,8 @@ profile:
   image_circular: false
   more_info: |
     <div style="
-      margin-top: -6px;
-      margin-bottom: 5px;
+      margin-top: -7px;
+      margin-bottom: 6px;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -19,7 +19,7 @@ profile:
     ">
       <img src="/assets/img/HQI.png"
            style="height: 52px; width: auto; object-fit: contain;">
-      <img src="/assets/img/harvard.png"
+      <img src="/assets/img/GSAS.png"
            style="height: 43px; width: auto; object-fit: contain;">
     </div>
 

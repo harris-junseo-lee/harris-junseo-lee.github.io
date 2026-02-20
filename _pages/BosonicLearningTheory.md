@@ -113,7 +113,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr style="background-color: #f9f9f9; color:black;">
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 3 (Jan 21)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning t-Doped Fermionic and Bosonic Gaussian States</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele <br> [<a href="https://youtu.be/tjAtRf_cpvM?si=AMCp2z9Fk8RGlexJ"><b>Video</b></a>] </span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Antonio Anna Mele <br> [<a href="/assets/pdf/BLT/Lecture3_Antonio.pdf"><b>Notes</b></a>, <a href="https://youtu.be/tjAtRf_cpvM?si=AMCp2z9Fk8RGlexJ"><b>Video</b></a>] </span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010319" target="_blank" rel="noopener">Efficient Learning of Quantum States Prepared With Few Fermionic Non-Gaussian Gates</a></li>
@@ -160,7 +160,7 @@ Recent progress has begun to close this gap by introducing new techniques for le
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;"><span style="color:#000000;">Lecture 7 (Feb 12)</span></td>
       <td style="border: 1px solid #ccc;"><span style="color:#000000;">Learning Bosonic Gaussian Unitaries</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee</span></td>
+      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Junseo Lee [<a href="/assets/pdf/BLT/Lecture7_Junseo.pdf"><b>Notes</b></a>]</span></td>
       <td style="border: 1px solid #ccc;">
         <ul>
           <li><a href="https://arxiv.org/abs/2510.05531v1" target="_blank" rel="noopener">Efficient learning of bosonic Gaussian unitaries</a></li>
