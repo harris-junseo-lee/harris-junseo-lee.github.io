@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description: The presentation list is categorized into research paper talks and invited tutorial lectures.
-nav: true
+nav: false
 nav_order: 4
 ---
 <html>

@@ -31,44 +31,67 @@ social: false # includes social icons at the bottom of the page
     <head>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" rel="stylesheet">
         <style>
             body {
-                font-family: "Bitter", serif;
+                font-family: "Roboto Serif", serif;
                 font-optical-sizing: auto;
-                font-weight: 350;
-                font-size: 1rem;
+                font-weight: 200;
+                font-size: 0.96rem;
             }
             strong, b {
-            font-weight: 600;
+            font-weight: 550;
             }
-            h1 { font-weight: 450; }
-            h2 { font-weight: 450; }
-            h3 { font-weight: 450; }
-            h4, h5, h6 { font-weight: 450; }
+            h1 { font-weight: 350; }
+            h2 { font-weight: 350; }
+            h3 { font-weight: 350; }
+            h4, h5, h6 { font-weight: 350; }
         </style>
     </head>
 </html>
 
-<p>
-  Hello! I’m Junseo Lee, also known as Harris. Welcome to my website!
-</p>
 
-<p>
-  I am an incoming PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a> starting in Fall 2026, where I will be part of the dynamic research environment of the <a href="https://quantum.harvard.edu/">Harvard Quantum Initiative</a>.
-</p>
+<div style="
+max-width:600px;
+background:#f6f8fb;
+border:1px solid #e4e8f0;
+border-radius:8px;
+padding:12px 16px;
+margin:12px 0 18px 0;
+font-size:15px;
+line-height:1.65;
+">
 
-<p>
-  I received my bachelor’s degree in Electrical and Electronic Engineering from <a href="https://www.yonsei.ac.kr/en_sc/index.do">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main">Hyundai Motor CMK Scholarship</a> in Intelligent Information Technology. After graduation, I completed my mandatory military service in South Korea as a Technical Research Personnel, where I conducted research in theoretical quantum computing for three years. Since my undergraduate years, I have been affiliated with the Quantum Information Theory Group at the <a href="https://rim.math.snu.ac.kr/">Research Institute of Mathematics, Seoul National University</a>.
-</p>
+<b>Update:</b>
+Starting in Fall 2026, I will begin my PhD in Quantum Science and Engineering at 
+<a href="https://www.harvard.edu/" style=" font-weight:400; text-decoration:none;">Harvard University</a>, 
+where I will be affiliated with the 
+<a href="https://quantum.harvard.edu/" style=" font-weight:400; text-decoration:none;">Harvard Quantum Initiative</a> 
+and the 
+<a href="https://toc.seas.harvard.edu/" style=" font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
 
-<p>
-  For more details, please see my <strong><a href="/assets/pdf/CV.pdf">Curriculum Vitae (CV)</a></strong>. You can also find me on <a href="http://www.linkedin.com/in/harris-quantum">LinkedIn</a>, <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko">Google Scholar</a>, and on <a href="https://x.com/harris_junseo">X (formerly Twitter)</a>.
-</p>
+</div>
 
-<p>
-  <strong>I also maintain the <a href="/quantum-learning-theory-references/">Quantum Learning Theory Zoo</a></strong>, a curated reference page collecting key works in quantum learning theory. If you’re interested in this rapidly growing field, feel free to explore and share it!
-</p>
+I work on 
+<span style="background:#eef4fb; padding:2px 4px; border-radius:4px; font-weight:300">
+<i>theoretical computer science questions concerning quantum systems</i></span>, particularly quantum learning theory and quantum complexity theory. I am also interested in related problems in theoretical physics and pure mathematics, including topics such as quantum gravity and quantum topology.
+
+Before starting my PhD at Harvard, I worked as a Research Scientist at the 
+<a href="https://ict.snu.ac.kr/" style=" font-weight:400; text-decoration:none;">
+SNU Institute of Computer Technology</a>. 
+Earlier, I completed my mandatory military service in South Korea as a Technical Research Personnel.
+
+I received a Bachelor of Science in Electrical and Electronic Engineering from 
+<a href="https://www.yonsei.ac.kr/en_sc/index.do" style=" font-weight:400; text-decoration:none;">
+Yonsei University</a>, supported by the 
+<a href="https://www.hyundai-cmkfoundation.org/en/main" style=" font-weight:400; text-decoration:none;">
+Hyundai Motor CMK Scholarship</a>. 
+During my undergraduate studies, I was affiliated with the Quantum Information Theory Group at the 
+<a href="https://rim.math.snu.ac.kr/" style=" font-weight:400; text-decoration:none;">
+SNU Research Institute of Mathematics</a>, where I worked under the guidance of 
+<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style=" font-weight:400; text-decoration:none;">
+Dr. Kabgyun Jeong</a>.
+
 
 <div style="
   border-left: 4px solid #8B1E2D;
@@ -77,11 +100,17 @@ social: false # includes social icons at the bottom of the page
   margin: 6px 0 0 0;
   border-radius: 4px;
   display: inline-block;
+  line-height: 1.6;
 ">
+  <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
+  <strong>Profiles:</strong> 
+  <a href="http://www.linkedin.com/in/harris-quantum" style=" font-weight:400; text-decoration:none;"> LinkedIn</a>, 
+  <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style=" font-weight:400; text-decoration:none;"> Google Scholar</a>, 
+  <a href="https://x.com/harris_junseo" style=" font-weight:400; text-decoration:none;"> X (formerly Twitter)</a><br>
   <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
 </div>
 
----
+<!-- ---
 #### Research Interests
 Recently, my primary research focuses on the following topics:
 - Quantum tomography, learning, and many-body theory
@@ -89,24 +118,30 @@ Recently, my primary research focuses on the following topics:
 - Quantum algorithms
 - Continuous-variable quantum information
 
-I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>.
+I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>. -->
 
----
-#### Recent Papers
-- <b>Optimal certification of constant-local Hamiltonians<br></b>
+<h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
+    Selected Papers
+</h5>
+- <b>Optimal certification of constant-local Hamiltonians</b><br>
 <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
-[arXiv:2512.09778](https://arxiv.org/abs/2512.09778v1) (2025). <br>
+<i>arXiv Preprint</i> (2025). <br>
+<a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a><br>
 
-- <b>Efficient learning of bosonic Gaussian unitaries<br></b>
+- <b>Efficient learning of bosonic Gaussian unitaries</b><br>
 Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
-<span style="color:#B22222;"><b>Accepted as a contributed talk at [QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)</b></span>. [arXiv:2510.05531](https://arxiv.org/abs/2510.05531v1) (2025). <br>
+<i>arXiv Preprint</i> (2025). Contributed talk at QIP (2026). <br>
+<a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>, <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>, <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
-[<i>Quantum</i> <b>9</b>, 1832](https://quantum-journal.org/papers/q-2025-08-27-1832/) (2025). <br>
+<i>Quantum</i> (2025). <br>
+<a href="https://arxiv.org/pdf/2408.00314"> <b>[PDF]</b></a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"> <b>[Journal]</b></a>, <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>, <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>, <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review Monthly News]</b></a>
 
----
-#### Recent Teaching
+
+<h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
+    Recent Teaching
+</h5>
 - <a href="/bosonic-learning-theory-winter26/" target="_black"> Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)</a>
 - <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>
 - <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> 

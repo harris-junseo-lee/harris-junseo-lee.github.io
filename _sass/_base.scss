@@ -1135,3 +1135,16 @@ ninja-keys::part(ninja-input) {
 ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
+
+
+a {
+  text-decoration: none;
+  background-image: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15));
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.2s ease;
+}
+
+a:hover {
+  background-size: 100% 100%;
+}

@@ -2,7 +2,7 @@
 layout: page
 permalink: /qlct/
 title: Quantum Learning and Complexity Theory (Summer 2025)
-description: 2025 Summer QISCA (Quantum Information Student Community Association) Summer School Program
+description: 2025 QISCA (Quantum Information Student Community Association) Summer School Program
 nav: false
 nav_order: 0
 # toc:
@@ -12,24 +12,25 @@ nav_order: 0
     <head>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" rel="stylesheet">
         <style>
             body {
-                font-family: "Bitter", serif;
+                font-family: "Roboto Serif", serif;
                 font-optical-sizing: auto;
-                font-weight: 350;
-                font-size: 1rem;
+                font-weight: 200;
+                font-size: 0.96rem;
             }
             strong, b {
-            font-weight: 600;
+            font-weight: 500;
             }
-            h1 { font-weight: 450; }
-            h2 { font-weight: 450; }
-            h3 { font-weight: 450; }
-            h4, h5, h6 { font-weight: 450; }
+            h1 { font-weight: 350; }
+            h2 { font-weight: 350; }
+            h3 { font-weight: 350; }
+            h4, h5, h6 { font-weight: 350; }
         </style>
     </head>
 </html>
+
 
 #### Course Details
 This course is an introductory-level overview of quantum learning theory and quantum complexity theory. It covers fundamental tools for analyzing the sample complexity of basic quantum learning tasks, including techniques involving the Haar measure. The course also explores core algorithms for learning quantum states, unitaries, processes, and circuits. In addition, it introduces important quantum complexity classes and provides the theoretical computer science background needed to understand foundational papers in quantum computation. The course will also touch on recent research trends in the field. The exact topics covered may be adjusted based on the interests of the participants.
@@ -37,8 +38,8 @@ This course is an introductory-level overview of quantum learning theory and qua
 **Prerequisites:** This course assumes that participants are already familiar with linear algebra, probability theory, and the basics of quantum information theory. Students are expected to be comfortable with the density matrix formalism, POVMs, Pauli matrices, the Bloch sphere representation, basic quantum channels (such as depolarizing and dephasing channels), and the properties of unitary and Hermitian matrices, including their spectral decompositions. Familiarity with tensor product notation, partial trace, and entanglement measures such as the von Neumann entropy and mutual information is also assumed. These topics will not be reviewed during the course, so students without this background may find it difficult to follow the material.
 
 #### Instructor
-- [Junseo Lee](https://harris-junseo-lee.github.io/) (SNU-Team QST, `harris.junseo(at)gmail.com`)
-- [Myeongjin Shin](https://scholar.google.com/citations?user=9mRACrMAAAAJ&hl=en) (KAIST and SNU-Team QST, `hanwoolmj(at)kaist.ac.kr`)
+- [Junseo Lee](https://harris-junseo-lee.github.io/) (Seoul National University)
+- [Myeongjin Shin](https://scholar.google.com/citations?user=9mRACrMAAAAJ&hl=en) (KAIST)
 
 #### Course Policies
 - Lectures will primarily be delivered online through Zoom. Details for accessing the sessions will be provided later. The final lecture may optionally be held in person, subject to circumstances, and may include a Q&A session.
@@ -60,41 +61,50 @@ This course is an introductory-level overview of quantum learning theory and qua
 
 <!-- All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday. -->
 
-<table style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
-  <thead style="background-color: #2e86c1; color: white;">
+<table style="border-collapse: collapse; width: 100%; font-size: 15px; border: 1px solid #ddd;">
+  <thead style="background:#1f4e79; color:white;">
     <tr>
-      <th style="padding: 10px; border: 1px solid #ccc;">Date</th>
-      <th style="padding: 10px; border: 1px solid #ccc;">Title</th>
-      <th style="padding: 10px; border: 1px solid #ccc;">Lecture Notes</th>
-      <th style="padding: 10px; border: 1px solid #ccc;">Helpful References</th>
+      <th style="padding:12px; border:1px solid #ddd; width:130px;">Date</th>
+      <th style="padding:12px; border:1px solid #ddd;">Title</th>
+      <th style="padding:12px; border:1px solid #ddd; width:180px;">Lecture Notes</th>
+      <th style="padding:12px; border:1px solid #ddd;">Helpful References</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 12 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Overview of quantum learning theory</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec1.pdf">Lec 1</a>, <a href="/assets/pdf/QLCT/QLCT_Pset1.pdf">Pset 1</a> </span></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+
+    <tr style="background:#f8fbff;">
+      <td style="border:1px solid #ddd; padding:10px;">Jul 12 (Sat)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Overview of quantum learning theory</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="/assets/pdf/QLCT/QLCT_Lec1.pdf">Lec 1</a>, 
+        <a href="/assets/pdf/QLCT/QLCT_Pset1.pdf">Pset 1</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897585">[HHJWY'16] Sample-optimal tomography of quantum states</a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/2897518.2897544">[OW'16] Efficient quantum tomography</a></li>
           <li><a href="https://doi.org/10.1145/3106700.3106710">[AdW'17] A Survey of Quantum Learning Theory</a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/3188745.3188802">[Aar'18] Shadow tomography of quantum states</a></li>
           <li><a href="https://www.nature.com/articles/s41567-020-0932-7">[HKP'20] Predicting many properties of a quantum system from very few measurements</a></li>
           <li><a href="https://dl.acm.org/doi/10.1145/3406325.3451109">[BO'21] Improved Quantum data analysis</a></li>
-          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/205500a574/1BtftZspUxa">[CCHL’21] Exponential Separations Between Learning With and Without Quantum Memory</a></li>
-          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2023/189400a391/1T96YaMKga4">[CHLLS’22] When Does Adaptivity Help for Quantum State Learning?</a></li>
-          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/551900b205/1JtvVrKAv9S">[CHLL’22] Tight Bounds for Quantum State Certification with Incoherent Measurements</a></li>
-          <li> Some parts of these lecture notes were inspired by Jerry Li’s presentation slides, which can be found <a href="https://youtu.be/GzyyC56p-as?si=GVEWJZkdrBJLXasy">here</a>. </li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/205500a574/1BtftZspUxa">[CCHL'21] Exponential Separations Between Learning With and Without Quantum Memory</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2023/189400a391/1T96YaMKga4">[CHLLS'22] When Does Adaptivity Help for Quantum State Learning?</a></li>
+          <li><a href="https://www.computer.org/csdl/proceedings-article/focs/2022/551900b205/1JtvVrKAv9S">[CHLL'22] Tight Bounds for Quantum State Certification with Incoherent Measurements</a></li>
+          <li>Some parts of these lecture notes were inspired by Jerry Li’s presentation slides, which can be found <a href="https://youtu.be/GzyyC56p-as?si=GVEWJZkdrBJLXasy">here</a>.</li>
         </ul>
       </td>
     </tr>
+
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 20 (Sun)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Haar measures and unitary designs</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 2</a>, <a href="/assets/pdf/QLCT/QLCT_Pset2.pdf">Pset 2</a> </span></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+      <td style="border:1px solid #ddd; padding:10px;">Jul 20 (Sun)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Haar measures and unitary designs</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="/assets/pdf/QLCT/QLCT_Lec2.pdf">Lec 2</a>, 
+        <a href="/assets/pdf/QLCT/QLCT_Pset2.pdf">Pset 2</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
           <li><a href="https://arxiv.org/pdf/2507.06216">[CSBH'25] Unitary designs in nearly optimal depth</a></li>
           <li><a href="https://www.science.org/doi/10.1126/science.adv8590">[SHH'25] Random unitaries in extremely low depth</a></li>
@@ -103,22 +113,19 @@ This course is an introductory-level overview of quantum learning theory and qua
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Jul 25 (Fri)</span></td>
-      <!-- <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum state certification (Special Guest Lectuer by Chirag Wadhwa)</span></td> -->
-      <td style="border: 1px solid #ccc; padding: 8px;">
-        <span style="color:#000000;">
-          Quantum state certification<br>
-          <small>* Special Guest Lecture by 
-            <a href="https://chirag-w.github.io/">
-              Chirag Wadhwa
-            </a>
-          </small>
-        </span>
+
+    <tr style="background:#f8fbff;">
+      <td style="border:1px solid #ddd; padding:10px;">Jul 25 (Fri)</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        Quantum state certification<br>
+        <small><em>Special Guest Lecture by <a href="https://chirag-w.github.io/">Chirag Wadhwa</a></em></small>
       </td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"><a href="/assets/pdf/QLCT/QLCT_Lec3.pdf">Lec 3</a>, <a href="https://drive.google.com/file/d/1gEwIOjYtUgDb3sgVmdE_-scmigWDss7r/view?usp=sharing">Video</a> </span></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="/assets/pdf/QLCT/QLCT_Lec3.pdf">Lec 3</a>, 
+        <a href="https://drive.google.com/file/d/1gEwIOjYtUgDb3sgVmdE_-scmigWDss7r/view?usp=sharing">Video</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_51">[CHW'07] Weak Fourier-Schur sampling, the hidden subgroup problem, and the quantum collision problem</a></li>
           <li><a href="https://dl.acm.org/doi/10.1145/2746539.2746582">[OW'15] Quantum Spectrum Testing</a></li>
           <li><a href="https://dl.acm.org/doi/10.1145/3313276.3316344">[BOW'19] Quantum state certification</a></li>
@@ -128,12 +135,15 @@ This course is an introductory-level overview of quantum learning theory and qua
         </ul>
       </td>
     </tr>
+
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 02 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Quantum property testing</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="/assets/pdf/QLCT/QLCT_Lec4.pdf">Lec 4</a></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+      <td style="border:1px solid #ddd; padding:10px;">Aug 02 (Sat)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Quantum property testing</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="/assets/pdf/QLCT/QLCT_Lec4.pdf">Lec 4</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://arxiv.org/pdf/quant-ph/0005055">[BHMT'00] Quantum Amplitude Amplification and Estimation</a></li>
           <li><a href="https://arxiv.org/pdf/1310.2035">[MW'18] A Survey of Quantum Property Testing</a></li>
           <li><a href="https://arxiv.org/pdf/1902.00814">[GL'19] Distributional property testing in a quantum world</a></li>
@@ -143,22 +153,28 @@ This course is an introductory-level overview of quantum learning theory and qua
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 09 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Applications of the Haar Measure</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="/assets/pdf/QLCT/QLCT_Lec5.pdf">Lec 5</a></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+
+    <tr style="background:#f8fbff;">
+      <td style="border:1px solid #ddd; padding:10px;">Aug 09 (Sat)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Applications of the Haar Measure</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="/assets/pdf/QLCT/QLCT_Lec5.pdf">Lec 5</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://quantum-journal.org/papers/q-2024-05-08-1340/#">[Mel'23] Introduction to Haar Measure Tools in Quantum Information</a></li>
         </ul>
       </td>
     </tr>
+
     <tr>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 23 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Open problems in quantum learning</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span><a href="https://jerryzli.github.io/focs2024-slides/open_questions.pdf">FOCS 2024 Workshop</a></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+      <td style="border:1px solid #ddd; padding:10px;">Aug 23 (Sat)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Open problems in quantum learning</td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <a href="https://jerryzli.github.io/focs2024-slides/open_questions.pdf">FOCS 2024 Workshop</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://arxiv.org/abs/2404.19105">[CGY'24] Optimal tradeoffs for estimating Pauli observables</a></li>
           <li><a href="https://arxiv.org/abs/2405.00082">[BLMT'24] Structure learning of Hamiltonians from real-time evolution</a></li>
           <li><a href="https://arxiv.org/abs/2507.23787">[TW'25] Amplitude amplification and estimation require inverses</a></li>
@@ -166,17 +182,19 @@ This course is an introductory-level overview of quantum learning theory and qua
         </ul>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9; color:black;">
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Aug 30 (Sat)</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;">Several advanced topics and recent results</span></td>
-      <td style="border: 1px solid #ccc;"><span style="color:#000000;"></span></td>
-      <td style="border: 1px solid #ccc;">
-        <ul>
+
+    <tr style="background:#f8fbff;">
+      <td style="border:1px solid #ddd; padding:10px;">Aug 30 (Sat)</td>
+      <td style="border:1px solid #ddd; padding:10px;">Several advanced topics and recent results</td>
+      <td style="border:1px solid #ddd; padding:10px;"></td>
+      <td style="border:1px solid #ddd; padding:10px;">
+        <ul style="margin:0; padding-left:18px;">
           <li><a href="https://arxiv.org/abs/2405.01431">[MMBEGLLO'24] Learning quantum states of continuous variable systems</a></li>
           <li><a href="https://arxiv.org/abs/2505.22743">[CGHQ'25] Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood</a></li>
           <li><a href="https://arxiv.org/abs/2408.06967">[CGYZ'25] Stabilizer Bootstrapping: A Recipe for Agnostic Tomography and Magic Estimation</a></li>
         </ul>
       </td>
     </tr>
+
   </tbody>
 </table>
