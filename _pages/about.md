@@ -123,20 +123,22 @@ I am also broadly interested in theoretical computer science, mathematical physi
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
     Selected Papers
 </h5>
+Full publication list available <a href="/publications/"><b>here</b></a>.
 - <b>Optimal certification of constant-local Hamiltonians</b><br>
 <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
 <i>arXiv Preprint</i> (2025). <br>
-<a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a><br>
+<a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a>, <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/"><b>[Property Testing Review]</b></a><br>
 
 - <b>Efficient learning of bosonic Gaussian unitaries</b><br>
 Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
-<i>arXiv Preprint</i> (2025). Contributed talk at QIP (2026). <br>
+<i>arXiv Preprint</i> (2025). <br>
+Contributed talk at QIP (2026). <br>
 <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>, <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>, <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
 Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
 <i>Quantum</i> (2025). <br>
-<a href="https://arxiv.org/pdf/2408.00314"> <b>[PDF]</b></a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"> <b>[Journal]</b></a>, <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>, <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>, <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review Monthly News]</b></a>
+<a href="https://arxiv.org/pdf/2408.00314"> <b>[PDF]</b></a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"> <b>[Journal]</b></a>, <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>, <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>, <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
 
 
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">

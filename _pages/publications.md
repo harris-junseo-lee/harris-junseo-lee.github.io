@@ -60,7 +60,8 @@ nav_order: 3
       <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
       <i>arXiv preprint</i> (2025).<br>
       <span style="white-space: nowrap;">
-        <a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a>
+        <a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a>,
+        <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/"><b>[Property Testing Review]</b></a>
       </span>
     </li>
   </ol>
@@ -69,7 +70,8 @@ nav_order: 3
     <li style="margin-bottom: 1.15em;">
       <b>Efficient learning of bosonic Gaussian unitaries</b><br>
       Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
-      <i>arXiv preprint</i> (2025). Contributed talk at QIP 2026.<br>
+      <i>arXiv preprint</i> (2025). <br>
+      Contributed talk at QIP 2026.<br>
       <span style="white-space: nowrap;">
         <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>,
         <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>,
