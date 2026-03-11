@@ -107,7 +107,7 @@ Dr. Kabgyun Jeong</a>.
   <a href="http://www.linkedin.com/in/harris-quantum" style=" font-weight:400; text-decoration:none;"> LinkedIn</a>, 
   <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style=" font-weight:400; text-decoration:none;"> Google Scholar</a>, 
   <a href="https://x.com/harris_junseo" style=" font-weight:400; text-decoration:none;"> X (formerly Twitter)</a><br>
-  <strong>Email:</strong> harris (dot) junseo (at) gmail (dot) com
+  <strong>Email:</strong> junseolee (at) fas (dot) harvard (dot) edu
 </div>
 
 <!-- ---
