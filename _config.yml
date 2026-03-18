@@ -234,6 +234,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -628,5 +629,5 @@ jsonresume:
   - references
 
 
-exclude:
-  - assets/jupyter/blog.ipynb
+# exclude:
+#   - assets/jupyter/blog.ipynb
