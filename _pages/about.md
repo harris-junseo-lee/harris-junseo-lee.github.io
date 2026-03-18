@@ -51,54 +51,43 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<div style="
-max-width:600px;
-background:#f6f8fb;
-border:1px solid #e4e8f0;
-border-radius:8px;
-padding:12px 16px;
-margin:12px 0 18px 0;
-font-size:15px;
-line-height:1.65;
-">
 
-<b>Update:</b>
-Starting in Fall 2026, I will begin my PhD in Quantum Science and Engineering at 
-<a href="https://www.harvard.edu/" style=" font-weight:400; text-decoration:none;">Harvard University</a>, 
-where I will be affiliated with the 
-<a href="https://quantum.harvard.edu/" style=" font-weight:400; text-decoration:none;">Harvard Quantum Initiative</a> 
+<b>Update:</b> 
+I will be joining 
+<a href="https://www.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard University</a> 
+in Fall 2026 as a PhD student in Quantum Science and Engineering, 
+affiliated with the 
+<a href="https://quantum.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard Quantum Initiative</a> 
 and the 
-<a href="https://toc.seas.harvard.edu/" style=" font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
+<a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
 
-</div>
-
-I work on 
-<span style="background:#eef4fb; padding:2px 4px; border-radius:4px; font-weight:300">
-<i>theoretical computer science questions concerning quantum systems</i></span>, 
-with a primary focus on quantum learning theory and quantum complexity theory. 
-I am also interested in related problems in theoretical physics and pure mathematics, 
-including areas such as quantum gravity and quantum topology.
-
-Currently, I am a Research Fellow at 
+I am a Research Fellow at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-SNU Institute of Computer Technology</a>, 
-supported by projects funded by the National Research Foundation of Korea (NRF), 
-the Institute for Information and Communications Technology Planning and Evaluation (IITP), 
-and the Electronics and Telecommunications Research Institute (ETRI). 
-Earlier, I completed my mandatory military service in South Korea as a Technical Research Personnel.
+Institute of Computer Technology, Seoul National University</a>, 
+in a position supported by projects from 
+<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">NRF</a>, 
+<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">IITP</a>, and 
+<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
 
-I received a Bachelor of Science in Electrical and Electronic Engineering from 
+My research focuses on theoretical computer science questions concerning quantum systems, 
+particularly quantum learning theory and quantum complexity theory, 
+as well as related problems in theoretical physics and pure mathematics, 
+including quantum gravity and quantum topology.
+
+Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel and was a Research Affiliate at the 
+<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
+Research Institute of Mathematics, Seoul National University</a>. 
+Prior to that, as an undergraduate at 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
 Yonsei University</a>, 
-where I was supported by the 
+supported by the 
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
-Hyundai Motor CMK Scholarship</a>. 
-During my undergraduate studies, I was affiliated with the Quantum Information Theory Group at the 
-<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-SNU Research Institute of Mathematics</a>, 
-where I worked under the supervision of 
+Hyundai Motor CMK Scholarship</a>, I studied Electrical and Electronic Engineering and worked with 
 <a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
-Dr. Kabgyun Jeong</a>.
+Dr. Kabgyun Jeong</a> 
+as part of the Quantum Information Theory Group at the 
+<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
+Research Institute of Mathematics, Seoul National University</a>.
 
 
 <div style="
