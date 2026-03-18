@@ -74,22 +74,30 @@ and the
 
 I work on 
 <span style="background:#eef4fb; padding:2px 4px; border-radius:4px; font-weight:300">
-<i>theoretical computer science questions concerning quantum systems</i></span>, particularly quantum learning theory and quantum complexity theory. I am also interested in related problems in theoretical physics and pure mathematics, including topics such as quantum gravity and quantum topology.
+<i>theoretical computer science questions concerning quantum systems</i></span>, 
+with a primary focus on quantum learning theory and quantum complexity theory. 
+I am also interested in related problems in theoretical physics and pure mathematics, 
+including areas such as quantum gravity and quantum topology.
 
-Before starting my PhD at Harvard, I worked as a Research Scientist at the 
-<a href="https://ict.snu.ac.kr/" style=" font-weight:400; text-decoration:none;">
-SNU Institute of Computer Technology</a>. 
+Currently, I am a Research Fellow at 
+<a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
+SNU Institute of Computer Technology</a>, 
+supported by projects funded by the National Research Foundation of Korea (NRF), 
+the Institute for Information and Communications Technology Planning and Evaluation (IITP), 
+and the Electronics and Telecommunications Research Institute (ETRI). 
 Earlier, I completed my mandatory military service in South Korea as a Technical Research Personnel.
 
 I received a Bachelor of Science in Electrical and Electronic Engineering from 
-<a href="https://www.yonsei.ac.kr/en_sc/index.do" style=" font-weight:400; text-decoration:none;">
-Yonsei University</a>, supported by the 
-<a href="https://www.hyundai-cmkfoundation.org/en/main" style=" font-weight:400; text-decoration:none;">
+<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
+Yonsei University</a>, 
+where I was supported by the 
+<a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
 Hyundai Motor CMK Scholarship</a>. 
 During my undergraduate studies, I was affiliated with the Quantum Information Theory Group at the 
-<a href="https://rim.math.snu.ac.kr/" style=" font-weight:400; text-decoration:none;">
-SNU Research Institute of Mathematics</a>, where I worked under the guidance of 
-<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style=" font-weight:400; text-decoration:none;">
+<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
+SNU Research Institute of Mathematics</a>, 
+where I worked under the supervision of 
+<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
 Dr. Kabgyun Jeong</a>.
 
 
