@@ -88,8 +88,9 @@ Yonsei University</a>, supported by the
 Hyundai Motor CMK Scholarship</a>. 
 During my undergraduate studies, I was affiliated with the Quantum Information Theory Group at the 
 <a href="https://rim.math.snu.ac.kr/" style=" font-weight:400; text-decoration:none;">
-SNU Research Institute of Mathematics</a>, where I worked under the guidance of 
-<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style=" font-weight:400; text-decoration:none;"> Kabgyun Jeong</a>.
+SNU Research Institute of Mathematics</a>, where I worked under the guidance of
+<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style=" font-weight:400; text-decoration:none;">
+Dr. Kabgyun Jeong</a>.
 
 
 <div style="
