@@ -110,15 +110,6 @@ Dr. Kabgyun Jeong</a>.
   <strong>Email:</strong> junseolee (at) fas (dot) harvard (dot) edu
 </div>
 
-<!-- ---
-#### Research Interests
-Recently, my primary research focuses on the following topics:
-- Quantum tomography, learning, and many-body theory
-- Quantum complexity theory
-- Quantum algorithms
-- Continuous-variable quantum information
-
-I am also broadly interested in theoretical computer science, mathematical physics, and computational topology. For a detailed overview of my research directions, please refer to my <a href="/publications/" target="_blank">publications</a>. -->
 
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
     Selected Papers
