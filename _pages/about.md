@@ -64,7 +64,7 @@ and the
 I am currently a Research Fellow at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Institute of Computer Technology, Seoul National University</a>, 
-supported by research projects from the 
+in a position supported by projects from the 
 <a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">National Research Foundation of Korea (NRF)</a>, 
 the 
 <a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">Institute of Information & Communications Technology Planning & Evaluation (IITP)</a>, and 
