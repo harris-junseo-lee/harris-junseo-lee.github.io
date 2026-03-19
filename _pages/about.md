@@ -61,33 +61,36 @@ affiliated with the
 and the 
 <a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
 
-I am a Research Fellow at the 
+I am currently a Research Fellow at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Institute of Computer Technology, Seoul National University</a>, 
-in a position supported by projects from 
-<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">NRF</a>, 
-<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">IITP</a>, and 
-<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
+supported by research projects from the 
+<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">National Research Foundation of Korea (NRF)</a>, 
+the 
+<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">Institute of Information & Communications Technology Planning & Evaluation (IITP)</a>, and 
+the 
+<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">Electronics and Telecommunications Research Institute (ETRI)</a>.
 
 My research focuses on theoretical computer science questions concerning quantum systems, 
 particularly quantum learning theory and quantum complexity theory, 
 as well as related problems in theoretical physics and pure mathematics, 
 including quantum gravity and quantum topology.
 
-Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel and was a Research Affiliate at the 
+Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel, 
+during which I was also a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, Seoul National University</a>. 
-Prior to that, as an undergraduate at 
+Research Institute of Mathematics, Seoul National University (RIM SNU)</a>. 
+Prior to that, I studied Electrical and Electronic Engineering at 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
-Yonsei University</a>, 
-supported by the 
+Yonsei University</a> 
+on a full scholarship from the 
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
-Hyundai Motor CMK Scholarship</a>, I studied Electrical and Electronic Engineering and worked with 
+Hyundai Motor CMK Foundation</a>, and worked with 
 <a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
 Dr. Kabgyun Jeong</a> 
-as part of the Quantum Information Theory Group at the 
+in the Quantum Information Theory Group at 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, Seoul National University</a>.
+RIM SNU</a>.
 
 
 <div style="
