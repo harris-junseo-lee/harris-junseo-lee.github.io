@@ -80,7 +80,7 @@ Previously, I completed my mandatory military service in South Korea as a Techni
 during which I was also a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Research Institute of Mathematics, Seoul National University (RIM SNU)</a>. 
-Prior to that, I studied Electrical and Electronic Engineering at 
+Prior to that, I completed my undergraduate studies in Electrical and Electronic Engineering at 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
 Yonsei University</a> 
 on a full scholarship from the 
