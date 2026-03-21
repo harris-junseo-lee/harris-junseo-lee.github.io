@@ -64,12 +64,11 @@ and the
 I am currently a Research Fellow at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Institute of Computer Technology, Seoul National University</a>, 
-in a position supported by projects from the 
-<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">National Research Foundation of Korea (NRF)</a>, 
-the 
-<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">Institute of Information & Communications Technology Planning & Evaluation (IITP)</a>, and 
-the 
-<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">Electronics and Telecommunications Research Institute (ETRI)</a>.
+supported by 
+<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">NRF</a>, 
+<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">IITP</a>, 
+and 
+<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
 
 My research focuses on theoretical computer science questions concerning quantum systems, 
 particularly quantum learning theory and quantum complexity theory, 
