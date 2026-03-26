@@ -63,22 +63,21 @@ and the
 
 I am currently a Research Fellow at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Institute of Computer Technology, Seoul National University</a>, 
+Institute of Computer Technology, Seoul National University (SNU)</a>, 
 supported by 
-<a href="https://eng.nrf.re.kr/main?sso=ok" style="font-weight:400; text-decoration:none;">NRF</a>, 
+<a href="https://www.nrf.re.kr/eng/index" style="font-weight:400; text-decoration:none;">NRF</a>, 
 <a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">IITP</a>, 
 and 
 <a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
 
-My research focuses on theoretical computer science questions concerning quantum systems, 
+My research focuses on theoretical computer science aspects of quantum systems, 
 particularly quantum learning theory and quantum complexity theory, 
-as well as related problems in theoretical physics and pure mathematics, 
-including quantum gravity and quantum topology.
+as well as their connections to quantum many-body physics.
 
 Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel, 
 during which I was also a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, Seoul National University (RIM SNU)</a>. 
+Research Institute of Mathematics, SNU (RIM SNU)</a>. 
 Prior to that, I completed my undergraduate studies in Electrical and Electronic Engineering at 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
 Yonsei University</a> 
@@ -86,10 +85,8 @@ on a full scholarship from the
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
 Hyundai Motor CMK Foundation</a>, and worked with 
 <a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
-Dr. Kabgyun Jeong</a> 
-in the Quantum Information Theory Group at 
-<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-RIM SNU</a>.
+Kabgyun Jeong</a> 
+at RIM SNU.
 
 
 <div style="
