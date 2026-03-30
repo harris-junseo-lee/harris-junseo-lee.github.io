@@ -54,7 +54,7 @@ nav_order: 3
     Preprints &amp; Submitted
   </h5>
   
-  <ol start="16" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="14" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Optimal certification of constant-local Hamiltonians</b><br>
       <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
@@ -66,7 +66,7 @@ nav_order: 3
     </li>
   </ol>
 
-  <ol start="15" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="13" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Efficient learning of bosonic Gaussian unitaries</b><br>
       Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
@@ -80,7 +80,7 @@ nav_order: 3
     </li>
   </ol>
 
-  <ol start="14" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <!-- <ol start="14" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis</b><br>
       Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
@@ -89,9 +89,9 @@ nav_order: 3
         <a href="https://arxiv.org/pdf/2508.01516"><b>[PDF]</b></a>
       </span>
     </li>
-  </ol>
+  </ol> -->
 
-  <ol start="13" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="12" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy</b><br>
       Kartik Anand, Kabgyun Jeong, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b><br>
@@ -102,7 +102,7 @@ nav_order: 3
     </li>
   </ol>
 
-  <ol start="12" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.8em;">
+  <!-- <ol start="12" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes</b><br>
       <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Nhat A. Nghiem<br>
@@ -111,7 +111,7 @@ nav_order: 3
         <a href="https://arxiv.org/pdf/2506.01432"><b>[PDF]</b></a>
       </span>
     </li>
-  </ol>
+  </ol> -->
 
   <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
 
