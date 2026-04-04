@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: junseo.jpg
-  image_circular: false
+  image: board.jpg
+  image_circular: true
   more_info: |
     <div style="
       margin-top: -7px;
@@ -89,41 +89,32 @@ Kabgyun Jeong</a>
 at RIM SNU.
 
 
-<div style="
-  border-left: 4px solid #8B1E2D;
-  background-color: #faf6f7;
-  padding: 10px 14px;
-  margin: 6px 0 0 0;
-  border-radius: 4px;
-  display: inline-block;
-  line-height: 1.6;
-">
-  <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
-  <strong>Profiles:</strong> 
-  <a href="http://www.linkedin.com/in/harris-quantum" style=" font-weight:400; text-decoration:none;"> LinkedIn</a>, 
-  <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style=" font-weight:400; text-decoration:none;"> Google Scholar</a>, 
-  <a href="https://x.com/harris_junseo" style=" font-weight:400; text-decoration:none;"> X (formerly Twitter)</a><br>
-  <strong>Email:</strong> junseolee (at) fas (dot) harvard (dot) edu
-</div>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
+🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
+<a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">Google Scholar</a>, 
+<a href="https://x.com/harris_junseo" style="font-weight:400; text-decoration:none;">X (formerly Twitter)</a><br>
+📧 <span style="font-family: monospace;">junseolee (at) fas.harvard.edu </span>(primary)<br>
+📧 <span style="font-family: monospace;">junseolee (at) snu.ac.kr </span>(SNU-related)
 
 
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
     Selected Papers
 </h5>
 Full publication list available <a href="/publications/"><b>here</b></a>.
-- <b>Optimal certification of constant-local Hamiltonians</b><br>
-<b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Myeongjin Shin<br>
-<i>arXiv Preprint</i> (2025). <br>
-<a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a>, <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/"><b>[Property Testing Review]</b></a><br>
+
+- <b>Certifying and learning local quantum Hamiltonians</b><br>
+  <span style="letter-spacing:-0.002em;"> with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin </span><br>
+  Contributed talk at TQC (2026).<br>
+  <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
+  <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
 
 - <b>Efficient learning of bosonic Gaussian unitaries</b><br>
-Marco Fanizza, Vishnu Iyer, <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Antonio Anna Mele, Francesco Anna Mele<br>
-<i>arXiv Preprint</i> (2025). <br>
+with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
 Contributed talk at QIP (2026). <br>
 <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>, <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>, <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
-Myeongjin Shin<sup>✻</sup>, <b><span style="color:navy">Junseo Lee<sup>✻</sup></span></b>, Seungwoo Lee, Kabgyun Jeong<br>
+with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
 <i>Quantum</i> (2025). <br>
 <a href="https://arxiv.org/pdf/2408.00314"> <b>[PDF]</b></a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"> <b>[Journal]</b></a>, <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>, <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>, <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
 
