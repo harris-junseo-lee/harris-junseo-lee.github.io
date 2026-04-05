@@ -111,13 +111,13 @@ Full publication list available <a href="/publications/"><b>here</b></a>.
 
 - <b>Certifying and learning local quantum Hamiltonians</b><br>
   <span style="letter-spacing:-0.002em;"> with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin </span><br>
-  Contributed talk at TQC (2026).<br>
+  <i>Contributed talk at TQC</i> (2026).<br>
   <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
   <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
 
 - <b>Efficient learning of bosonic Gaussian unitaries</b><br>
 with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
-Contributed talk at QIP (2026). <br>
+<i>Contributed talk at QIP</i> (2026). <br>
 <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>, <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>, <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
 
 - <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
