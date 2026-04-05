@@ -61,7 +61,7 @@ This course is an introductory-level overview of quantum learning theory and qua
 
 <!-- All lectures are scheduled for <span style="color:#2e86c1;">Saturdays at 3 PM</span>, except <span style="color:#c0392b;">Lecture 2</span>, which will be held on Sunday. -->
 
-<table style="border-collapse: collapse; width: 100%; font-size: 15px; border: 1px solid #ddd;">
+<table style="border-collapse: collapse; width: 100%; font-size: 15px; border: 1px solid #ddd; color:#000;">
   <thead style="background:#1f4e79; color:white;">
     <tr>
       <th style="padding:12px; border:1px solid #ddd; width:130px;">Date</th>
