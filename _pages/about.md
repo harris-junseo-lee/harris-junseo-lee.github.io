@@ -78,16 +78,19 @@ Previously, I completed my mandatory military service in South Korea as a Techni
 during which I was also a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Research Institute of Mathematics, SNU (RIM SNU)</a>. 
-Prior to that, I completed my undergraduate studies in Electrical and Electronic Engineering at 
+Prior to that, I received my B.S. in Electrical and Electronic Engineering from 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
-Yonsei University</a> 
-on a full scholarship from the 
+Yonsei University</a>, 
+where I was supported by the 
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
-Hyundai Motor CMK Foundation</a>, and worked with 
+Hyundai Motor CMK Science and Technology Scholarship</a>, and worked with 
 <a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
 Kabgyun Jeong</a> 
-at RIM SNU.
-
+at the 
+<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
+Research Institute of Mathematics, SNU (RIM SNU)</a>. 
+Earlier, I was an Early Honors Graduate of Chungnam Science High School, 
+with a concentration in mathematics, where I first began working on quantum information theory.
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
