@@ -102,7 +102,7 @@ with a concentration in mathematics, where I first began working on quantum info
 <a href="https://x.com/harris_junseo" style="font-weight:400; text-decoration:none;">X (formerly Twitter)</a><br>
 📨 <span style="font-family: monospace;">junseolee [at] fas.harvard.edu </span>(primary)<br>
 📨 <span style="font-family: monospace;">junseolee [at] snu.ac.kr </span>(SNU-related)<br>
-💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology</span>
+💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology, Room 203</span>
 
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
     Selected Papers
