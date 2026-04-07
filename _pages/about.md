@@ -56,11 +56,11 @@ social: false # includes social icons at the bottom of the page
 I will be joining 
 <a href="https://www.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard University</a> 
 in Fall 2026 as a PhD student in Quantum Science and Engineering, 
-working with 
+where I am fortunate to be co-advised by 
 <a href="https://anuraganshu.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Anurag Anshu</a>, 
 <a href="https://sitanchen.com/" style="font-weight:400; text-decoration:none;">Sitan Chen</a>, and 
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="font-weight:400; text-decoration:none;">Jordan Cotler</a>. 
-I will be affiliated with the 
+I will also be affiliated with the 
 <a href="https://quantum.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard Quantum Initiative</a> 
 and the 
 <a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
