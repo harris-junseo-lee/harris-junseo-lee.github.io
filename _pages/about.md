@@ -78,23 +78,20 @@ My research focuses on theoretical computer science aspects of quantum systems,
 particularly quantum learning theory and quantum complexity theory, 
 as well as their connections to quantum many-body physics.
 
-Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel, 
-during which I was also a Research Affiliate at the 
+Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel and was a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, SNU (RIM SNU)</a>. 
-Prior to that, I received my B.S. in Electrical and Electronic Engineering from 
+Research Institute of Mathematics, SNU</a>. 
+Before that, I received my B.S. in Electrical and Electronic Engineering from 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
-Yonsei University</a>, 
-where I was supported by the 
+Yonsei University</a>, where I was supported by the 
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
-Hyundai Motor CMK Science and Technology Scholarship</a>, and worked with 
+Hyundai Motor CMK Science and Technology Scholarship</a> and worked with 
 <a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
-Kabgyun Jeong</a> 
-at the 
+Kabgyun Jeong</a> at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, SNU (RIM SNU)</a>. 
-Earlier, I was an Early Honors Graduate of Chungnam Science High School, 
-with a concentration in mathematics, where I first began working on quantum information theory.
+Research Institute of Mathematics, SNU</a>.
+<!-- Earlier, I was an Early Honors Graduate of Chungnam Science High School, 
+with a concentration in mathematics, where I first began working on quantum information theory. -->
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
@@ -107,7 +104,7 @@ with a concentration in mathematics, where I first began working on quantum info
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
     Selected Papers
 </h5>
-Full publication list available <a href="/publications/"><b>here</b></a>.
+A full publication list is available <a href="/publications/"><b>here</b></a>.
 
 - <b>Certifying and learning local quantum Hamiltonians</b><br>
   <span style="letter-spacing:-0.002em;"> with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin </span><br>
@@ -127,8 +124,13 @@ with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
 
 
 <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Recent Teaching
+    Selected Teaching
 </h5>
-- <a href="/bosonic-learning-theory-winter26/" target="_black"> Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)</a>
-- <a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a>
-- <a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a> 
+
+A full list of teaching materials is available <a href="/teaching/"><b>here</b></a>.
+
+<ul>
+<li><a href="/bosonic-learning-theory-winter26/" target="_blank">Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)</a></li>
+<li><a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a></li>
+<li><a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a></li>
+</ul>
