@@ -93,44 +93,163 @@ Research Institute of Mathematics, SNU</a>.
 <!-- Earlier, I was an Early Honors Graduate of Chungnam Science High School, 
 with a concentration in mathematics, where I first began working on quantum information theory. -->
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae (CV)</b></a><br>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 19, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
 <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">Google Scholar</a>, 
 <a href="https://x.com/harris_junseo" style="font-weight:400; text-decoration:none;">X (formerly Twitter)</a><br>
-📨 <span style="font-family: monospace;">junseolee [at] fas.harvard.edu </span>(primary)<br>
-📨 <span style="font-family: monospace;">junseolee [at] snu.ac.kr </span>(SNU-related)<br>
+📨 <span style="font-family: monospace;">junseolee [at] fas.harvard.edu</span><br>
+<!-- 📨 <span style="font-family: monospace;">junseolee [at] snu.ac.kr </span>(SNU-related)<br> -->
 💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology, Room 203</span>
 
-<h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Selected Papers
-</h5>
-A full publication list is available <a href="/publications/"><b>here</b></a>.
 
-- <b>Certifying and learning local quantum Hamiltonians</b><br>
-  <span style="letter-spacing:-0.002em;"> with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin </span><br>
-  <i>Contributed talk at TQC</i> (2026).<br>
-  <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
-  <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
-
-- <b>Efficient learning of bosonic Gaussian unitaries</b><br>
-with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
-<i>Contributed talk at QIP</i> (2026). <br>
-<a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>, <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>, <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
-
-- <b>Resource-efficient algorithm for estimating the trace of quantum state powers<br></b>
-with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
-<i>Quantum</i> (2025). <br>
-<a href="https://arxiv.org/pdf/2408.00314"> <b>[PDF]</b></a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"> <b>[Journal]</b></a>, <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>, <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>, <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
-
-
-<h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Selected Teaching
+<h5
+  onclick="togglePapers()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Selected Papers</span>
+  <span id="papers-icon" style="font-size: 1.2em; transition: transform 0.2s ease;">+</span>
 </h5>
 
-A full list of teaching materials is available <a href="/teaching/"><b>here</b></a>.
+<div
+  id="papers-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+    A full publication list is available <a href="/publications/"><b>here</b></a>.
 
-<ul>
-<li><a href="/bosonic-learning-theory-winter26/" target="_blank">Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)</a></li>
-<li><a href="/quantum-complexity-reading-group-fall25/" target="_blank">Quantum Complexity Theory Reading Group (Fall 2025)</a></li>
-<li><a href="/qlct/" target="_blank">Quantum Learning and Complexity Theory (Summer 2025)</a></li>
-</ul>
+    <ul style="padding-left: 1.2em; margin-top: 0.8em;">
+      <li style="margin-bottom: 1em;">
+        <b>Certifying and learning local quantum Hamiltonians</b><br>
+        <span style="letter-spacing:-0.002em;">
+          with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin
+        </span><br>
+        <i>Contributed talk at TQC</i> (2026).<br>
+        <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
+        <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a>
+      </li>
+
+      <li style="margin-bottom: 1em;">
+        <b>Efficient learning of bosonic Gaussian unitaries</b><br>
+        with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
+        <i>Contributed talk at QIP</i> (2026).<br>
+        <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>,
+        <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>,
+        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
+      </li>
+
+      <li style="margin-bottom: 0.5em;">
+        <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
+        with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
+        <i>Quantum</i> (2025).<br>
+        <a href="https://arxiv.org/pdf/2408.00314"><b>[PDF]</b></a>,
+        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>[Journal]</b></a>,
+        <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>,
+        <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>,
+        <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function togglePapers() {
+    const content = document.getElementById("papers-content");
+    const icon = document.getElementById("papers-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+</script>
+
+
+<h5
+  onclick="toggleTeaching()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Selected Teaching</span>
+  <span id="teaching-icon" style="font-size: 1.2em; transition: transform 0.2s ease;">+</span>
+</h5>
+
+<div
+  id="teaching-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+    A full list of teaching materials is available
+    <a href="/teaching/"><b>here</b></a>.
+
+    <ul style="margin-top: 0.8em;">
+      <li>
+        <a href="/bosonic-learning-theory-winter26/" target="_blank">
+          Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)
+        </a>
+      </li>
+      <li>
+        <a href="/quantum-complexity-reading-group-fall25/" target="_blank">
+          Quantum Complexity Theory Reading Group (Fall 2025)
+        </a>
+      </li>
+      <li>
+        <a href="/qlct/" target="_blank">
+          Quantum Learning and Complexity Theory (Summer 2025)
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  function toggleTeaching() {
+    const content = document.getElementById("teaching-content");
+    const icon = document.getElementById("teaching-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+</script>
