@@ -74,24 +74,16 @@ supported by
 and 
 <a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
 
-My research focuses on theoretical computer science aspects of quantum systems, 
-particularly quantum learning theory and quantum complexity theory, 
-as well as their connections to quantum many-body physics.
+My research focuses on the mathematical and theoretical computer science aspects of quantum systems, particularly quantum learning theory and quantum complexity theory, as well as their connections to quantum many-body physics.
 
-Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel and was a Research Affiliate at the 
+Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel, during which I was a Research Affiliate at the 
 <a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
 Research Institute of Mathematics, SNU</a>. 
-Before that, I received my B.S. in Electrical and Electronic Engineering from 
+I received my B.S. in Electrical and Electronic Engineering from 
 <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="font-weight:400; text-decoration:none;">
 Yonsei University</a>, where I was supported by the 
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
-Hyundai Motor CMK Science and Technology Scholarship</a> and worked with 
-<a href="https://sites.google.com/site/kabgyunspage/?pli=1" style="font-weight:400; text-decoration:none;">
-Kabgyun Jeong</a> at the 
-<a href="https://rim.math.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Research Institute of Mathematics, SNU</a>.
-<!-- Earlier, I was an Early Honors Graduate of Chungnam Science High School, 
-with a concentration in mathematics, where I first began working on quantum information theory. -->
+Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 19, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
@@ -99,7 +91,7 @@ with a concentration in mathematics, where I first began working on quantum info
 <a href="https://x.com/harris_junseo" style="font-weight:400; text-decoration:none;">X (formerly Twitter)</a><br>
 📨 <span style="font-family: monospace;">junseolee [at] fas.harvard.edu</span><br>
 <!-- 📨 <span style="font-family: monospace;">junseolee [at] snu.ac.kr </span>(SNU-related)<br> -->
-💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology, Room 203</span>
+<!-- 💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology, Room 203</span> -->
 
 
 <h5
@@ -251,5 +243,215 @@ with a concentration in mathematics, where I first began working on quantum info
       content.style.opacity = "1";
       icon.textContent = "−";
     }
+  }
+</script>
+
+
+
+<h5
+  onclick="toggleMentoring()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Mentoring</span>
+  <span id="mentoring-icon" style="font-size: 1.2em;">+</span>
+</h5>
+
+<div
+  id="mentoring-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+
+    <p>
+      During my time as a Research Fellow and Research Affiliate at Seoul National University, I mentored undergraduate students in research. It was a great privilege and a deeply rewarding experience to work with such talented students, and I learned a great deal from our collaborations as well.
+    </p>
+
+    <ul style="margin-top: 0.8em;">
+
+      <li>
+        <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
+          Myeongjin Shin
+        </a>
+        (Spring 2023–present, co-supervised with 
+        <a href="https://sites.google.com/site/kabgyunspage/" style="font-weight:400; text-decoration:none;">
+          Kabgyun Jeong</a>)
+      </li>
+
+      <li>
+        <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
+          Mingyu Lee
+        </a>
+        (Spring 2024–present, co-supervised with 
+        <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="font-weight:400; text-decoration:none;">
+          Sathya Subramanian</a>)
+      </li>
+
+      <li>
+        <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
+          Donghwa Ji
+        </a>
+        (Spring 2025–present, co-supervised with 
+        <a href="https://sites.google.com/site/kabgyunspage/" style="font-weight:400; text-decoration:none;">
+          Kabgyun Jeong</a>)
+      </li>
+
+      <li>
+        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
+          Kartik Anand
+        </a>
+        (Summer 2025)
+      </li>
+
+    </ul>
+
+  </div>
+  I would be happy to mentor research projects if there is a suitable fit. Feel free to reach out by email if you are interested!
+</div>
+
+<script>
+  function toggleMentoring() {
+    const content = document.getElementById("mentoring-content");
+    const icon = document.getElementById("mentoring-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+</script>
+
+
+
+<h5
+  onclick="toggleMisc()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Miscellaneous</span>
+  <span id="misc-icon" style="font-size: 1.2em;">+</span>
+</h5>
+
+<div
+  id="misc-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+    <p>
+      I enjoy playing table tennis and piano, and I also like a wide variety of puzzle games.
+    </p>
+
+    <p>
+        I am also particularly interested in the <a href="https://www.genealogy.math.ndsu.nodak.edu/" style="font-weight:400; text-decoration:none;"><b>Mathematics Genealogy Project</b></a>. By tracing the academic lineages of my advisors, I came across several fascinating connections. In particular, it was striking to encounter figures such as 
+        <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" style="font-weight:400; text-decoration:none;"><b>Leonhard Euler</b></a> (from Anurag Anshu), 
+        <a href="https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi" style="font-weight:400; text-decoration:none;"><b>Carl Gustav Jacob Jacobi</b></a> (from Sitan Chen), and 
+        <a href="https://en.wikipedia.org/wiki/Paul_Dirac" style="font-weight:400; text-decoration:none;"><b>Paul Dirac</b></a> (from Jordan Cotler) 
+        along these lineages!
+    </p>
+
+    <p style="margin-top: 0.8em;">
+      <a
+        href="javascript:void(0);"
+        onclick="toggleLineageList(event)"
+        style="font-weight:400; text-decoration:none;"
+      >
+        <span id="lineage-toggle-text">See full list</span>
+      </a>
+    </p>
+
+    <div
+      id="lineage-list"
+      style="
+        display: none;
+        margin-top: 0.8em;
+        line-height: 1.7;
+      "
+    >
+      <p>
+        Anurag Anshu → Rahul Jain → Jaikumar Radhakrishnan → Endre Szemerédi → Israel Gelfand → Andrey Kolmogorov → Nikolai Luzin → Dmitri Egorov → Nikolai Bugaev → Joseph Liouville → Siméon Poisson → Joseph-Louis Lagrange → Leonhard Euler → Johann Bernoulli → (...)
+      </p>
+
+      <p>
+        Sitan Chen → Ankur Moitra → Thomson Leighton → Gary Miller → Manuel Blum → Marvin Minsky → Albert W. Tucker → Solomon Lefschetz → William Edward Story → Carl Neumann → Friedrich Julius Richelot → Carl Gustav Jacob Jacobi → Enno Dirksen → Johann Tobias Mayer → (...)
+      </p>
+
+      <p>
+        Jordan Cotler → Patrick Hayden → Artur Ekert → David Deutsch → Dennis Sciama → Paul Dirac → Ralph Fowler → Archibald Vivian Hill → Sir Walter Fletcher → John Newport Langley → Michael Foster → Thomas Henry Huxley → Thomas W. Jones → William MacKenzie → (...)
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleMisc() {
+    const content = document.getElementById("misc-content");
+    const icon = document.getElementById("misc-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+
+  function toggleLineageList(event) {
+    event.stopPropagation();
+
+    const list = document.getElementById("lineage-list");
+    const text = document.getElementById("lineage-toggle-text");
+    const miscContent = document.getElementById("misc-content");
+
+    if (list.style.display === "none" || list.style.display === "") {
+      list.style.display = "block";
+      text.textContent = "Hide full list";
+    } else {
+      list.style.display = "none";
+      text.textContent = "See full list";
+    }
+
+    setTimeout(() => {
+      if (miscContent.style.maxHeight !== "0px") {
+        miscContent.style.maxHeight = miscContent.scrollHeight + "px";
+      }
+    }, 10);
   }
 </script>
