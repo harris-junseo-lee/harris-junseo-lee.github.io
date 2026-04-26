@@ -65,14 +65,9 @@ I will also be affiliated with the
 and the 
 <a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
 
-I am currently a Research Fellow at the 
+I am currently a Research Associate at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
-Institute of Computer Technology, Seoul National University (SNU)</a>, 
-supported by 
-<a href="https://www.nrf.re.kr/eng/index" style="font-weight:400; text-decoration:none;">NRF</a>, 
-<a href="https://www.iitp.kr/eng/index.do" style="font-weight:400; text-decoration:none;">IITP</a>, 
-and 
-<a href="https://www.etri.re.kr/eng/main/main.etri" style="font-weight:400; text-decoration:none;">ETRI</a>.
+Institute of Computer Technology, Seoul National University (SNU)</a>, hosted by Kabgyun Jeong.
 
 My research focuses on the mathematical and theoretical computer science aspects of quantum systems, particularly quantum learning theory and quantum complexity theory, as well as their connections to quantum many-body physics.
 
@@ -85,7 +80,7 @@ Yonsei University</a>, where I was supported by the
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="font-weight:400; text-decoration:none;">
 Hyundai Motor CMK Science and Technology Scholarship</a>.
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 19, 2026)<br>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 26, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="font-weight:400; text-decoration:none;">LinkedIn</a>, 
 <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">Google Scholar</a>, 
 <a href="https://x.com/harris_junseo" style="font-weight:400; text-decoration:none;">X (formerly Twitter)</a><br>
@@ -288,8 +283,8 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
         <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
           Myeongjin Shin
         </a>
-        (Spring 2023–present, co-supervised with 
-        <a href="https://sites.google.com/site/kabgyunspage/" style="font-weight:400; text-decoration:none;">
+        (KAIST, Spring 2023–present, co-supervised with 
+        <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
 
@@ -297,17 +292,18 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
           Mingyu Lee
         </a>
-        (Spring 2024–present, co-supervised with 
-        <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="font-weight:400; text-decoration:none;">
-          Sathya Subramanian</a>)
+        (SNU, Research Intern at University of Oxford, Spring 2024–present, co-supervised with 
+        <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/">
+          Sathyawageeswar Subramanian</a> and <a href="https://sites.google.com/site/kabgyunspage/">
+          Kabgyun Jeong</a>)
       </li>
 
       <li>
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
           Donghwa Ji
         </a>
-        (Spring 2025–present, co-supervised with 
-        <a href="https://sites.google.com/site/kabgyunspage/" style="font-weight:400; text-decoration:none;">
+        (SNU, Spring 2025–present, co-supervised with 
+        <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
 
@@ -315,7 +311,14 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
         <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
           Kartik Anand
         </a>
-        (Summer 2025)
+        (IIT Goa, Summer 2025)
+      </li>
+
+      <li>
+        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
+          Arul Rhik Mazumder
+        </a>
+        (CMU, Spring 2026-present)
       </li>
 
     </ul>

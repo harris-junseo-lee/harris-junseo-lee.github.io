@@ -51,8 +51,20 @@ nav_order: 2
 <div style="font-size: 15px; line-height: 1.65;">
 
   <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Preprints &amp; Submitted
+    Preprints
   </h5>
+  
+  <ol start="16" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+    <li style="margin-bottom: 1.15em;">
+      <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
+      <span style="letter-spacing:-0.019em;">
+      Myeongjin Shin, <b><span style="color:navy;">Junseo Lee</span></b>, Changhun Oh
+      </span><br>
+      <i>To appear</i> (2026).<br>
+      <!-- <i>arXiv preprint</i> (2026). <br> -->
+        <!-- <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>, -->
+    </li>
+  </ol>
   
   <ol start="15" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
