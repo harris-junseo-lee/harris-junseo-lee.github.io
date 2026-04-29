@@ -376,7 +376,7 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
 >
   <div style="padding-top: 0.4em;">
     <p>
-      I enjoy playing table tennis and piano, and I also like a wide variety of puzzle games.
+      I enjoy playing table tennis and the piano, and I also like a wide variety of puzzle games. I was born in Asan, South Korea, and spent most of my life in Seoul.
     </p>
 
     <p>
@@ -393,7 +393,7 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
         onclick="toggleLineageList(event)"
         style="font-weight:400; text-decoration:none;"
       >
-        <span id="lineage-toggle-text">See full list</span>
+        <span id="lineage-toggle-text"> [See full list] </span>
       </a>
     </p>
 
@@ -445,10 +445,10 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
 
     if (list.style.display === "none" || list.style.display === "") {
       list.style.display = "block";
-      text.textContent = "Hide full list";
+      text.textContent = "[Hide full list]";
     } else {
       list.style.display = "none";
-      text.textContent = "See full list";
+      text.textContent = "[See full list]";
     }
 
     setTimeout(() => {
