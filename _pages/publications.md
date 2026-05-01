@@ -60,9 +60,8 @@ nav_order: 2
       <span style="letter-spacing:-0.019em;">
       Myeongjin Shin, <b><span style="color:navy;">Junseo Lee</span></b>, Changhun Oh
       </span><br>
-      <i>To appear</i> (2026).<br>
-      <!-- <i>arXiv preprint</i> (2026). <br> -->
-        <!-- <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>, -->
+      <i>arXiv preprint</i> (2026). <br>
+        <a href="https://arxiv.org/pdf/2604.27838"><b>[PDF]</b></a>
     </li>
   </ol>
   
