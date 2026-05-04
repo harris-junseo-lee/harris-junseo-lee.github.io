@@ -52,18 +52,18 @@ social: false # includes social icons at the bottom of the page
 
 
 
-<b>Update:</b> 
-I will be joining 
-<a href="https://www.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard University</a> 
-in Fall 2026 as a PhD student in Quantum Science and Engineering, 
-where I am fortunate to be co-advised by 
+I am an incoming PhD student in Quantum Science and Engineering at 
+<a href="https://www.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard University</a>, 
+starting in Fall 2026, where I am fortunate to be co-advised by 
 <a href="https://anuraganshu.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Anurag Anshu</a>, 
 <a href="https://sitanchen.com/" style="font-weight:400; text-decoration:none;">Sitan Chen</a>, and 
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="font-weight:400; text-decoration:none;">Jordan Cotler</a>. 
 I will also be affiliated with the 
 <a href="https://quantum.harvard.edu/" style="font-weight:400; text-decoration:none;">Harvard Quantum Initiative</a> 
 and the 
-<a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>.
+<a href="https://toc.seas.harvard.edu/" style="font-weight:400; text-decoration:none;">Theory of Computation Group</a>, 
+and cross-registered at the 
+<a href="https://www.mit.edu/" style="font-weight:400; text-decoration:none;">Massachusetts Institute of Technology (MIT)</a>.
 
 I am currently a Research Associate at the 
 <a href="https://ict.snu.ac.kr/" style="font-weight:400; text-decoration:none;">
@@ -87,6 +87,91 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
 📨 <span style="font-family: monospace;">junseolee [at] fas.harvard.edu</span><br>
 <!-- 📨 <span style="font-family: monospace;">junseolee [at] snu.ac.kr </span>(SNU-related)<br> -->
 <!-- 💼 <span style="font-family: monospace;">SNU Bldg #138 Institute of Computer Technology, Room 203</span> -->
+
+
+
+<h5
+  onclick="toggleNews()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>News</span>
+  <span id="news-icon" style="font-size: 1.2em;">+</span>
+</h5>
+
+<div
+  id="news-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+
+    <ul style="margin-top: 0.1em;">
+
+      <li>
+        <b>Apr. 2026:</b> I gave a <a href="https://www.linkedin.com/posts/harris-quantum_quantumcomputing-ugcPost-7451973783667785728-mJEH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWtYG8Byci-8uftMxr4hHdXV7ORmM8_trA" style="text-decoration:none;">career talk</a> for students at Shinil High School.
+      </li>
+
+      <li>
+        <b>Apr. 2026:</b> Our paper on <a href="https://arxiv.org/abs/2603.29809" style="text-decoration:none;">Hamiltonian certification</a> was selected as a contributed talk at TQC 2026.
+      </li>
+
+      <li>
+        <b>Apr. 2026:</b> I joined the Institute of Computer Technology at Seoul National University as a Research Associate.
+      </li>
+
+      <li>
+        <b>Mar. 2026:</b> I visited Harvard for the QSE Open House and continued my visit with support from Anurag Anshu.
+      </li>
+
+      <li>
+        <b>Mar. 2026:</b> I completed my mandatory military service!
+      </li>
+
+      <li>
+        <b>Feb. 2026:</b> I was honored to be admitted to the Ph.D. programs in QSE at Harvard and Physics at MIT. I have decided to join Harvard QSE for my Ph.D. studies and am excited for the journey ahead!
+      </li>
+
+    </ul>
+
+  </div>
+</div>
+
+<script>
+  function toggleNews() {
+    const content = document.getElementById("news-content");
+    const icon = document.getElementById("news-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+</script>
+
+
+
+
+
 
 
 <h5
@@ -172,6 +257,15 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
 </script>
 
 
+
+
+
+
+
+
+
+
+
 <h5
   onclick="toggleTeaching()"
   style="
@@ -243,6 +337,14 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 
 
+
+
+
+
+
+
+
+
 <h5
   onclick="toggleMentoring()"
   style="
@@ -274,57 +376,65 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
   <div style="padding-top: 0.4em;">
 
     <p>
-      During my time as a Research Fellow and Research Affiliate at Seoul National University, I mentored undergraduate students in research. It was a great privilege and a deeply rewarding experience to work with such talented students, and I learned a great deal from our collaborations as well.
+      I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding students and learned a great deal from our collaborations. The students I have worked with are listed below:
     </p>
 
     <ul style="margin-top: 0.8em;">
 
+      <!-- <li>
+          <b>Hugo Mackay</b>
+        (Harvard College, Summer 2026–present, co-mentored with <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
+      </li> -->
+      
       <li>
-        <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
-          Myeongjin Shin
+        <a href="https://arulrhikm.github.io/" style="font-weight:400; text-decoration:none;">
+          <b>Arul Rhik Mazumder</b>
         </a>
-        (KAIST, Spring 2023–present, co-supervised with 
+        (Carnegie Mellon University, Spring 2026–present)
+      </li>
+
+      <li>
+        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
+          <b>Kartik Anand</b>
+        </a>
+        (Indian Institute of Technology Goa, Summer 2025), now a master's student at Hamburg University of Technology
+      </li>
+
+      <li>
+        <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
+          <b>Donghwa Ji</b>
+        </a>
+        (Seoul National University, Spring 2025–present, co-mentored with 
         <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
 
       <li>
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
-          Mingyu Lee
+          <b>Mingyu Lee</b>
         </a>
-        (SNU, Research Intern at University of Oxford, Spring 2024–present, co-supervised with 
+        (Seoul National University, Research Intern at the University of Oxford, Spring 2024–present, co-mentored with 
         <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/">
-          Sathyawageeswar Subramanian</a> and <a href="https://sites.google.com/site/kabgyunspage/">
-          Kabgyun Jeong</a>)
-      </li>
-
-      <li>
-        <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
-          Donghwa Ji
-        </a>
-        (SNU, Spring 2025–present, co-supervised with 
+          Sathyawageeswar Subramanian</a> and 
         <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
 
       <li>
-        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
-          Kartik Anand
+        <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
+          <b>Myeongjin Shin</b>
         </a>
-        (IIT Goa, Summer 2025)
-      </li>
-
-      <li>
-        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
-          Arul Rhik Mazumder
-        </a>
-        (CMU, Spring 2026-present)
+        (Korea Advanced Institute of Science and Technology, Spring 2023–present, co-mentored with 
+        <a href="https://sites.google.com/site/kabgyunspage/">
+          Kabgyun Jeong</a>)
       </li>
 
     </ul>
 
   </div>
-  I would be happy to mentor research projects if there is a suitable fit. Feel free to reach out by email if you are interested!
+  <p>
+    I would be happy to mentor research projects if there is a good fit. Please feel free to reach out by email if you are interested!
+  </p>
 </div>
 
 <script>
@@ -343,6 +453,12 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
     }
   }
 </script>
+
+
+
+
+
+
 
 
 
@@ -380,10 +496,10 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
     </p>
 
     <p>
-        I am also particularly interested in the <a href="https://www.genealogy.math.ndsu.nodak.edu/" style="font-weight:400; text-decoration:none;"><b>Mathematics Genealogy Project</b></a>. By tracing the academic lineages of my advisors, I came across several fascinating connections. In particular, it was striking to encounter figures such as 
-        <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" style="font-weight:400; text-decoration:none;"><b>Leonhard Euler</b></a> (from Anurag Anshu), 
-        <a href="https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi" style="font-weight:400; text-decoration:none;"><b>Carl Gustav Jacob Jacobi</b></a> (from Sitan Chen), and 
-        <a href="https://en.wikipedia.org/wiki/Paul_Dirac" style="font-weight:400; text-decoration:none;"><b>Paul Dirac</b></a> (from Jordan Cotler) 
+        I am also particularly interested in the <a href="https://www.genealogy.math.ndsu.nodak.edu/" style="font-weight:400; text-decoration:none;">Mathematics Genealogy Project</a>. By tracing the academic lineages of my advisors, I came across several fascinating connections. In particular, it was striking to encounter figures such as 
+        <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" style="font-weight:400; text-decoration:none;">Leonhard Euler</a> (from Anurag Anshu), 
+        <a href="https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi" style="font-weight:400; text-decoration:none;">Carl Gustav Jacob Jacobi</a> (from Sitan Chen), and 
+        <a href="https://en.wikipedia.org/wiki/Paul_Dirac" style="font-weight:400; text-decoration:none;">Paul Dirac</a> (from Jordan Cotler) 
         along these lineages!
     </p>
 

@@ -75,7 +75,7 @@ nav_order: 2
       </span><br>
       <i>Contributed talk at TQC</i> (2026).<br>
       <!-- <i>arXiv preprint</i> (2026). <br> -->
-        <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
+        <a href="https://arxiv.org/pdf/2603.29809"><b>[PDF]</b></a>,
         <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
         <b>Note:</b> This work subsumes a previous note (joint with M. Shin), <a href="https://arxiv.org/pdf/2512.09778v1"><b>arXiv:2512.09778</b></a>.
     </li>
@@ -93,16 +93,6 @@ nav_order: 2
     </li>
   </ol>
 
-  <!-- <ol start="14" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
-    <li style="margin-bottom: 1.15em;">
-      <b>Hybrid quantum-classical framework for Betti number estimation with applications to topological data analysis</b><br>
-      Nhat A. Nghiem, <b><span style="color:navy">Junseo Lee</span></b>, Tzu-Chieh Wei<br>
-      <i>arXiv preprint</i> (2025).<br>
-      <span style="white-space: nowrap;">
-        <a href="https://arxiv.org/pdf/2508.01516"><b>[PDF]</b></a>
-      </span>
-    </li>
-  </ol> -->
 
   <ol start="13" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
@@ -113,16 +103,6 @@ nav_order: 2
     </li>
   </ol>
 
-  <!-- <ol start="12" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.8em;">
-    <li style="margin-bottom: 1.15em;">
-      <b>New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes</b><br>
-      <b><span style="color:navy">Junseo Lee<sup>†</sup></span></b>, Nhat A. Nghiem<br>
-      <i>arXiv preprint</i> (2025).<br>
-      <span style="white-space: nowrap;">
-        <a href="https://arxiv.org/pdf/2506.01432"><b>[PDF]</b></a>
-      </span>
-    </li>
-  </ol> -->
 
   <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
 
