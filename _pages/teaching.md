@@ -3,9 +3,9 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:
-nav: true
+nav: false
 nav_order: 3
-dropdown: true
+dropdown: false
 children:
   - title: Teaching List
     permalink: /teaching/
@@ -43,10 +43,13 @@ children:
 
 <div style="font-size:15px; line-height:1.65;">
 
-<h5 style="margin-top:1.8em; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em;">
-Instructor
+<!-- Instructor -->
+<h5 onclick="toggleInstructor()" style="margin-top:1.8em; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
+  <span>Instructor</span>
+  <span id="instructor-icon">+</span>
 </h5>
 
+<div id="instructor-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
 <ul style="padding-left:1.4em; margin-top:0.6em;">
 
 <li style="margin-bottom:1em;">
@@ -83,15 +86,17 @@ Fall 2024, Korea Aerospace University and Korea Quantum Industry Center
 </li>
 
 </ul>
-
+</div>
 
 <hr style="border:none; border-top:1px solid #FFFFFF; margin:1em 0;">
 
-
-<h5 style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em;">
-Teaching Assistant
+<!-- TA -->
+<h5 onclick="toggleTA()" style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
+  <span>Teaching Assistant</span>
+  <span id="ta-icon">+</span>
 </h5>
 
+<div id="ta-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
 <ul style="padding-left:1.4em; margin-top:0.6em;">
 
 <li style="margin-bottom:1em;">
@@ -110,15 +115,17 @@ Fall 2021, Yonsei University
 </li>
 
 </ul>
-
+</div>
 
 <hr style="border:none; border-top:1px solid #FFFFFF; margin:1em 0;">
 
-
-<h5 style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em;">
-Course Tutor
+<!-- Tutor -->
+<h5 onclick="toggleTutor()" style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
+  <span>Course Tutor</span>
+  <span id="tutor-icon">+</span>
 </h5>
 
+<div id="tutor-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
 <ul style="padding-left:1.4em; margin-top:0.6em;">
 
 <li style="margin-bottom:1em;">
@@ -134,5 +141,35 @@ Fall 2021, Yonsei University<br>
 </li>
 
 </ul>
+</div>
 
 </div>
+
+<script>
+function toggleSection(contentId, iconId) {
+  const content = document.getElementById(contentId);
+  const icon = document.getElementById(iconId);
+
+  if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+    content.style.maxHeight = "0";
+    content.style.opacity = "0";
+    icon.textContent = "+";
+  } else {
+    content.style.maxHeight = content.scrollHeight + "px";
+    content.style.opacity = "1";
+    icon.textContent = "−";
+  }
+}
+
+function toggleInstructor() {
+  toggleSection("instructor-content", "instructor-icon");
+}
+
+function toggleTA() {
+  toggleSection("ta-content", "ta-icon");
+}
+
+function toggleTutor() {
+  toggleSection("tutor-content", "tutor-icon");
+}
+</script>
