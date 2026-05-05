@@ -3,14 +3,31 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-    <div style="
+    <style>
+    .subtitle-logos {
       margin-top: -7px;
       margin-bottom: 6px;
       display: flex;
       flex-direction: row;
       align-items: center;
       gap: 10px;
-    ">
+    }
+
+    /* 모바일 대응 */
+    @media (max-width: 600px) {
+      .subtitle-logos {
+        flex-direction: column;
+        align-items: flex-start; /* 왼쪽 정렬 */
+        gap: 6px;
+      }
+
+      .subtitle-logos img {
+        height: 40px; /* 살짝 줄이면 더 자연스러움 */
+      }
+    }
+    </style>
+
+    <div class="subtitle-logos">
       <img src="/assets/img/HQI.png"
           style="height: 52px; width: auto; object-fit: contain;">
       <img src="/assets/img/GSAS.png"
