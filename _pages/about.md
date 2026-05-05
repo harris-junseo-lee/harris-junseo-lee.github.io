@@ -81,7 +81,7 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/board.jpg" style="width:126px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
+<img src="/assets/img/board.jpg" style="width:120px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
 
 
 I am an incoming PhD student in Quantum Science and Engineering at the 
