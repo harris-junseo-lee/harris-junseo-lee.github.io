@@ -241,7 +241,7 @@ Hyundai Motor CMK Science and Technology Scholarship</a>.
   <div style="padding-top: 0.4em;">
     A full publication list is available <a href="/publications/"><b>here</b></a>.
 
-    <ul style="padding-left: 1.2em; margin-top: 0.8em;">
+    <ul style="margin-top: 0.8em;">
       <li style="margin-bottom: 1em;">
         <b>Certifying and learning local quantum Hamiltonians</b><br>
         <span style="letter-spacing:-0.002em;">
