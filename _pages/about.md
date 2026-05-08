@@ -94,12 +94,14 @@ I am fortunate to be co-advised by
 <a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">John A. Paulson School of Engineering and Applied Sciences</a>, as well as 
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a> at the 
 <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>. 
-I will also be part of the 
+I am also part of the 
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> 
 and the 
-<a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>, 
-and will be cross-registered at the 
-<a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">Massachusetts Institute of Technology (MIT)</a>.
+<a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. 
+In addition, I am cross-registered at the 
+<a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a> 
+and work closely with the 
+<a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
 
 I am currently a Research Associate at the 
 <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">
