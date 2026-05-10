@@ -59,6 +59,7 @@ nav_order: 2
       <i>Contributed talk at TQC</i> (2026).<br>
       <!-- <i>arXiv preprint</i> (2026). <br> -->
         <a href="https://arxiv.org/pdf/2603.29809"><b>[PDF]</b></a>,
+        <a href="/assets/pdf/tqc26.pdf" target="_blank"><b>[Slides]</b></a>,
         <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
         <b>Note:</b> This work subsumes a previous note (joint with M. Shin), <a href="https://arxiv.org/pdf/2512.09778v1"><b>arXiv:2512.09778</b></a>.
     </li>
