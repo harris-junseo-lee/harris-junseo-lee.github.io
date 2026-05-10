@@ -94,7 +94,7 @@ I am part of the
 the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a> at the
 <a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard John A. Paulson School of Engineering and Applied Sciences</a>,
 and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Department of Physics</a>.
-In addition, I am cross-registered at MIT and work closely with researchers in the quantum information theory group at the
+In addition, I am cross-registered at MIT and work closely with the quantum information theory group at the
 <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
 
 My research lies at the intersection of quantum information, theoretical computer science, and mathematical physics, with a particular focus on quantum learning theory, quantum complexity theory, and quantum many-body systems.
