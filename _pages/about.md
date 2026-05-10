@@ -81,42 +81,27 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/board.jpg" style="width:120px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
+<img src="/assets/img/board.jpg" style="width:125px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
 
 
-I am an incoming PhD student in Quantum Science and Engineering at the 
-<a href="https://gsas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Kenneth C. Griffin Graduate School of Arts and Sciences</a>, 
-starting in Fall 2026. 
+I am an incoming PhD student in Quantum Science and Engineering at <b>Harvard University</b>, starting in Fall 2026. I am fortunate to be co-advised by
+<a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
+<a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
+<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
 
-I am fortunate to be co-advised by 
-<a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a> and 
-<a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a> at the 
-<a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">John A. Paulson School of Engineering and Applied Sciences</a>, as well as 
-<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a> at the 
-<a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>. 
-I am also part of the 
-<a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> 
-and the 
-<a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. 
-In addition, I am cross-registered at the 
-<a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a> 
-and work closely with the 
+I am part of the
+<a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
+the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a> at the
+<a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard John A. Paulson School of Engineering and Applied Sciences</a>,
+and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Department of Physics</a>.
+In addition, I am cross-registered at MIT and work closely with researchers in the quantum information theory group at the
 <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
 
-I am currently a Research Associate at the 
-<a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">
-SNU Institute of Computer Technology</a>, hosted by Kabgyun Jeong.
+My research lies at the intersection of quantum information, theoretical computer science, and mathematical physics, with a particular focus on quantum learning theory, quantum complexity theory, and quantum many-body systems.
 
-My research focuses on the mathematical and theoretical computer science aspects of quantum systems, particularly quantum learning theory and quantum complexity theory, as well as their connections to quantum many-body physics.
+Previously, I was a Research Associate at the
+<a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a>. Before that, I completed my mandatory military service in South Korea as a Technical Research Personnel and was also a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. Prior to that, I was an undergraduate student at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
-Previously, I completed my mandatory military service in South Korea as a Technical Research Personnel and was a Research Affiliate at the 
-<a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">
-SNU Research Institute of Mathematics</a>. 
-I received my B.S. in Electrical and Electronic Engineering from 
-<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">
-Yonsei University</a>, supported by the 
-<a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">
-Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 26, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
