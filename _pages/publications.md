@@ -31,6 +31,8 @@ nav_order: 2
 </html>
 
 
+In theoretical computer science, theoretical physics, and mathematics, authors are usually listed alphabetically by last name, while applied papers often use contribution-based ordering.
+
 
 <div style="font-size: 15px; line-height: 1.65;">
 
