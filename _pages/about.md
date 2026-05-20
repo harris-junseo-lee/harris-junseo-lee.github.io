@@ -422,7 +422,7 @@ Previously, I was a Research Associate at the
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
           <b>Donghwa Ji</b>
         </a>
-        (Seoul National University, Spring 2025–present, co-mentored with 
+        (SNU, Spring 2025–present, co-mentored with 
         <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
@@ -431,7 +431,7 @@ Previously, I was a Research Associate at the
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
           <b>Mingyu Lee</b>
         </a>
-        (Seoul National University, Research Intern at the University of Oxford, Spring 2024–present, co-mentored with 
+        (SNU, Research Intern at the University of Oxford, Spring 2024–present, co-mentored with 
         <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/">
           Sathyawageeswar Subramanian</a> and 
         <a href="https://sites.google.com/site/kabgyunspage/">
@@ -442,7 +442,7 @@ Previously, I was a Research Associate at the
         <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
           <b>Myeongjin Shin</b>
         </a>
-        (Korea Advanced Institute of Science and Technology, Spring 2023–present, co-mentored with 
+        (KAIST, Spring 2023–present, co-mentored with 
         <a href="https://sites.google.com/site/kabgyunspage/">
           Kabgyun Jeong</a>)
       </li>
