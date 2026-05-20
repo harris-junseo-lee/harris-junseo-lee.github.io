@@ -288,6 +288,140 @@ Previously, I was a Research Associate at the
 
 
 <h5
+  onclick="toggleMentoring()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Mentoring</span>
+  <span id="mentoring-icon" style="font-size: 1.2em;">+</span>
+</h5>
+
+<div
+  id="mentoring-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+
+    <p>
+      I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding students and learned a great deal from our collaborations. The students I have worked with are listed below:
+    </p>
+
+    <h6 style="margin-bottom: 0.4em;"><b>Current Mentees:</b></h6>
+    <ul style="margin-top: 0.4em;">
+
+      <li>
+        <b>Hugo Mackay</b> (Harvard College, 2026–)
+        <ul>
+          <li>
+            <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
+              Herchel Smith Undergraduate Science Research Program
+            </a>
+            (co-mentored with
+            <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
+          </li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="https://arulrhikm.github.io/" style="text-decoration:none;"><b>Arul Rhik Mazumder</b></a>
+        (Carnegie Mellon University, 2026–)
+      </li>
+
+      <li>
+        <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
+        (SNU, 2025–)
+        [<a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4" style="text-decoration:none;"><i>Quantum Sci. Technol. ’26</i></a>]
+      </li>
+
+      <li>
+        <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="text-decoration:none;"><b>Mingyu Lee</b></a>
+        (SNU, 2024–)
+        [<a href="https://www.nature.com/articles/s41598-025-18476-y" style="text-decoration:none;"><i>Sci. Rep. ’25</i></a>]
+        <ul>
+          <li>
+            Research Intern at the University of Oxford
+            (2026, co-mentored with
+            <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="text-decoration:none;">Sathyawageeswar Subramanian</a>)
+          </li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="https://myeongjinshin.github.io/" style="text-decoration:none;"><b>Myeongjin Shin</b></a>
+        (KAIST, 2023–)
+        [<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.062418" style="text-decoration:none;"><i>PRA ’24</i></a>,
+        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/" style="text-decoration:none;"><i>Quantum ’25</i></a>,
+        <a href="https://arxiv.org/abs/2603.29809" style="text-decoration:none;"><i>TQC ’26</i></a>]
+        <ul>
+          <li>
+            Caltech Summer Undergraduate Research Fellowships
+            (2026, co-mentored with Yu Tong)
+          </li>
+        </ul>
+      </li>
+
+    </ul>
+
+    <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;"><b>Former Mentees:</b></h6>
+    <ul style="margin-top: 0.4em;">
+
+      <li>
+        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="text-decoration:none;"><b>Kartik Anand</b></a>
+        (IIT Goa, 2025)
+        [<a href="https://arxiv.org/abs/2506.19792v2" style="text-decoration:none;"><i>arXiv ’25</i></a>]
+      </li>
+
+    </ul>
+
+  </div>
+  <p>
+    I would be happy to mentor research projects if there is a good fit. Please feel free to reach out by email if you are interested!
+  </p>
+</div>
+
+<script>
+  function toggleMentoring() {
+    const content = document.getElementById("mentoring-content");
+    const icon = document.getElementById("mentoring-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<h5
   onclick="toggleTeaching()"
   style="
     margin-top: 1.8em;
@@ -354,123 +488,6 @@ Previously, I was a Research Associate at the
 </script>
 
 
-
-
-
-
-
-
-
-
-
-<h5
-  onclick="toggleMentoring()"
-  style="
-    margin-top: 1.8em;
-    margin-bottom: 0.6em;
-    color: #1f4e79;
-    border-bottom: 2px solid #d9e6f2;
-    padding-bottom: 0.25em;
-    cursor: pointer;
-    user-select: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  "
->
-  <span>Mentoring</span>
-  <span id="mentoring-icon" style="font-size: 1.2em;">+</span>
-</h5>
-
-<div
-  id="mentoring-content"
-  style="
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    transition: max-height 0.45s ease, opacity 0.3s ease;
-  "
->
-  <div style="padding-top: 0.4em;">
-
-    <p>
-      I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding students and learned a great deal from our collaborations. The students I have worked with are listed below:
-    </p>
-
-    <ul style="margin-top: 0.8em;">
-
-      <li>
-          <b>Hugo Mackay</b>
-        (Harvard College, Summer 2026–present, co-mentored with <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
-      </li>
-      
-      <li>
-        <a href="https://arulrhikm.github.io/" style="font-weight:400; text-decoration:none;">
-          <b>Arul Rhik Mazumder</b>
-        </a>
-        (Carnegie Mellon University, Summer 2026–present)
-      </li>
-
-      <li>
-        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="font-weight:400; text-decoration:none;">
-          <b>Kartik Anand</b>
-        </a>
-        (Indian Institute of Technology Goa, Summer 2025), now a master's student at Hamburg University of Technology
-      </li>
-
-      <li>
-        <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
-          <b>Donghwa Ji</b>
-        </a>
-        (SNU, Spring 2025–present, co-mentored with 
-        <a href="https://sites.google.com/site/kabgyunspage/">
-          Kabgyun Jeong</a>)
-      </li>
-
-      <li>
-        <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="font-weight:400; text-decoration:none;">
-          <b>Mingyu Lee</b>
-        </a>
-        (SNU, Research Intern at the University of Oxford, Spring 2024–present, co-mentored with 
-        <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/">
-          Sathyawageeswar Subramanian</a> and 
-        <a href="https://sites.google.com/site/kabgyunspage/">
-          Kabgyun Jeong</a>)
-      </li>
-
-      <li>
-        <a href="https://myeongjinshin.github.io/" style="font-weight:400; text-decoration:none;">
-          <b>Myeongjin Shin</b>
-        </a>
-        (KAIST, Spring 2023–present, co-mentored with 
-        <a href="https://sites.google.com/site/kabgyunspage/">
-          Kabgyun Jeong</a>)
-      </li>
-
-    </ul>
-
-  </div>
-  <p>
-    I would be happy to mentor research projects if there is a good fit. Please feel free to reach out by email if you are interested!
-  </p>
-</div>
-
-<script>
-  function toggleMentoring() {
-    const content = document.getElementById("mentoring-content");
-    const icon = document.getElementById("mentoring-icon");
-
-    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
-      content.style.maxHeight = "0";
-      content.style.opacity = "0";
-      icon.textContent = "+";
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-      content.style.opacity = "1";
-      icon.textContent = "−";
-    }
-  }
-</script>
 
 
 
