@@ -399,10 +399,10 @@ Previously, I was a Research Associate at the
 
     <ul style="margin-top: 0.8em;">
 
-      <!-- <li>
+      <li>
           <b>Hugo Mackay</b>
         (Harvard College, Summer 2026–present, co-mentored with <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
-      </li> -->
+      </li>
       
       <li>
         <a href="https://arulrhikm.github.io/" style="font-weight:400; text-decoration:none;">
