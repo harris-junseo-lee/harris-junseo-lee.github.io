@@ -94,14 +94,11 @@ I am part of the
 the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a> at the
 <a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard John A. Paulson School of Engineering and Applied Sciences</a>,
 and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Department of Physics</a>.
-In addition, I am cross-registered at MIT and work closely with the quantum information theory group at the
-<a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
+In addition, I am cross-registered at MIT and work with the quantum information theory group at the <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
 
-My research lies at the intersection of quantum information, theoretical computer science, and mathematical physics, with a particular focus on quantum learning theory, quantum complexity theory, and quantum many-body systems.
+My research focuses on quantum information science from the perspectives of theoretical computer science and theoretical physics, with particular interests in quantum complexity theory, algorithms for learning quantum systems, quantum many-body theory, and their connections to quantum gravity and quantum field theory.
 
-Previously, I was a Research Associate at the
-<a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a>. Before that, I completed my mandatory military service in South Korea as a Technical Research Personnel and was also a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. Prior to that, I was an undergraduate student at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
-
+Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 26, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
@@ -228,33 +225,23 @@ Previously, I was a Research Associate at the
 
     <ul style="margin-top: 0.8em;">
       <li style="margin-bottom: 1em;">
-        <b>Certifying and learning local quantum Hamiltonians</b><br>
+        <a href="https://arxiv.org/abs/2603.29809"><b>Certifying and learning local quantum Hamiltonians</b></a><br>
         <span style="letter-spacing:-0.002em;">
           with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin
         </span><br>
         <i>Contributed talk at TQC</i> (2026).<br>
-        <a href="https://arxiv.org/abs/2603.29809"><b>[PDF]</b></a>,
-        <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a>
       </li>
 
       <li style="margin-bottom: 1em;">
-        <b>Efficient learning of bosonic Gaussian unitaries</b><br>
+        <a href="https://arxiv.org/pdf/2510.05531v1"><b>Efficient learning of bosonic Gaussian unitaries</b></a><br>
         with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
         <i>Contributed talk at QIP</i> (2026).<br>
-        <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>,
-        <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>,
-        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
       </li>
 
       <li style="margin-bottom: 0.5em;">
-        <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
+        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Resource-efficient algorithm for estimating the trace of quantum state powers</b></a><br>
         with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
         <i>Quantum</i> (2025).<br>
-        <a href="https://arxiv.org/pdf/2408.00314"><b>[PDF]</b></a>,
-        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>[Journal]</b></a>,
-        <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slide]</b></a>,
-        <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>,
-        <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
       </li>
     </ul>
   </div>
@@ -331,7 +318,7 @@ Previously, I was a Research Associate at the
             <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
               Herchel Smith Undergraduate Science Research Program
             </a>
-            (co-mentored with
+            (2026, co-mentored with
             <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
           </li>
         </ul>
