@@ -32,6 +32,8 @@ subtitle: |
           style="height: 52px; width: auto; object-fit: contain;">
       <img src="/assets/img/GSAS.png"
           style="height: 42px; width: auto; object-fit: contain;">
+      <img src="/assets/img/IAIFI.png"
+          style="height: 43px; width: auto; object-fit: contain;">
     </div>
 
 # profile:
@@ -84,7 +86,7 @@ social: false # includes social icons at the bottom of the page
 <img src="/assets/img/board.jpg" style="width:125px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
 
 
-I am an incoming PhD student in Quantum Science and Engineering at <b>Harvard University</b>, starting in Fall 2026. I am fortunate to be co-advised by
+I am an incoming PhD student in Quantum Science and Engineering at <b>Harvard University</b>. I am fortunate to be co-advised by
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
@@ -94,13 +96,13 @@ I am part of the
 the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a> at the
 <a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard John A. Paulson School of Engineering and Applied Sciences</a>,
 and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Department of Physics</a>.
-In addition, I am cross-registered at MIT and work with the quantum information theory group at the <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
+I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
 My research focuses on quantum information science from the perspectives of theoretical computer science and theoretical physics, with particular interests in quantum complexity theory, algorithms for learning quantum systems, quantum many-body theory, and their connections to quantum gravity and quantum field theory.
 
 Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: April 26, 2026)<br>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: May 23, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
 <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | 
 <a href="https://x.com/harris_junseo" style="text-decoration:none;">X (formerly Twitter)</a><br>
@@ -140,6 +142,10 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
 
     <ul style="margin-top: 0.1em;">
 
+      <li>
+        <b>May 2026:</b> I joined the <a href="https://iaifi.org/" style="text-decoration:none;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a> as a Junior Investigator.
+      </li>
+      
       <li>
         <b>Apr. 2026:</b> I gave an <a href="https://www.linkedin.com/posts/harris-quantum_quantumcomputing-ugcPost-7451973783667785728-mJEH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWtYG8Byci-8uftMxr4hHdXV7ORmM8_trA" style="text-decoration:none;">invited career talk</a> for students at Shinil High School.
       </li>
