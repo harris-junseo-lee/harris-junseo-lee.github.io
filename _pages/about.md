@@ -83,24 +83,24 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/board.jpg" style="width:125px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
+<img src="/assets/img/board.jpg" style="width:110px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
 
 
-I am an incoming PhD student in Quantum Science and Engineering at <b>Harvard University</b>. I am fortunate to be co-advised by
+I am an incoming PhD student in Quantum Science and Engineering at <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be co-advised by
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
 
-I am part of the
+At Harvard, I am associated with the
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
-the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a> at the
-<a href="https://seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard John A. Paulson School of Engineering and Applied Sciences</a>,
-and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Department of Physics</a>.
-I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
+the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>,
+and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>.
+I am also a Junior Investigator at the
+<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
-My research focuses on quantum information science from the perspectives of theoretical computer science and theoretical physics, with particular interests in quantum complexity theory, algorithms for learning quantum systems, quantum many-body theory, and their connections to quantum gravity and quantum field theory.
+My research lies at the interface of theoretical computer science and theoretical physics, with the goal of understanding the quantum world. I am particularly interested in quantum complexity theory and quantum gravity, learning algorithms for quantum systems, and questions in quantum many-body physics and topological quantum field theory, including computation with anyons.
 
-Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
+Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. Before that, I completed my undergraduate studies in electrical and electronic engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: May 23, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
