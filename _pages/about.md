@@ -87,7 +87,7 @@ social: false # includes social icons at the bottom of the page
 
 
 I am an incoming PhD student in Quantum Science and Engineering at 
-<b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by
+<b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
@@ -99,7 +99,7 @@ and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; 
 I am also a Junior Investigator at the
 <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
-My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am interested in quantum complexity theory, including the quantum PCP conjecture, area laws, and connections between complexity, black holes, and quantum field theory. I also study algorithms for learning and extracting information from quantum systems, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
+My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am broadly interested in quantum complexity theory, including the quantum PCP conjecture, area laws, and connections to black holes and quantum field theory. I also study algorithms for learning quantum systems and extracting information from them, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
 
 Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. Before that, I completed my undergraduate studies in electrical and electronic engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
@@ -364,7 +364,7 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
         <ul>
           <li>
             Caltech Summer Undergraduate Research Fellowships
-            (2026, co-mentored with Yu Tong)
+            (2026)
           </li>
         </ul>
       </li>
