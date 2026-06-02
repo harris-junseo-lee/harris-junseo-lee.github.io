@@ -232,23 +232,21 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
 
     <ul style="margin-top: 0.8em;">
       <li style="margin-bottom: 1em;">
-        <a href="https://arxiv.org/abs/2603.29809"><b>Certifying and learning local quantum Hamiltonians</b></a><br>
-        <span style="letter-spacing:-0.002em;">
-          with Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin
-        </span><br>
-        <i>Contributed talk at TQC</i> (2026).<br>
+        <b>Certifying and learning local quantum Hamiltonians</b><br>
+        (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
+        <a href="https://tqc-conference.org/2026/"><b>Contributed talk at TQC (2026)</b></a><br>
       </li>
 
       <li style="margin-bottom: 1em;">
-        <a href="https://arxiv.org/pdf/2510.05531v1"><b>Efficient learning of bosonic Gaussian unitaries</b></a><br>
-        with Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele<br>
-        <i>Contributed talk at QIP</i> (2026).<br>
+        <b>Efficient learning of bosonic Gaussian unitaries</b><br>
+        (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
+        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>Contributed talk at QIP (2026)</b></a><br>
       </li>
 
       <li style="margin-bottom: 0.5em;">
-        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Resource-efficient algorithm for estimating the trace of quantum state powers</b></a><br>
-        with Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong<br>
-        <i>Quantum</i> (2025).<br>
+        <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
+        (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
+        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Quantum 9, 1832 (2025)</b></a><br>
       </li>
     </ul>
   </div>
