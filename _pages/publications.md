@@ -31,210 +31,150 @@ nav_order: 2
 </html>
 
 
-In theoretical computer science, theoretical physics, and mathematics, authors are usually listed alphabetically by last name, while applied papers often use contribution-based ordering.
-
-
 <div style="font-size: 15px; line-height: 1.65;">
-
-  <h5 style="margin-top: 1.8em; margin-bottom: 0.6em; color: #000000; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Preprints
-  </h5>
   
-  <ol start="16" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="16" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
-      <span style="letter-spacing:-0.019em;">
-      Myeongjin Shin, Junseo Lee, Changhun Oh
-      </span><br>
-      <i>arXiv preprint</i> (2026). <br>
-        <a href="https://arxiv.org/pdf/2604.27838"><b>[PDF]</b></a>
+      (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
+      Preprint: <a href="https://arxiv.org/pdf/2604.27838">arxiv:2604.27838</a>
     </li>
   </ol>
   
-  <ol start="15" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="15" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Certifying and learning local quantum Hamiltonians</b><br>
-      <span style="letter-spacing:-0.015em;">
-      Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, 
-      Junseo Lee, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin
-      </span><br>
-      <i>Contributed talk at TQC</i> (2026).<br>
-      <!-- <i>arXiv preprint</i> (2026). <br> -->
-        <a href="https://arxiv.org/pdf/2603.29809"><b>[PDF]</b></a>,
-        <a href="/assets/pdf/tqc26.pdf" target="_blank"><b>[Slides]</b></a>,
-        <a href="https://tqc-conference.org/2026/"><b>[TQC 2026]</b></a> <br>
-        <b>Note:</b> This work subsumes a previous note (joint with M. Shin), <a href="https://arxiv.org/pdf/2512.09778v1"><b>arXiv:2512.09778</b></a>.
+      (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
+        <a href="https://tqc-conference.org/2026/"><b>Contributed talk at TQC (2026)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2603.29809">arXiv:2603.29809</a>, 
+        Note: This work subsumes a previous note (joint with M. Shin), <a href="https://arxiv.org/pdf/2512.09778v1">arXiv:2512.09778</a>.
     </li>
   </ol>
 
-  <ol start="14" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="14" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Efficient learning of bosonic Gaussian unitaries</b><br>
-      Marco Fanizza, Vishnu Iyer, Junseo Lee, Antonio Anna Mele, Francesco Anna Mele<br>
-      <i>Contributed talk at QIP</i> (2026).<br>
-      <!-- <i>arXiv preprint</i> (2025). <br> -->
-        <a href="https://arxiv.org/pdf/2510.05531v1"><b>[PDF]</b></a>,
-        <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank"><b>[Slides]</b></a>,
-        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>[QIP 2026]</b></a>
+      (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
+        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>Contributed talk at QIP (2026)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2510.05531v1">arXiv:2510.05531</a>,
+        Materials: <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank">Slides</a>
     </li>
   </ol>
 
 
-  <ol start="13" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="13" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy</b><br>
-      Kartik Anand, Kabgyun Jeong, Junseo Lee<br>
-      <i>arXiv preprint</i> (2025).<br>
-        <a href="https://www.arxiv.org/pdf/2506.19792"><b>[PDF]</b></a>
+      (<i>with</i> Kartik Anand, Kabgyun Jeong)<br>
+        Preprint: <a href="https://www.arxiv.org/pdf/2506.19792">arXiv:2506.19792</a>
     </li>
   </ol>
 
-
-  <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
-
-  <h5 style="margin-top: 0; margin-bottom: 0.6em; color: #000000; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Journal Articles
-  </h5>
-
-  <ol start="12" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="12" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Bounding quantum uncommon information with quantum neural estimators</b><br>
-      Donghwa Ji, Junseo Lee, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong<br>
-      <i>Quantum Science and Technology</i> (2026).<br>
-        <a href="https://arxiv.org/pdf/2507.06091"><b>[PDF]</b></a>,
-        <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4"><b>[Journal]</b></a>
+      (<i>with</i> Donghwa Ji, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong)<br>
+        <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4"><b>Quantum Science and Technology 11, 015001 (2026)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2507.06091">arXiv:2507.06091</a>
     </li>
   </ol>
 
-  <ol start="11" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="11" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Mutual information maximizing quantum generative adversarial networks</b><br>
-      Mingyu Lee, Myeongjin Shin, Junseo Lee, Kabgyun Jeong<br>
-      <i>Scientific Reports</i> (2025).<br>
-        <a href="https://arxiv.org/pdf/2309.01363"><b>[PDF]</b></a>,
-        <a href="https://doi.org/10.1038/s41598-025-18476-y"><b>[Journal]</b></a>
+      (<i>with</i> Mingyu Lee, Myeongjin Shin, Kabgyun Jeong)<br>
+        <a href="https://doi.org/10.1038/s41598-025-18476-y"><b>Scientific Reports 15, 32835 (2025)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2309.01363">arXiv:2309.01363</a>
     </li>
   </ol>
 
-  <ol start="10" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="10" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
-      Myeongjin Shin, Junseo Lee, Seungwoo Lee, Kabgyun Jeong<br>
-      <i>Quantum</i> (2025).<br>
-        <a href="https://arxiv.org/pdf/2408.00314"><b>[PDF]</b></a>,
-        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>[Journal]</b></a>,
-        <a href="/assets/pdf/rank_qst.pdf" target="_blank"><b>[Slides]</b></a>,
-        <a href="/assets/pdf/rank_poster.pdf" target="_blank"><b>[Poster]</b></a>,
-        <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/"><b>[Property Testing Review]</b></a>
+      (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
+        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Quantum 9, 1832 (2025)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2408.00314">arXiv:2408.00314</a>,
+        Materials: <a href="/assets/pdf/rank_qst.pdf" target="_blank">Slides</a>,
+        <a href="/assets/pdf/rank_poster.pdf" target="_blank">Poster</a>,
+        <a href="https://ptreview.sublinear.info/2025/09/news-for-august-2025/">Property Testing Review</a>
     </li>
   </ol>
 
-  <ol start="9" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="9" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</b><br>
-      Myeongjin Shin, Seungwoo Lee, Junseo Lee, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong<br>
-      <i>Physical Review A</i> (2024).<br>
-        <a href="https://arxiv.org/pdf/2401.07716"><b>[PDF]</b></a>,
-        <a href="https://doi.org/10.1103/PhysRevA.110.062418"><b>[Journal]</b></a>
+      (<i>with</i> Myeongjin Shin, Seungwoo Lee, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong)<br>
+        <a href="https://doi.org/10.1103/PhysRevA.110.062418"><b>Physical Review A 110, 062418 (2024)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2401.07716">arXiv:2401.07716</a>
     </li>
   </ol>
 
-  <ol start="8" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="8" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Estimating quantum mutual information through a quantum neural network</b><br>
-      Myeongjin Shin, Junseo Lee, Kabgyun Jeong<br>
-      <i>Quantum Information Processing</i> (2024).<br>
-        <a href="https://arxiv.org/pdf/2306.14566"><b>[PDF]</b></a>,
-        <a href="https://link.springer.com/article/10.1007/s11128-023-04253-1"><b>[Journal]</b></a>
+      (<i>with</i> Myeongjin Shin, Kabgyun Jeong)<br>
+        <a href="https://link.springer.com/article/10.1007/s11128-023-04253-1"><b>Quantum Information Processing 23, 57 (2024)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2306.14566">arXiv:2306.14566</a>
     </li>
   </ol>
 
-  <ol start="7" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="7" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Quantum Rényi entropy functionals for bosonic gaussian systems</b><br>
-      Junseo Lee, Kabgyun Jeong<br>
-      <i>Physics Letters A</i> (2023).<br>
-        <a href="https://arxiv.org/pdf/2204.10737"><b>[PDF]</b></a>,
-        <a href="https://doi.org/10.1016/j.physleta.2023.129183"><b>[Journal]</b></a>,
-        <a href="https://www.sciencedirect.com/special-issue/10LJ1CVKVVQ"><b>[PLA Special Issue]</b></a>
+      (<i>with</i> Kabgyun Jeong)<br>
+        <a href="https://doi.org/10.1016/j.physleta.2023.129183"><b>Physics Letters A 490, 129183 (2023)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2204.10737">arXiv:2204.10737</a>, Materials: <a href="https://www.sciencedirect.com/special-issue/10LJ1CVKVVQ">PLA Special Issue</a>
     </li>
   </ol>
 
-  <ol start="6" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="6" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Weighted p-Rényi entropy power inequality: Information theory to quantum Shannon theory</b><br>
-      Junseo Lee, Hyeonjun Yeo, Kabgyun Jeong<br>
-      <i>International Journal of Theoretical Physics</i> (2023).<br>
-        <a href="https://arxiv.org/pdf/2311.06484"><b>[PDF]</b></a>,
-        <a href="https://link.springer.com/article/10.1007/s10773-023-05512-8"><b>[Journal]</b></a>
+      <b>Weighted <i>p</i>-Rényi entropy power inequality: Information theory to quantum Shannon theory</b><br>
+      (<i>with</i> Hyeonjun Yeo, Kabgyun Jeong)<br>
+        <a href="https://link.springer.com/article/10.1007/s10773-023-05512-8"><b>International Journal of Theoretical Physics 62, 253 (2023)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2311.06484">arXiv:2311.06484</a>
     </li>
   </ol>
 
-  <ol start="5" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="5" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>High-dimensional private quantum channels and regular polytopes</b><br>
-      Junseo Lee, Kabgyun Jeong<br>
-      <i>Communications in Physics</i> (2021).<br>
-      Third Prize, Undergraduate Research Project Exhibition, Korean Physical Society (2021).<br>
-        <a href="https://arxiv.org/pdf/2101.00230"><b>[PDF]</b></a>,
-        <a href="https://vjs.ac.vn/index.php/cip/article/view/15762"><b>[Journal]</b></a>
+      (<i>with</i> Kabgyun Jeong)<br>
+        <a href="https://vjs.ac.vn/index.php/cip/article/view/15762"><b>Communications in Physics 31, 189 (2021)</b></a><br>
+        Preprint: <a href="https://arxiv.org/pdf/2101.00230">arXiv:2101.00230</a>
     </li>
   </ol>
 
-  <ol start="4" style="padding-left: 1.6em; margin-top: 0.2em; margin-bottom: 0.8em;">
+  <ol start="4" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Single qubit private quantum channels and 3-dimensional regular polyhedra</b><br>
-      Kabgyun Jeong, Junseo Lee, <i>et al.</i><br>
-      <i>New Physics: Sae Mulli</i> (2018).<br>
-      Bronze Award, The Humantech Paper Award, Samsung Electronics (2018).<br>
-        <a href="https://doi.org/10.3938/NPSM.68.232"><b>[Journal]</b></a>
+      (with Kabgyun Jeong, <i>et al.</i>)<br>
+        <a href="https://doi.org/10.3938/NPSM.68.232"><b>New Physics: Sae Mulli 68, 232 (2018)</b></a><br>
+        Bronze Award, The Humantech Paper Award, Samsung Electronics (2018)<br>
     </li>
   </ol>
 
-  <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
-
-  <h5 style="margin-top: 0; margin-bottom: 0.6em; color: #1f4e79; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Book Chapters
-  </h5>
-
-  <ol start="3" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.8em;">
+  <ol start="3" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Assessing quantum integer factorization performance with Shor’s algorithm</b><br>
-      Junseo Lee<br>
-      In: <i>Quantum computing: A journey into the next frontier of information and communication security</i> (1st ed.), edited by Mohammad Hammoudeh, Abdullah T. Alessa, Amro M. Sherbeeni, Clinton M. Firth, Abdullah S. Alessa<br>
-      <i>CRC Press</i> (2024).<br>
-        <a href="https://www.routledge.com/Quantum-Computing-A-Journey-into-the-Next-Frontier-of-Information-and-Communication-Security/Hammoudeh-Essa-Sherbeeni-Firth-Essa/p/book/9781032757056?srsltid=AfmBOoqNa09YBBHmjHjIlwlGIfv61lL3UNJdQM0H-QLQWWd9cH7tG4oe"><b>[Publisher]</b></a>
+      <a href="https://www.routledge.com/Quantum-Computing-A-Journey-into-the-Next-Frontier-of-Information-and-Communication-Security/Hammoudeh-Essa-Sherbeeni-Firth-Essa/p/book/9781032757056?srsltid=AfmBOoqNa09YBBHmjHjIlwlGIfv61lL3UNJdQM0H-QLQWWd9cH7tG4oe"><b>CRC Press (2024)</b></a><br>
+      In: <i>Quantum computing: A journey into the next frontier of information and communication security</i> (1st ed.), edited by Mohammad Hammoudeh, Abdullah T. Alessa, Amro M. Sherbeeni, Clinton M. Firth, Abdullah S. Alessa
     </li>
   </ol>
 
-  <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
-
-  <h5 style="margin-top: 0; margin-bottom: 0.6em; color: #000000; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Patents
-  </h5>
-
-  <ol start="2" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.8em;">
+  <ol start="2" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Method for estimating quantum mutual information through a quantum neural network</b><br>
-      Kabgyun Jeong, Myeongjin Shin, Junseo Lee<br>
-      <i>Korea Patent Open</i> No. 10-2026-0009068 (2024).<br>
-        <a href="https://doi.org/10.8080/1020240091151"><b>[KIPRIS]</b></a>
+      (<i>with</i> Kabgyun Jeong, Myeongjin Shin)<br>
+        <a href="https://doi.org/10.8080/1020240091151"><b>Korea Patent Open No. 10-2026-0009068 (2024)</b></a>
     </li>
   </ol>
-  
-  <hr style="border: none; border-top: 1px solid #FFFFFF; margin: 1em 0;">
 
-  <h5 style="margin-top: 0; margin-bottom: 0.6em; color: #000000; border-bottom: 2px solid #d9e6f2; padding-bottom: 0.25em;">
-    Notes
-  </h5>
-
-  <ol start="1" style="padding-left: 1.6em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Optimal certification of constant-local Hamiltonians</b><br>
-      Junseo Lee, Myeongjin Shin<br>
-      <i>arXiv preprint</i> (2025).<br>
-        <a href="https://arxiv.org/pdf/2512.09778v1"><b>[PDF]</b></a>,
-        <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/"><b>[Property Testing Review]</b></a>
+      (<i>with</i> Myeongjin Shin)<br>
+        Preprint: <a href="https://arxiv.org/pdf/2512.09778v1">arXiv: 2512.09778</a>, Materials: <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/">Property Testing Review</a>
     </li>
   </ol>
 
