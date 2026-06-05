@@ -92,16 +92,25 @@ I am an incoming PhD student in Quantum Science and Engineering at
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
 
-At Harvard, I am associated with the
+At Harvard, I am affiliated with the
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
 the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>,
 and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>.
 I am also a Junior Investigator at the
-<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
+<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>,
+based at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
 My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am broadly interested in quantum complexity theory, including the quantum PCP conjecture, area laws, and connections to black holes and quantum field theory. I also study algorithms for learning quantum systems and extracting information from them, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
 
-Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Institute of Computer Technology</a> and a Research Affiliate at the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">SNU Research Institute of Mathematics</a>. Before that, I completed my undergraduate studies in electrical and electronic engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>, supported by the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
+Previously, I conducted research at Seoul National University through the
+<a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a>
+and the
+<a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>.
+I completed my undergraduate studies in electrical and electronic engineering at
+<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>,
+fully supported by the
+<a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
+
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: May 23, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
@@ -317,14 +326,29 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
     <ul style="margin-top: 0.4em;">
 
       <li>
-        <b>Hugo Mackay</b> (Harvard College, 2026–)
+        <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard College, 2026–)
         <ul>
           <li>
             <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
               Herchel Smith Undergraduate Science Research Program
             </a>
-            (2026, co-mentored with
+            (2026, in collaboration with Prof.
             <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
+          </li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="https://arulandu.com/" style="text-decoration:none;"><b>Alvan Arulandu</b></a> (Harvard College, 2026–)
+        <ul>
+          <li>
+            <a href="https://quantum.harvard.edu/harvard-quantum-initiative-undergraduate-research-fellowship" style="text-decoration:none;">
+              Harvard Quantum Initiative Summer Undergraduate Research Fellowship
+            </a> and
+            <a href="https://uraf.harvard.edu/hcrp" style="text-decoration:none;">
+              Harvard College Research Program
+            </a>
+            (2026)
           </li>
         </ul>
       </li>
@@ -347,7 +371,7 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
         <ul>
           <li>
             Research Intern at the University of Oxford
-            (2026, co-mentored with
+            (2026, in collaboration with Dr. 
             <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="text-decoration:none;">Sathyawageeswar Subramanian</a>)
           </li>
         </ul>
@@ -361,8 +385,11 @@ Previously, I was a Research Associate at the <a href="https://ict.snu.ac.kr/" s
         <a href="https://arxiv.org/abs/2603.29809" style="text-decoration:none;"><i>TQC ’26</i></a>]
         <ul>
           <li>
-            Caltech Summer Undergraduate Research Fellowships
-            (2026)
+            <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
+              Caltech Summer Undergraduate Research Fellowship
+            </a>
+            (2026, in collaboration with Prof.
+            <a href="https://sites.math.duke.edu/~yt222/" style="text-decoration:none;">Yu Tong</a>)
           </li>
         </ul>
       </li>
