@@ -33,7 +33,7 @@ nav_order: 2
 
 <div style="font-size: 15px; line-height: 1.65;">
   
-  <ol start="16" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="14" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
       (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
@@ -41,7 +41,7 @@ nav_order: 2
     </li>
   </ol>
   
-  <ol start="15" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="13" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Certifying and learning local quantum Hamiltonians</b><br>
       (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
@@ -51,7 +51,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="14" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="12" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Efficient learning of bosonic Gaussian unitaries</b><br>
       (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
@@ -62,7 +62,7 @@ nav_order: 2
   </ol>
 
 
-  <ol start="13" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="11" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy</b><br>
       (<i>with</i> Kartik Anand, Kabgyun Jeong)<br>
@@ -70,7 +70,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="12" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="10" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Bounding quantum uncommon information with quantum neural estimators</b><br>
       (<i>with</i> Donghwa Ji, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong)<br>
@@ -79,7 +79,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="11" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="9" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Mutual information maximizing quantum generative adversarial networks</b><br>
       (<i>with</i> Mingyu Lee, Myeongjin Shin, Kabgyun Jeong)<br>
@@ -88,7 +88,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="10" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="8" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
       (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
@@ -100,7 +100,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="9" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="7" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</b><br>
       (<i>with</i> Myeongjin Shin, Seungwoo Lee, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong)<br>
@@ -109,16 +109,16 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="8" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="6" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Estimating quantum mutual information through a quantum neural network</b><br>
       (<i>with</i> Myeongjin Shin, Kabgyun Jeong)<br>
         <a href="https://link.springer.com/article/10.1007/s11128-023-04253-1"><b>Quantum Information Processing 23, 57 (2024)</b></a><br>
-        Preprint: <a href="https://arxiv.org/pdf/2306.14566">arXiv:2306.14566</a>
+        Preprint: <a href="https://arxiv.org/pdf/2306.14566">arXiv:2306.14566</a>, Materials: <a href="https://doi.org/10.8080/1020240091151">Korea Patent Open No. 10-2026-0009068</a>
     </li>
   </ol>
 
-  <ol start="7" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="5" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Quantum Rényi entropy functionals for bosonic gaussian systems</b><br>
       (<i>with</i> Kabgyun Jeong)<br>
@@ -127,7 +127,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="6" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="4" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Weighted <i>p</i>-Rényi entropy power inequality: Information theory to quantum Shannon theory</b><br>
       (<i>with</i> Hyeonjun Yeo, Kabgyun Jeong)<br>
@@ -136,7 +136,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="5" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
+  <ol start="3" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>High-dimensional private quantum channels and regular polytopes</b><br>
       (<i>with</i> Kabgyun Jeong)<br>
@@ -145,7 +145,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="4" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.8em;">
+  <ol start="2" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Single qubit private quantum channels and 3-dimensional regular polyhedra</b><br>
       (with Kabgyun Jeong, <i>et al.</i>)<br>
@@ -154,7 +154,7 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="3" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
+  <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Assessing quantum integer factorization performance with Shor’s algorithm</b><br>
       <a href="https://www.routledge.com/Quantum-Computing-A-Journey-into-the-Next-Frontier-of-Information-and-Communication-Security/Hammoudeh-Essa-Sherbeeni-Firth-Essa/p/book/9781032757056?srsltid=AfmBOoqNa09YBBHmjHjIlwlGIfv61lL3UNJdQM0H-QLQWWd9cH7tG4oe"><b>CRC Press (2024)</b></a><br>
@@ -162,20 +162,20 @@ nav_order: 2
     </li>
   </ol>
 
-  <ol start="2" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
+  <!-- <ol start="2" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Method for estimating quantum mutual information through a quantum neural network</b><br>
       (<i>with</i> Kabgyun Jeong, Myeongjin Shin)<br>
         <a href="https://doi.org/10.8080/1020240091151"><b>Korea Patent Open No. 10-2026-0009068 (2024)</b></a>
     </li>
-  </ol>
+  </ol> -->
 
-  <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <!-- <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Optimal certification of constant-local Hamiltonians</b><br>
       (<i>with</i> Myeongjin Shin)<br>
         Preprint: <a href="https://arxiv.org/pdf/2512.09778v1">arXiv: 2512.09778</a>, Materials: <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/">Property Testing Review</a>
     </li>
-  </ol>
+  </ol> -->
 
 </div>

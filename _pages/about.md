@@ -177,7 +177,7 @@ fully supported by the
       </li>
 
       <li>
-        <b>Feb. 2026:</b> I was delighted to be admitted to the Ph.D. programs in QSE at Harvard and Physics at MIT. I have accepted the offer from Harvard QSE and am excited for the journey ahead!
+        <b>Feb. 2026:</b> I was delighted to be admitted to the doctoral programs in Quantum Science and Engineering at Harvard, Physics at MIT, and Computer Science at Oxford. I have accepted the offer from Harvard and am excited for the journey ahead!
       </li>
 
     </ul>
@@ -338,7 +338,7 @@ fully supported by the
         </ul>
       </li>
 
-      <li>
+      <!-- <li>
         <a href="https://arulandu.com/" style="text-decoration:none;"><b>Alvan Arulandu</b></a> (Harvard College, 2026–)
         <ul>
           <li>
@@ -351,7 +351,7 @@ fully supported by the
             (2026)
           </li>
         </ul>
-      </li>
+      </li> -->
 
       <li>
         <a href="https://arulrhikm.github.io/" style="text-decoration:none;"><b>Arul Rhik Mazumder</b></a>
@@ -361,13 +361,11 @@ fully supported by the
       <li>
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
         (SNU, 2025–)
-        [<a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4" style="text-decoration:none;"><i>Quantum Sci. Technol. ’26</i></a>]
       </li>
 
       <li>
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="text-decoration:none;"><b>Mingyu Lee</b></a>
         (SNU, 2024–)
-        [<a href="https://www.nature.com/articles/s41598-025-18476-y" style="text-decoration:none;"><i>Sci. Rep. ’25</i></a>]
         <ul>
           <li>
             Research Intern at the University of Oxford
@@ -380,9 +378,6 @@ fully supported by the
       <li>
         <a href="https://myeongjinshin.github.io/" style="text-decoration:none;"><b>Myeongjin Shin</b></a>
         (KAIST, 2023–)
-        [<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.062418" style="text-decoration:none;"><i>PRA ’24</i></a>,
-        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/" style="text-decoration:none;"><i>Quantum ’25</i></a>,
-        <a href="https://arxiv.org/abs/2603.29809" style="text-decoration:none;"><i>TQC ’26</i></a>]
         <ul>
           <li>
             <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
@@ -400,16 +395,15 @@ fully supported by the
     <ul style="margin-top: 0.4em;">
 
       <li>
-        <a href="https://www.linkedin.com/in/kartik-anand-6abb94192/" style="text-decoration:none;"><b>Kartik Anand</b></a>
-        (IIT Goa, 2025)
-        [<a href="https://arxiv.org/abs/2506.19792v2" style="text-decoration:none;"><i>arXiv ’25</i></a>]
+        <a href="https://k-styles.github.io/" style="text-decoration:none;"><b>Kartik Anand</b></a>
+        (IIT Goa, 2025; now a master's student at Hamburg University of Technology)
       </li>
 
     </ul>
 
   </div>
   <p>
-    I would be happy to mentor research projects if there is a good fit. Please feel free to reach out by email if you are interested!
+    I am happy to discuss potential research opportunities with undergraduate students, including summer projects. In some cases, projects may also develop into collaborations involving other researchers. Please feel free to reach out by email if you are interested.
   </p>
 </div>
 
@@ -469,24 +463,87 @@ fully supported by the
   "
 >
   <div style="padding-top: 0.4em;">
-    <ul style="margin-top: 0.1em;">
-      <li>
-        <a href="/bosonic-learning-theory-winter26/" target="_blank">
-          Quantum Learning Theory for Bosonic and Fermionic Systems (Winter 2026)
-        </a>
-      </li>
-      <li>
-        <a href="/quantum-complexity-reading-group-fall25/" target="_blank">
-          Quantum Complexity Theory Reading Group (Fall 2025)
-        </a>
-      </li>
-      <li>
-        <a href="/qlct/" target="_blank">
-          Quantum Learning and Complexity Theory (Summer 2025)
-        </a>
-      </li>
-    </ul>
-  </div>
+  <style>
+    .teaching-section-title {
+      margin-top: 0.7em;
+      margin-bottom: 0.15em;
+      font-weight: 500;
+    }
+  </style>
+
+  <div class="teaching-section-title">QISCA Special Lecture Series:</div>
+  <ul style="margin-top: 0.1em;">
+    <li>
+      Organizer &amp; Lecturer,
+      <a href="/bosonic-learning-theory-winter26/" target="_blank"><i>Quantum Learning Theory for Bosonic and Fermionic Systems</i></a>,
+      Winter 2026
+    </li>
+    <li>
+      Invited Lecturer,
+      <a href="/quantum-complexity-reading-group-fall25/" target="_blank"><i>Quantum Complexity Theory Reading Group</i></a>,
+      Fall 2025
+    </li>
+    <li>
+      Invited Lecturer,
+      <a href="/qlct/" target="_blank"><i>Quantum Learning and Complexity Theory</i></a>,
+      Summer 2025
+    </li>
+  </ul>
+
+<div class="teaching-section-title">University-Industry Research Internship:</div>
+<ul style="margin-top: 0.1em;">
+  <li>
+    Instructor,
+    <i>AAA559: College of Informatics Internship (II) (Graduate Course)</i>,
+    Korea University,
+    Fall 2025
+  </li>
+  <li>
+    Instructor,
+    <i>AAA558: College of Informatics Internship (I) (Graduate Course)</i>,
+    Korea University,
+    Fall 2025
+  </li>
+  <li>
+    Instructor,
+    <i>SW4343: Software Field Placement (I)</i>,
+    Korea Aerospace University,
+    Fall 2024
+  </li>
+</ul>
+
+<div class="teaching-section-title">Yonsei University:</div>
+<ul style="margin-top: 0.1em;">
+  <li>
+    Teaching Assistant,
+    <i>YCS1009: Change the World through Programming</i>,
+    Fall 2022
+  </li>
+  <li>
+    Teaching Assistant,
+    <i>YCS1002: Software Programming</i>,
+    Fall 2022
+  </li>
+  <li>
+    Teaching Assistant,
+    <i>EEE1108: Engineering Information Processing</i>,
+    Fall 2021
+  </li>
+  <li>
+    Course Tutor,
+    <i>MAT2016: Engineering Mathematics (III)</i>,
+    Spring 2022
+    (Best Tutor Award)
+  </li>
+  <li>
+    Course Tutor,
+    <i>MAT1012: Engineering Mathematics (II)</i>,
+    Fall 2021
+    (Best Tutor Award)
+  </li>
+</ul>
+
+</div>
 </div>
 
 <script>
@@ -508,15 +565,7 @@ fully supported by the
 
 
 
-
-
-
-
-
-
-
-
-<h5
+<!-- <h5
   onclick="toggleMisc()"
   style="
     margin-top: 1.8em;
@@ -627,4 +676,4 @@ fully supported by the
       }
     }, 10);
   }
-</script>
+</script> -->
