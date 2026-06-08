@@ -332,7 +332,7 @@ fully supported by the
             <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
               Herchel Smith Undergraduate Science Research Program
             </a>
-            (2026, with Prof.
+            (2026, in collaboration with Prof.
             <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
           </li>
         </ul>
@@ -359,8 +359,13 @@ fully supported by the
       </li>
 
       <li>
+        <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
+        (SNU, 2026–)
+      </li>
+
+      <li>
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
-        (SNU, 2025–)
+        (SNU, 2025–, in collaboration with Dr. <a href="https://www.preskill.caltech.edu/" style="text-decoration:none;">Kabgyun Jeong</a>)
       </li>
 
       <li>
@@ -368,8 +373,8 @@ fully supported by the
         (SNU, 2024–)
         <ul>
           <li>
-            Research Intern at the University of Oxford
-            (2026, with Dr. 
+            Internship at the University of Oxford
+            (2026, in collaboration with Dr. 
             <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="text-decoration:none;">Sathyawageeswar Subramanian</a>)
           </li>
         </ul>
@@ -381,10 +386,10 @@ fully supported by the
         <ul>
           <li>
             <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
-              Caltech Summer Undergraduate Research Fellowship
+              SURF at Caltech
             </a>
-            (2026, with Prof.
-            <a href="https://sites.math.duke.edu/~yt222/" style="text-decoration:none;">Yu Tong</a>)
+            (2026, in collaboration with Profs.
+            <a href="https://sites.math.duke.edu/~yt222/" style="text-decoration:none;">Yu Tong</a> and <a href="https://www.preskill.caltech.edu/" style="text-decoration:none;">John Preskill</a>)
           </li>
         </ul>
       </li>
@@ -403,7 +408,7 @@ fully supported by the
 
   </div>
   <p>
-    I am happy to discuss potential research opportunities with undergraduate students, including summer projects. In some cases, projects may also develop into collaborations involving other researchers. Please feel free to reach out by email if you are interested.
+    I am happy to discuss potential research opportunities with undergraduate students, including summer projects. In some cases, projects may also develop into collaborations involving other researchers. Please feel free to reach out by email if you are interested!
   </p>
 </div>
 
