@@ -332,7 +332,7 @@ fully supported by the
             <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
               Herchel Smith Undergraduate Science Research Program
             </a>
-            (2026, in collaboration with Prof.
+            (2026, with Prof.
             <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
           </li>
         </ul>
@@ -369,7 +369,7 @@ fully supported by the
         <ul>
           <li>
             Research Intern at the University of Oxford
-            (2026, in collaboration with Dr. 
+            (2026, with Dr. 
             <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="text-decoration:none;">Sathyawageeswar Subramanian</a>)
           </li>
         </ul>
@@ -383,7 +383,7 @@ fully supported by the
             <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
               Caltech Summer Undergraduate Research Fellowship
             </a>
-            (2026, in collaboration with Prof.
+            (2026, with Prof.
             <a href="https://sites.math.duke.edu/~yt222/" style="text-decoration:none;">Yu Tong</a>)
           </li>
         </ul>
