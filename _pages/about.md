@@ -242,13 +242,13 @@ fully supported by the
       <li style="margin-bottom: 1em;">
         <b>Certifying and learning local quantum Hamiltonians</b><br>
         (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
-        <a href="https://tqc-conference.org/2026/"><b>Contributed Talk at the 21st Conference on Theory of Quantum Computation, Communication and Cryptography (TQC 2026)</b></a><br>
+        <a href="https://tqc-conference.org/2026/"><b>21st Conference on Theory of Quantum Computation, Communication and Cryptography (TQC 2026)</b></a><br>
       </li>
 
       <li style="margin-bottom: 1em;">
         <b>Efficient learning of bosonic Gaussian unitaries</b><br>
         (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
-        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>Contributed Talk at the 29th Annual Conference on Quantum Information Processing (QIP 2026)</b></a><br>
+        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>29th Annual Conference on Quantum Information Processing (QIP 2026)</b></a><br>
       </li>
 
       <li style="margin-bottom: 0.5em;">
