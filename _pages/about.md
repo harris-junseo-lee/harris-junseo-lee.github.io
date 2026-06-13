@@ -100,7 +100,7 @@ I am also a Junior Investigator at the
 <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>,
 based at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
-My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am broadly interested in quantum complexity theory, including the quantum PCP conjecture, area laws, and connections to black holes and quantum field theory. I also study algorithms for learning quantum systems and extracting information from them, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
+My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am broadly interested in quantum complexity theory and the hardness of approximation, including the quantum PCP conjecture, area laws, and connections to black holes and quantum field theory. I also study algorithms for learning quantum systems and extracting information from them, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
 
 Previously, I conducted research at Seoul National University through the
 <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a>
