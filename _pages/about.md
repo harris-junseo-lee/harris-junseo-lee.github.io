@@ -100,7 +100,7 @@ I am also a Junior Investigator at the
 <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>,
 based at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
-My research lies at the interface of theoretical computer science and mathematical physics, with the goal of understanding the quantum world through computation and information. I am broadly interested in quantum complexity theory and the hardness of approximation, including the quantum PCP conjecture, area laws, and connections to black holes and quantum field theory. I also study algorithms for learning quantum systems and extracting information from them, as well as problems in quantum many-body physics involving qubits, bosons, fermions, and anyons.
+My research lies at the intersection of theoretical computer science and mathematical physics, focusing on quantum complexity, quantum learning/sensing, and the computational foundations of quantum many-body systems.
 
 Previously, I conducted research at Seoul National University through the
 <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a>
@@ -475,7 +475,7 @@ fully supported by the
     }
   </style>
 
-  <div class="teaching-section-title">QISCA Special Lecture Series:</div>
+  <div class="teaching-section-title">QISCA Special Lecture Series (2025-2026):</div>
   <ul style="margin-top: 0.1em;">
     <li>
       Organizer &amp; Lecturer,
@@ -494,7 +494,7 @@ fully supported by the
     </li>
   </ul>
 
-<div class="teaching-section-title">University-Industry Research Internship:</div>
+<div class="teaching-section-title">University-Industry Research Internship (2024-2025):</div>
 <ul style="margin-top: 0.1em;">
   <li>
     Instructor,
@@ -516,7 +516,7 @@ fully supported by the
   </li>
 </ul>
 
-<div class="teaching-section-title">Yonsei University:</div>
+<div class="teaching-section-title">Yonsei University (2021-2022):</div>
 <ul style="margin-top: 0.1em;">
   <li>
     Teaching Assistant,

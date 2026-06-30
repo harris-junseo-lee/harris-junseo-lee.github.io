@@ -33,7 +33,7 @@ nav_order: 2
 
 <div style="font-size: 15px; line-height: 1.65;">
   
-  <ol start="14" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="15" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
       (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
@@ -41,13 +41,21 @@ nav_order: 2
     </li>
   </ol>
   
-  <ol start="13" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+  <ol start="14" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Certifying and learning local quantum Hamiltonians</b><br>
       (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
         <a href="https://tqc-conference.org/2026/"><b>21st Conference on Theory of Quantum Computation, Communication and Cryptography (TQC 2026)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2603.29809">arXiv:2603.29809</a>, 
-        Note: This work subsumes a previous note (joint with M. Shin), <a href="https://arxiv.org/pdf/2512.09778v1">arXiv:2512.09778</a>.
+        Note: This work subsumes the results of the previous version, <a href="https://arxiv.org/pdf/2512.09778v1">arXiv:2512.09778</a>.
+    </li>
+  </ol>
+
+  <ol start="13" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+    <li style="margin-bottom: 1.15em;">
+      <b>Optimal certification of constant-local Hamiltonians</b><br>
+      (<i>with</i> Myeongjin Shin)<br>
+        Preprint: <a href="https://arxiv.org/pdf/2512.09778v1">arXiv: 2512.09778</a>, Materials: <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/">Property Testing Review</a>
     </li>
   </ol>
 
@@ -167,14 +175,6 @@ nav_order: 2
       <b>Method for estimating quantum mutual information through a quantum neural network</b><br>
       (<i>with</i> Kabgyun Jeong, Myeongjin Shin)<br>
         <a href="https://doi.org/10.8080/1020240091151"><b>Korea Patent Open No. 10-2026-0009068 (2024)</b></a>
-    </li>
-  </ol> -->
-
-  <!-- <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
-    <li style="margin-bottom: 1.15em;">
-      <b>Optimal certification of constant-local Hamiltonians</b><br>
-      (<i>with</i> Myeongjin Shin)<br>
-        Preprint: <a href="https://arxiv.org/pdf/2512.09778v1">arXiv: 2512.09778</a>, Materials: <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/">Property Testing Review</a>
     </li>
   </ol> -->
 
