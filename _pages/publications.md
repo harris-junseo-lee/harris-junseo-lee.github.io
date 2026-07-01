@@ -37,6 +37,7 @@ nav_order: 2
     <li style="margin-bottom: 1.15em;">
       <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
       (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
+      <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
       Preprint: <a href="https://arxiv.org/pdf/2604.27838">arxiv:2604.27838</a>
     </li>
   </ol>
@@ -45,7 +46,7 @@ nav_order: 2
     <li style="margin-bottom: 1.15em;">
       <b>Certifying and learning local quantum Hamiltonians</b><br>
       (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
-        <a href="https://tqc-conference.org/2026/"><b>21st Conference on Theory of Quantum Computation, Communication and Cryptography (TQC 2026)</b></a><br>
+        <a href="https://tqc-conference.org/2026/"><b>TQC 2026</b> (Contributed talk)</a><br>
         Preprint: <a href="https://arxiv.org/pdf/2603.29809">arXiv:2603.29809</a>, 
         Note: This work subsumes the results of the previous version, <a href="https://arxiv.org/pdf/2512.09778v1">arXiv:2512.09778</a>.
     </li>
@@ -63,7 +64,7 @@ nav_order: 2
     <li style="margin-bottom: 1.15em;">
       <b>Efficient learning of bosonic Gaussian unitaries</b><br>
       (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
-        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>29th Annual Conference on Quantum Information Processing (QIP 2026)</b></a><br>
+        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>QIP 2026</b> (Contributed talk)</a><br>
         Preprint: <a href="https://arxiv.org/pdf/2510.05531v1">arXiv:2510.05531</a>,
         Materials: <a href="/assets/pdf/CV_unitary_tomography.pdf" target="_blank">Slides</a>
     </li>
