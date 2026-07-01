@@ -112,7 +112,7 @@ fully supported by the
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: May 23, 2026)<br>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 1, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
 <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a> | <a href="https://x.com/harris_junseo" style="text-decoration:none;">X (formerly Twitter)</a><br>
 📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span><br>
