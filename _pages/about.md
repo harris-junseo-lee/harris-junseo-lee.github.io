@@ -90,15 +90,15 @@ I am a first-year PhD student in Quantum Science and Engineering at
 <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
-<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. I am supported by the Kwanjeong PhD Fellowship.
+<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My PhD studies are also supported by the
+<a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong PhD Fellowship</a>.
 
 At Harvard, I am affiliated with the
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
 the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>,
 and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>.
 I am also a Junior Investigator at the
-<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>,
-based at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
+<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
 My research lies at the intersection of theoretical computer science and mathematical physics, focusing on quantum complexity, quantum learning/sensing, and the computational foundations of quantum many-body systems.
 
