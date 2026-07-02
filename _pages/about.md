@@ -83,14 +83,14 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/jun.jpg" style="width:110px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
+<img src="/assets/img/jun.jpg" style="width:130px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
 
 
-I am an incoming PhD student in Quantum Science and Engineering at 
+I am a first-year PhD student in Quantum Science and Engineering at
 <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
-<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>.
+<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. I am supported by the Kwanjeong PhD Fellowship.
 
 At Harvard, I am affiliated with the
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
