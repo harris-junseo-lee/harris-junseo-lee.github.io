@@ -152,6 +152,10 @@ fully supported by the
     <ul style="margin-top: 0.1em;">
 
       <li>
+        <b>Jul. 2026:</b> I am honored to have been selected as a Kwanjeong PhD Fellow.
+      </li>
+      
+      <li>
         <b>Jul. 2026:</b> Our paper, <a href="https://arxiv.org/pdf/2604.27838">Heisenberg-limited Hamiltonian Learning without Short-time Control</a>, was selected as a Long Talk at AQIS 2026.
       </li>
       
