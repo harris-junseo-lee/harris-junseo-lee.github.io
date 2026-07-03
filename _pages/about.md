@@ -91,7 +91,7 @@ I am a first-year PhD student in Quantum Science and Engineering at
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
 <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My PhD studies are also supported by the
-<a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong PhD Fellowship</a>.
+<a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
 At Harvard, I am affiliated with the
 <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
