@@ -83,14 +83,14 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/jun.jpg" style="width:130px; border-radius:8px; float:left; margin-right:15px; margin-bottom:10px;">
+<img src="/assets/img/jun.jpg" style="width:135px; border-radius:8px; float:left; margin-right:15px; margin-bottom:5px;">
 
 
 I am a first-year PhD student in Quantum Science and Engineering at
 <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors
 <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
 <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
-<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My PhD studies are also supported by the
+<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My PhD studies are also generously supported by the
 <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
 At Harvard, I am affiliated with the
@@ -106,9 +106,9 @@ Previously, I conducted research at Seoul National University through the
 <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a>
 and the
 <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>.
-I completed my undergraduate studies in electrical and electronic engineering at
-<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>,
-fully supported by the
+I earned my B.S. from
+<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>
+as a recipient of the
 <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 
