@@ -2,7 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: |
+subtitle: 
+
+profile:
+  align: right
+  image: jun.jpg
+  image_circular: false
+  more_info: |
     <style>
     .subtitle-logos {
       margin-top: -7px;
@@ -27,33 +33,14 @@ subtitle: |
     }
     </style>
 
-    <div class="subtitle-logos">
-      <img src="/assets/img/HQI.png"
-          style="height: 52px; width: auto; object-fit: contain;">
-      <img src="/assets/img/GSAS.png"
-          style="height: 42px; width: auto; object-fit: contain;">
-      <img src="/assets/img/IAIFI.png"
-          style="height: 43px; width: auto; object-fit: contain;">
+    <div class="subtitle-logos" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px;">
+    <img src="/assets/img/HQI.png"
+        style="height: 52px; width: auto; object-fit: contain;">
+    <img src="/assets/img/GSAS.png"
+        style="height: 42px; width: auto; object-fit: contain;">
+    <img src="/assets/img/IAIFI.png"
+        style="height: 43px; width: auto; object-fit: contain;">
     </div>
-
-# profile:
-#   align: right
-#   image: board.jpg
-#   image_circular: true
-#   more_info: |
-#     <div style="
-#       margin-top: -7px;
-#       margin-bottom: 6px;
-#       display: flex;
-#       flex-direction: column;
-#       align-items: center;
-#       gap: 4px;
-#     ">
-#       <img src="/assets/img/HQI.png"
-#            style="height: 52px; width: auto; object-fit: contain;">
-#       <img src="/assets/img/GSAS.png"
-#            style="height: 43px; width: auto; object-fit: contain;">
-#     </div>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -83,36 +70,19 @@ social: false # includes social icons at the bottom of the page
 </html>
 
 
-<img src="/assets/img/jun.jpg" style="width:135px; border-radius:8px; float:left; margin-right:15px; margin-bottom:5px;">
+<!-- <img src="/assets/img/jun.jpg" style="width:135px; border-radius:8px; float:left; margin-right:15px; margin-bottom:5px;"> -->
 
 
-I am a first-year PhD student in Quantum Science and Engineering at
-<b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors
-<a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>,
-<a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and
-<a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My PhD studies are also generously supported by the
-<a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
+I am a PhD student in Quantum Science and Engineering at <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by Professors <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral studies are generously supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
-At Harvard, I am affiliated with the
-<a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>,
-the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>,
-and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>.
-I am also a Junior Investigator at the
-<a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
+At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>, the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>, and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a> and work closely with researchers at the <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
 
-My research lies at the intersection of theoretical computer science and mathematical physics, focusing on quantum complexity, quantum learning/sensing, and the computational foundations of quantum many-body systems.
+My research lies at the intersection of theoretical computer science and mathematical physics, with a focus on quantum complexity, quantum learning and sensing, and the computational foundations of quantum many-body systems.
 
-Previously, I conducted research at Seoul National University through the
-<a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a>
-and the
-<a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>.
-I earned my B.S. from
-<a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a>
-as a recipient of the
-<a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
+Previously, I conducted research at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a recipient of the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
 
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 1, 2026)<br>
+📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 15, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
 <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a> | <a href="https://x.com/harris_junseo" style="text-decoration:none;">X (formerly Twitter)</a><br>
 📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span><br>
