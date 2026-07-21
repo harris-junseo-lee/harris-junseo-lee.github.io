@@ -75,11 +75,11 @@ social: false # includes social icons at the bottom of the page
 
 I am a PhD student in Quantum Science and Engineering at <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral research is also supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
-At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a>, the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>, and the <a href="https://www.physics.harvard.edu/" style="text-decoration:none; font-weight:300;">Department of Physics</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a> and work closely with researchers at the <a href="https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/" style="text-decoration:none; font-weight:300;">MIT Center for Theoretical Physics</a>.
+At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
-My research lies at the intersection of theoretical computer science and mathematical physics, with a focus on quantum complexity, quantum learning and sensing, and the computational foundations of quantum many-body systems.
+I study the computational foundations of quantum many-body systems through the lens of theoretical computer science and mathematical physics. My work draws on techniques from computational complexity theory, statistical learning theory, random matrix theory, and low-dimensional topology to address fundamental problems in quantum information science.
 
-Previously, I conducted research at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a recipient of the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Science and Technology Scholarship</a>.
+Previously, I conducted research at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I completed my undergraduate studies in Electrical and Electronic Engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> with support from the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholarship</a>.
 
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 15, 2026)<br>
@@ -121,6 +121,10 @@ Previously, I conducted research at Seoul National University through the <a hre
 
     <ul style="margin-top: 0.1em;">
 
+      <li>
+        <b>Jul. 2026:</b> Excited to share that the <a href="https://harvard-quantum-tcs.github.io/">Harvard Quantum Theory Group</a> website is now live!
+      </li>
+      
       <li>
         <b>Jul. 2026:</b> I am honored to have been selected as a Kwanjeong PhD Fellow.
       </li>
@@ -391,7 +395,7 @@ Previously, I conducted research at Seoul National University through the <a hre
 
   </div>
   <p>
-    I am happy to discuss potential research opportunities with undergraduate students, including summer projects. In some cases, projects may also develop into collaborations involving other researchers. Please feel free to reach out by email if you are interested!
+    I welcome inquiries from undergraduate students interested in research. If you would like to discuss potential projects or collaborations, please feel free to reach out by email.
   </p>
 </div>
 
