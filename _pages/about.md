@@ -77,14 +77,14 @@ I am a PhD student in Quantum Science and Engineering at <b style="color: #A4103
 
 At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
-I study the computational foundations of quantum many-body systems through the lens of theoretical computer science and mathematical physics. My work draws on techniques from computational complexity theory, statistical learning theory, random matrix theory, and low-dimensional topology to address fundamental problems in quantum information science.
+I am interested in quantum many-body physics, computational complexity, algorithmic statistics, and problems at their intersections. More broadly, my research spans both foundational theoretical questions in quantum information science and the practical use of quantum technologies.
 
 Previously, I conducted research at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I completed my undergraduate studies in Electrical and Electronic Engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> with support from the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholarship</a>.
 
 
 📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 15, 2026)<br>
 🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
-<a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a> | <a href="https://x.com/harris_junseo" style="text-decoration:none;">X (formerly Twitter)</a><br>
+<a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a> | <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (formerly Twitter)</a><br>
 📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span><br>
 
 
