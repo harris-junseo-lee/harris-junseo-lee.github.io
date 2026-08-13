@@ -313,7 +313,7 @@ Previously, I conducted research at Seoul National University through the <a hre
     <ul style="margin-top: 0.4em;">
 
       <li>
-        <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard College, 2026–)
+        <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard, 2026–): quantum many-body theory.
         <ul>
           <li>
             <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
@@ -342,22 +342,22 @@ Previously, I conducted research at Seoul National University through the <a hre
 
       <li>
         <a href="https://arulrhikm.github.io/" style="text-decoration:none;"><b>Arul Rhik Mazumder</b></a>
-        (Carnegie Mellon University, 2026–)
+        (Imperial College London, 2026–): quantum circuit synthesis.
       </li>
 
       <li>
         <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
-        (SNU, 2026–)
+        (SNU, 2026–): quantum algorithm.
       </li>
 
       <li>
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
-        (SNU, 2025–, in collaboration with Dr. <a href="https://www.preskill.caltech.edu/" style="text-decoration:none;">Kabgyun Jeong</a>)
+        (SNU, 2025–): spectral gap problem.
       </li>
 
       <li>
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="text-decoration:none;"><b>Mingyu Lee</b></a>
-        (SNU, 2024–)
+        (SNU, 2024–): quantum circuit complexity and unitary designs.
         <ul>
           <li>
             Internship at the University of Oxford
@@ -369,7 +369,7 @@ Previously, I conducted research at Seoul National University through the <a hre
 
       <li>
         <a href="https://myeongjinshin.github.io/" style="text-decoration:none;"><b>Myeongjin Shin</b></a>
-        (KAIST, 2023–)
+        (KAIST, 2023–): quantum hamiltonian learning and testing.
         <ul>
           <li>
             <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
@@ -388,7 +388,7 @@ Previously, I conducted research at Seoul National University through the <a hre
 
       <li>
         <a href="https://k-styles.github.io/" style="text-decoration:none;"><b>Kartik Anand</b></a>
-        (IIT Goa, 2025; now a master's student at Hamburg University of Technology)
+        (IIT Goa, 2025–2026): quantum hamiltonian complexity and polynomial hierarchy.
       </li>
 
     </ul>
