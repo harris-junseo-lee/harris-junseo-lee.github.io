@@ -39,7 +39,7 @@ profile:
     <img src="/assets/img/GSAS.png"
         style="height: 42px; width: auto; object-fit: contain;">
     <img src="/assets/img/IAIFI.png"
-        style="height: 43px; width: auto; object-fit: contain;">
+        style="height: 50px; width: auto; object-fit: contain;">
     </div>
 
 news: false # includes a list of news items
@@ -73,7 +73,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <img src="/assets/img/jun.jpg" style="width:135px; border-radius:8px; float:left; margin-right:15px; margin-bottom:5px;"> -->
 
 
-I am a PhD student in Quantum Science and Engineering at <b style="color: #A41034;">Harvard University</b>, where I am fortunate to be advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral research is also supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
+I am a PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard University</a>, where I am fortunate to be advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral research is also supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
 At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
 
@@ -82,10 +82,37 @@ I am interested in problems at the intersection of theoretical computer science 
 Previously, I conducted research at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I completed my undergraduate studies in Electrical and Electronic Engineering at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> with support from the <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholarship</a>.
 
 
-📄 <a href="/assets/pdf/CV.pdf"><b>Curriculum Vitae</b></a> (Last updated: July 15, 2026)<br>
-🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a> | 
-<a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a> | <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a> | <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (formerly Twitter)</a><br>
-📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span><br>
+<div style="
+  display: inline-block;
+  padding: 12px 13px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  line-height: 1.8;
+">
+
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a>
+  <span style="font-size: 0.85em; color: #777;">(Last updated: August 31, 2026)</span>
+  <br>
+
+  🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a>
+  &nbsp;·&nbsp;
+  <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (Twitter)</a>
+  <br>
+
+  📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span>
+  <span style="font-size: 0.8em; color: #777;">(primary)</span>
+  &nbsp;·&nbsp;
+  <span style="font-family: monospace;">junseole at mit.edu</span>
+
+  <div style="font-size: 0.75em; color: #888; margin-top: 1px; padding-left: 1.7em;">
+    The MIT address is spelled as shown. For time-sensitive matters, please contact both addresses.
+  </div>
+
+</div>
 
 
 
