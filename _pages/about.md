@@ -75,7 +75,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard University</a>, where I am fortunate to be advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral research is also supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong Fellowship</a>.
 
-At Harvard, I am affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also a Junior Investigator at the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a>.
+At Harvard, I am a member of the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also a Junior Investigator with the <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</a> at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
 I am interested in problems at the intersection of theoretical computer science and theoretical physics, particularly those arising in quantum many-body systems, such as quantum PCP and quantum learning. I also work on the theoretical foundations of practical quantum technologies, including quantum algorithms, sensing, and metrology.
 
@@ -90,8 +90,7 @@ Previously, I conducted research at Seoul National University through the <a hre
   line-height: 1.8;
 ">
 
-  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a>
-  <span style="font-size: 0.85em; color: #777;">(Last updated: August 31, 2026)</span>
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: August 31, 2026)
   <br>
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
@@ -103,14 +102,7 @@ Previously, I conducted research at Seoul National University through the <a hre
   <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (Twitter)</a>
   <br>
 
-  📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span>
-  <span style="font-size: 0.8em; color: #777;">(primary)</span>
-  &nbsp;·&nbsp;
-  <span style="font-family: monospace;">junseole at mit.edu</span>
-
-  <div style="font-size: 0.75em; color: #888; margin-top: 1px; padding-left: 1.7em;">
-    The MIT address is spelled as shown. For time-sensitive matters, please contact both addresses.
-  </div>
+  📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span> &nbsp;·&nbsp; <span style="font-family: monospace;">junseole at mit.edu</span>
 
 </div>
 

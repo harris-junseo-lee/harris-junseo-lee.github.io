@@ -157,7 +157,7 @@ nav_order: 2
   <ol start="2" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
       <b>Single qubit private quantum channels and 3-dimensional regular polyhedra</b><br>
-      (with Kabgyun Jeong, <i>et al.</i>)<br>
+      (<i>with</i> Kabgyun Jeong, <i>et al.</i>)<br>
         <a href="https://doi.org/10.3938/NPSM.68.232"><b>New Physics: Sae Mulli 68, 232 (2018)</b></a><br>
         Bronze Award, The Humantech Paper Award, Samsung Electronics (2018)<br>
     </li>
