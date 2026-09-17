@@ -37,7 +37,7 @@ nav_order: 2
     <li style="margin-bottom: 1.15em;">
       <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
       (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
-      <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
+      <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj"><b>PRX Quantum (2026)</b></a>, <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
       Preprint: <a href="https://arxiv.org/pdf/2604.27838">arxiv:2604.27838</a>
     </li>
   </ol>

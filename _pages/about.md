@@ -90,7 +90,7 @@ Previously, I conducted research at Seoul National University through the <a hre
   line-height: 1.8;
 ">
 
-  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: August 31, 2026)
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: September 17, 2026)
   <br>
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
@@ -102,7 +102,7 @@ Previously, I conducted research at Seoul National University through the <a hre
   <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (Twitter)</a>
   <br>
 
-  📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span> &nbsp;·&nbsp; <span style="font-family: monospace;">junseole at mit.edu</span>
+  📨 <span style="font-family: monospace;">junseolee at fas.harvard.edu</span>
 
 </div>
 
@@ -140,6 +140,10 @@ Previously, I conducted research at Seoul National University through the <a hre
 
     <ul style="margin-top: 0.1em;">
 
+      <li>
+        <b>Sep. 2026:</b> Our paper, <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj">Heisenberg-limited Hamiltonian Learning without Short-time Control</a>, has been accepted for publication in PRX Quantum.
+      </li>
+      
       <li>
         <b>Jul. 2026:</b> Excited to share that the <a href="https://harvard-quantum-tcs.github.io/">Harvard Quantum Theory Group</a> website is now live!
       </li>
@@ -243,7 +247,7 @@ Previously, I conducted research at Seoul National University through the <a hre
       <li style="margin-bottom: 1em;">
         <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
         (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
-        <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
+        <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj"><b>PRX Quantum (2026)</b></a>, <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
       </li>
       
       <li style="margin-bottom: 1em;">
