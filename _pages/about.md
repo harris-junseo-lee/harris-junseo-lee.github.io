@@ -90,7 +90,7 @@ Previously, I was a research fellow at Seoul National University through the <a 
   line-height: 1.8;
 ">
 
-  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: September 17, 2026)
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: September 25, 2026)
   <br>
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
@@ -244,6 +244,12 @@ Previously, I was a research fellow at Seoul National University through the <a 
     A full publication list is available <a href="/publications/"><b>here</b></a>.
 
     <ul style="margin-top: 0.8em;">
+      <li style="margin-bottom: 1em;">
+        <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b><br>
+        (<i>with</i> Myeongjin Shin, Iman Marvian, Yu Tong)<br>
+        <a href="https://arxiv.org/abs/2609.27181v1"><b>arXiv Preprint (2026)</b></a><br>
+      </li>
+      
       <li style="margin-bottom: 1em;">
         <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
         (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
