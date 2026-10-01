@@ -33,6 +33,14 @@ nav_order: 2
 
 <div style="font-size: 15px; line-height: 1.65;">
   
+  <ol start="17" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+    <li style="margin-bottom: 1.15em;">
+      <b>Optimal purity estimation with incoherent measurements</b><br>
+      (<i>with</i> Chirag Wadhwa)<br>
+      Preprint: <a href="https://arxiv.org/pdf/2609.40248">arxiv:2609.40248</a>
+    </li>
+  </ol>
+  
   <ol start="16" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
       <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b><br>
