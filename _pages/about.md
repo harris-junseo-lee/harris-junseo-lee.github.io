@@ -245,6 +245,12 @@ Previously, I was a research fellow at Seoul National University through the <a 
 
     <ul style="margin-top: 0.8em;">
       <li style="margin-bottom: 1.15em;">
+        <b>Hamiltonian locality testing and certification do not achieve the Heisenberg limit</b><br>
+        (<i>with</i> Francisco Escudero Gutiérrez, Sebastian Zur)<br>
+        <a href="https://arxiv.org/pdf/2610.03205"><b>arXiv Preprint (2026)</b></a><br>
+      </li>
+      
+      <li style="margin-bottom: 1.15em;">
         <b>Optimal purity estimation with incoherent measurements</b><br>
         (<i>with</i> Chirag Wadhwa)<br>
         <a href="https://arxiv.org/pdf/2609.40248"><b>arXiv Preprint (2026)</b></a><br>

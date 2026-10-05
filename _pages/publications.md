@@ -32,6 +32,12 @@ nav_order: 2
 
 
 <div style="font-size: 15px; line-height: 1.65;">
+
+  <ol start="18" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
+    <b>Hamiltonian locality testing and certification do not achieve the Heisenberg limit</b><br>
+      (<i>with</i> Francisco Escudero Gutiérrez, Sebastian Zur)<br>
+      Preprint: <a href="https://arxiv.org/pdf/2610.03205">arxiv:2610.03205</a>
+  </ol>
   
   <ol start="17" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
