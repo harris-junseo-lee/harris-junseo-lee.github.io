@@ -77,7 +77,7 @@ I am a PhD student in Quantum Science and Engineering at <a href="https://www.ha
 
 I am part of the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also an <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF IAIFI Junior Investigator</a> at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">Massachusetts Institute of Technology</a>.
 
-I am interested in the interplay between computation and quantum physics, ranging from foundational questions to applications in quantum technologies.
+I am interested in the interplay between computational complexity and quantum physics, spanning foundational theoretical questions and applications in quantum information processing.
 
 Previously, I was a research fellow at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. I completed my B.S. at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholar</a>.
 
@@ -90,7 +90,7 @@ Previously, I was a research fellow at Seoul National University through the <a 
   line-height: 1.8;
 ">
 
-  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: September 25, 2026)
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: Oct. 8, 2026)
   <br>
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
