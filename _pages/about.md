@@ -382,11 +382,6 @@ Previously, I was a research fellow at Seoul National University through the <a 
       </li> -->
 
       <li>
-        <a href="https://arulrhikm.github.io/" style="text-decoration:none;"><b>Arul Rhik Mazumder</b></a>
-        (Imperial College London, 2026–): quantum circuit synthesis.
-      </li>
-
-      <li>
         <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
         (SNU, 2026–): quantum algorithm.
       </li>
