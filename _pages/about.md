@@ -597,6 +597,141 @@ Previously, I was a research fellow at Seoul National University through the <a 
 </script>
 
 
+<h5
+  onclick="toggleService()"
+  style="
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    color: #1f4e79;
+    border-bottom: 2px solid #d9e6f2;
+    padding-bottom: 0.25em;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
+  <span>Service</span>
+  <span id="service-icon" style="font-size: 1.2em;">+</span>
+</h5>
+
+<div
+  id="service-content"
+  style="
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.45s ease, opacity 0.3s ease;
+  "
+>
+  <div style="padding-top: 0.4em;">
+
+    <h6 style="margin-bottom: 0.4em;"><b>Journal Reviewer</b></h6>
+    <ul style="margin-top: 0.4em;">
+      <li>
+        Physical Review Letters, PRX Quantum, Physical Review Research,
+        Physical Review Applied, Physical Review A
+      </li>
+      <li>
+        Nature Communications, npj Quantum Information
+      </li>
+      <li>
+        IEEE Transactions on Information Theory
+      </li>
+      <li>
+        Quantum, Physics Letters A, Annalen der Physik,
+        Mathematical Methods in the Applied Sciences,
+        Statistics and Probability Letters, Algorithmica,
+        Journal of Circuits, Systems, and Computers
+      </li>
+    </ul>
+
+    <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;">
+      <b>Conference Reviewer</b>
+    </h6>
+    <ul style="margin-top: 0.4em;">
+      <li>Quantum Information Processing (QIP), 2027</li>
+      <li>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027</li>
+      <li>IEEE Symposium on Foundations of Computer Science (FOCS), 2026</li>
+      <li>Theory of Quantum Computation, Communication and Cryptography (TQC), 2026</li>
+      <li>Quantum Computing Theory in Practice (QCTiP), 2026</li>
+      <li>Quantum Techniques in Machine Learning (QTML), 2025</li>
+    </ul>
+
+    <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;">
+      <b>Organizing</b>
+    </h6>
+    <ul style="margin-top: 0.4em;">
+      <li>
+        Organizer, Winter School on Quantum Learning Theory for Bosonic
+        and Fermionic Systems, 2026
+      </li>
+      <li>
+        Co-organizer, Quantum Information Theory Seminar,
+        Seoul National University, 2024–2025
+      </li>
+      <li>
+        Co-organizer, Quantum AI Hackathon,
+        Kakao Enterprise &amp; Jeonju University, 2025
+      </li>
+    </ul>
+
+    <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;">
+      <b>Committee Service</b>
+    </h6>
+    <ul style="margin-top: 0.4em;">
+      <li>
+        Poster Session Committee Member, National Undergraduate Quantum Conference,
+        Seoul National University, 2026
+      </li>
+      <li>
+        Selection Committee Member, Quantum Internship Program,
+        National Information Society Agency &amp; Korea Quantum Industry Center,
+        2024–2025
+      </li>
+    </ul>
+
+    <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;">
+      <b>Outreach and Community Resources</b>
+    </h6>
+    <ul style="margin-top: 0.4em;">
+      <li>
+        Creator and Maintainer, Quantum Learning Theory Zoo, 2025–present
+      </li>
+      <li>
+        Facilitator (Mentor), Korea Scholar’s Conference for Youth (KSCY),
+        Yonsei University, 2019
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<script>
+  function toggleService() {
+    const content = document.getElementById("service-content");
+    const icon = document.getElementById("service-icon");
+
+    if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+      content.style.maxHeight = "0";
+      content.style.opacity = "0";
+      icon.textContent = "+";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.opacity = "1";
+      icon.textContent = "−";
+    }
+  }
+
+  window.addEventListener("resize", function () {
+    const content = document.getElementById("service-content");
+    if (content.style.opacity === "1") {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+</script>
+
 
 <!-- <h5
   onclick="toggleMisc()"
