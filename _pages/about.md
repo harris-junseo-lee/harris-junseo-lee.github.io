@@ -247,43 +247,43 @@ Previously, I was a research fellow at Seoul National University through the <a 
       <li style="margin-bottom: 1.15em;">
         <a href="https://arxiv.org/pdf/2610.03205"><b>Hamiltonian locality testing and certification do not achieve the Heisenberg limit</b></a><br>
         (<i>with</i> Francisco Escudero Gutiérrez, Sebastian Zur)<br>
-        <a href="https://arxiv.org/pdf/2610.03205"><b>Manuscript (2026)</b></a><br>
+        Manuscript (2026)<br>
       </li>
       
       <li style="margin-bottom: 1.15em;">
         <a href="https://arxiv.org/pdf/2609.40248"><b>Optimal purity estimation with incoherent measurements</b></a><br>
         (<i>with</i> Chirag Wadhwa)<br>
-        <a href="https://arxiv.org/pdf/2609.40248"><b>Manuscript (2026)</b></a><br>
+        Manuscript (2026)<br>
       </li>
       
       <li style="margin-bottom: 1em;">
-        <a href="https://arxiv.org/abs/2609.27181v1"><b>Emergent prethermal symmetries for scalable Hamiltonian learning</b></a><br>
+        <a href="https://arxiv.org/pdf/2609.27181v1"><b>Emergent prethermal symmetries for scalable Hamiltonian learning</b></a><br>
         (<i>with</i> Myeongjin Shin, Iman Marvian, Yu Tong)<br>
-        <a href="https://arxiv.org/abs/2609.27181v1"><b>Manuscript (2026)</b></a><br>
+        Manuscript (2026)<br>
       </li>
       
       <li style="margin-bottom: 1em;">
         <a href="https://arxiv.org/pdf/2604.27838"><b>Heisenberg-limited Hamiltonian learning without short-time control</b></a><br>
         (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
-        <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj"><b>PRX Quantum 7, 043011 (2026)</b></a>, <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
+        PRX Quantum 7, 043011 (2026), AQIS 2026 (Long talk)<br>
       </li>
       
       <li style="margin-bottom: 1em;">
         <a href="https://arxiv.org/pdf/2603.29809"><b>Certifying and learning local quantum Hamiltonians</b></a><br>
         (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
-        <a href="https://tqc-conference.org/2026/"><b>TQC 2026</b> (Contributed talk)</a><br>
+        TQC 2026 (Contributed talk)<br>
       </li>
 
       <li style="margin-bottom: 1em;">
         <a href="https://arxiv.org/pdf/2510.05531v1"><b>Efficient learning of bosonic Gaussian unitaries</b></a><br>
         (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
-        <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>QIP 2026</b> (Contributed talk)</a><br>
+        QIP 2026 (Contributed talk)<br>
       </li>
 
       <li style="margin-bottom: 0.5em;">
         <a href="https://arxiv.org/pdf/2408.00314"><b>Resource-efficient algorithm for estimating the trace of quantum state powers</b></a><br>
         (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
-        <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Quantum 9, 1832 (2025)</b></a><br>
+        <b>Quantum 9, 1832 (2025)<br>
       </li>
     </ul>
   </div>
