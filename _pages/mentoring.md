@@ -4,7 +4,7 @@ permalink: /mentoring/
 title: Mentoring
 description:
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 <html>
     <head>
@@ -90,5 +90,5 @@ nav_order: 3
 </ul>
 
 <p>
-I welcome inquiries from undergraduate students interested in research. If you would like to discuss potential projects or collaborations, please feel free to reach out by email (junseolee at fas.harvard.edu). If you are an undergraduate student at Harvard or MIT, you are also welcome to stop by my office (60 Oxford St., Rm 412) for a chat.
+I welcome inquiries from undergraduate students interested in research. If you would like to discuss potential projects or collaborations, please feel free to reach out by email (junseolee at fas.harvard.edu). If you are an undergraduate student at Harvard or MIT, you are also welcome to stop by my office (60 Oxford St., Rm 410) for a chat.
 </p>
