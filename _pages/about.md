@@ -347,7 +347,7 @@ Previously, I was a research fellow at Seoul National University through the <a 
   <div style="padding-top: 0.4em;">
 
     <p>
-      I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding students and learned a great deal from our collaborations. The students I have worked with are listed below:
+      I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding undergraduate students and learned a great deal from our collaborations. The students I have worked with are listed below:
     </p>
 
     <h6 style="margin-bottom: 0.4em;"><b>Current Mentees:</b></h6>
@@ -355,41 +355,41 @@ Previously, I was a research fellow at Seoul National University through the <a 
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard, 2026–)<br>
-        Quantum Markov Chain [In Progress]<br>
+        <i>Quantum Markov Chain</i> [In Progress]<br>
       </li>
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://arulandu.com/" style="text-decoration:none;"><b>Alvan Arulandu</b></a> (Harvard, 2026–)<br>
-        Bosonic Learning Theory [In Progress]
+        <i>Bosonic Learning Theory</i> [In Progress]
       </li>
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
         (SNU, 2026–)<br>
-        Quantum Algorithm [In Progress]
+        <i>Quantum Algorithm</i> [In Progress]
       </li>
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
         (SNU, 2025–)<br>
-        Quantum Property Estimation [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
-        Spectral Gap Problem [In Progress]
+        <i>Quantum Property Estimation</i> [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
+        <i>Spectral Gap Problem</i> [In Progress]
       </li>
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="text-decoration:none;"><b>Mingyu Lee</b></a>
         (SNU, 2024–)<br>
-        Quantum Property Estimation [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>]<br>
-        Quantum Machine Learning [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]<br>
-        Quantum Circuit Complexity [In Progress]
+        <i>Quantum Property Estimation</i> [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>]<br>
+        <i>Quantum Machine Learning</i> [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]<br>
+        <i>Quantum Circuit Complexity</i> [In Progress]
       </li>
 
       <li style="margin-bottom: 1.15em;">
         <a href="https://myeongjinshin.github.io/" style="text-decoration:none;"><b>Myeongjin Shin</b></a>
         (KAIST, 2023–)<br>
-        Quantum Hamiltonian Learning [<a href="https://arxiv.org/pdf/2512.09778v1">LS25</a>, <a href="https://arxiv.org/pdf/2603.29809">BCE+26</a>, <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj">SLO26</a>, <a href="https://arxiv.org/pdf/2609.27181v1">SLMT26</a>]<br>
-        Quantum Property Estimation [<a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">SLJ24</a>, <a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/">SLLJ25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
-        Quantum Machine Learning [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]
+        <i>Quantum Hamiltonian Learning</i> [<a href="https://arxiv.org/pdf/2512.09778v1">LS25</a>, <a href="https://arxiv.org/pdf/2603.29809">BCE+26</a>, <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj">SLO26</a>, <a href="https://arxiv.org/pdf/2609.27181v1">SLMT26</a>]<br>
+        <i>Quantum Property Estimation</i> [<a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">SLJ24</a>, <a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/">SLLJ25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
+        <i>Quantum Machine Learning</i> [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]
       </li>
 
     </ul>
@@ -400,7 +400,7 @@ Previously, I was a research fellow at Seoul National University through the <a 
       <li style="margin-bottom: 1.15em;">
         <a href="https://k-styles.github.io/" style="text-decoration:none;"><b>Kartik Anand</b></a>
         (IIT Goa, 2025–2026, → CS Master's student at Hamburg University of Technology)<br>
-        Quantum Hamiltonian Complexity [<a href="https://www.arxiv.org/pdf/2506.19792">AJL25</a>]
+        <i>Quantum Hamiltonian Complexity</i> [<a href="https://www.arxiv.org/pdf/2506.19792">AJL25</a>]
       </li>
 
     </ul>
