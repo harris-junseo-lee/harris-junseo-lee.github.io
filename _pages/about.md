@@ -353,68 +353,43 @@ Previously, I was a research fellow at Seoul National University through the <a 
     <h6 style="margin-bottom: 0.4em;"><b>Current Mentees:</b></h6>
     <ul style="margin-top: 0.4em;">
 
-      <li>
-        <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard, 2026–): quantum many-body theory.
-        <ul>
-          <li>
-            <a href="https://uraf.harvard.edu/herchel-smith-summer-program" style="text-decoration:none;">
-              Herchel Smith Undergraduate Science Research Program
-            </a>
-            (2026, in collaboration with Prof.
-            <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none;">Anurag Anshu</a>)
-          </li>
-        </ul>
+      <li style="margin-bottom: 1.15em;">
+        <a href="https://www.linkedin.com/in/hugo-mackay-628926247/" style="text-decoration:none;"><b>Hugo Mackay</b></a> (Harvard, 2026–)<br>
+        Quantum Markov Chain [In Progress]<br>
       </li>
 
-      <!-- <li>
-        <a href="https://arulandu.com/" style="text-decoration:none;"><b>Alvan Arulandu</b></a> (Harvard College, 2026–)
-        <ul>
-          <li>
-            <a href="https://quantum.harvard.edu/harvard-quantum-initiative-undergraduate-research-fellowship" style="text-decoration:none;">
-              Harvard Quantum Initiative Summer Undergraduate Research Fellowship
-            </a> and
-            <a href="https://uraf.harvard.edu/hcrp" style="text-decoration:none;">
-              Harvard College Research Program
-            </a>
-            (2026)
-          </li>
-        </ul>
-      </li> -->
+      <li style="margin-bottom: 1.15em;">
+        <a href="https://arulandu.com/" style="text-decoration:none;"><b>Alvan Arulandu</b></a> (Harvard, 2026–)<br>
+        Bosonic Learning Theory [In Progress]
+      </li>
 
-      <li>
+      <li style="margin-bottom: 1.15em;">
         <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
-        (SNU, 2026–): quantum algorithm.
+        (SNU, 2026–)<br>
+        Quantum Algorithm [In Progress]
       </li>
 
-      <li>
+      <li style="margin-bottom: 1.15em;">
         <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
-        (SNU, 2025–): spectral gap problem.
+        (SNU, 2025–)<br>
+        Quantum Property Estimation [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
+        Spectral Gap Problem [In Progress]
       </li>
 
-      <li>
+      <li style="margin-bottom: 1.15em;">
         <a href="https://scholar.google.com/citations?user=ok3lJjEAAAAJ&hl=ko" style="text-decoration:none;"><b>Mingyu Lee</b></a>
-        (SNU, 2024–): quantum circuit complexity and unitary designs.
-        <ul>
-          <li>
-            Internship at the University of Oxford
-            (2026, in collaboration with Dr. 
-            <a href="https://www.cs.ox.ac.uk/people/sathyawageeswar.subramanian/" style="text-decoration:none;">Sathyawageeswar Subramanian</a>)
-          </li>
-        </ul>
+        (SNU, 2024–)<br>
+        Quantum Property Estimation [<a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>]<br>
+        Quantum Machine Learning [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]<br>
+        Quantum Circuit Complexity [In Progress]
       </li>
 
-      <li>
+      <li style="margin-bottom: 1.15em;">
         <a href="https://myeongjinshin.github.io/" style="text-decoration:none;"><b>Myeongjin Shin</b></a>
-        (KAIST, 2023–): quantum hamiltonian learning and testing.
-        <ul>
-          <li>
-            <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" style="text-decoration:none;">
-              SURF at Caltech
-            </a>
-            (2026, in collaboration with Profs.
-            <a href="https://sites.math.duke.edu/~yt222/" style="text-decoration:none;">Yu Tong</a> and <a href="https://www.preskill.caltech.edu/" style="text-decoration:none;">John Preskill</a>)
-          </li>
-        </ul>
+        (KAIST, 2023–)<br>
+        Quantum Hamiltonian Learning [<a href="https://arxiv.org/pdf/2512.09778v1">LS25</a>, <a href="https://arxiv.org/pdf/2603.29809">BCE+26</a>, <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj">SLO26</a>, <a href="https://arxiv.org/pdf/2609.27181v1">SLMT26</a>]<br>
+        Quantum Property Estimation [<a href="https://link.springer.com/article/10.1007/s11128-023-04253-1">SLJ24</a>, <a href="https://doi.org/10.1103/PhysRevA.110.062418">SLL+25</a>, <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/">SLLJ25</a>, <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4">JLS+26</a>]<br>
+        Quantum Machine Learning [<a href="https://doi.org/10.1038/s41598-025-18476-y">LSLJ25</a>]
       </li>
 
     </ul>
@@ -422,9 +397,10 @@ Previously, I was a research fellow at Seoul National University through the <a 
     <h6 style="margin-top: 1.2em; margin-bottom: 0.4em;"><b>Former Mentees:</b></h6>
     <ul style="margin-top: 0.4em;">
 
-      <li>
+      <li style="margin-bottom: 1.15em;">
         <a href="https://k-styles.github.io/" style="text-decoration:none;"><b>Kartik Anand</b></a>
-        (IIT Goa, 2025–2026): quantum hamiltonian complexity and polynomial hierarchy.
+        (IIT Goa, 2025–2026, → CS Master's student at Hamburg University of Technology)<br>
+        Quantum Hamiltonian Complexity [<a href="https://www.arxiv.org/pdf/2506.19792">AJL25</a>]
       </li>
 
     </ul>
@@ -840,3 +816,199 @@ Previously, I was a research fellow at Seoul National University through the <a 
     }, 10);
   }
 </script> -->
+
+<script>
+  window.addEventListener("load", function () {
+    const sections = [
+      "news",
+      "papers",
+      "mentoring",
+      "teaching",
+      "service"
+    ];
+
+    sections.forEach(function (section) {
+      const content = document.getElementById(section + "-content");
+      const icon = document.getElementById(section + "-icon");
+
+      if (content) {
+        content.style.maxHeight = content.scrollHeight + "px";
+        content.style.opacity = "1";
+      }
+
+      if (icon) {
+        icon.textContent = "−";
+      }
+    });
+  });
+</script>
+
+
+
+<!-- Floating Section Navigation -->
+<style>
+  .jump-nav {
+    position: fixed;
+    right: 22px;
+    top: 6px;
+    z-index: 9999;
+    font-family: inherit;
+    font-size: 0.9rem;
+  }
+
+  .jump-nav summary {
+    list-style: none;
+    cursor: pointer;
+    background: #1f4e79;
+    color: white;
+    padding: 11px 17px;
+    border-radius: 25px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.15);
+    user-select: none;
+    transition: background 0.2s ease;
+  }
+
+  .jump-nav summary:hover {
+    background: #163a5c;
+  }
+
+  .jump-nav summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .jump-nav-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 10px);
+    min-width: 190px;
+    padding: 8px;
+    background: var(--global-bg-color, white);
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  }
+
+  .jump-nav-menu a {
+    display: block;
+    padding: 9px 12px;
+    color: var(--global-text-color, #333);
+    text-decoration: none !important;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+  }
+
+  .jump-nav-menu a:hover {
+    background: rgba(100,130,170,0.12);
+  }
+
+  .jump-nav-menu hr {
+    margin: 6px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+
+  @media (max-width: 600px) {
+    .jump-nav {
+      right: 14px;
+      top: 14px;
+    }
+
+    .jump-nav summary {
+      padding: 9px 13px;
+      font-size: 0.85rem;
+    }
+
+    .jump-nav-menu {
+      min-width: 175px;
+    }
+  }
+</style>
+
+<details class="jump-nav" id="jump-nav">
+  <summary>☰ Navigate</summary>
+
+  <nav class="jump-nav-menu">
+    <a href="#news-content" data-jump="news">
+      News
+    </a>
+    <a href="#papers-content" data-jump="papers">
+      Selected Papers
+    </a>
+    <a href="#mentoring-content" data-jump="mentoring">
+      Mentoring
+    </a>
+    <a href="#teaching-content" data-jump="teaching">
+      Teaching
+    </a>
+    <a href="#service-content" data-jump="service">
+      Service
+    </a>
+
+    <hr>
+
+    <a href="#" data-jump="top">
+      ↑ Back to top
+    </a>
+  </nav>
+</details>
+
+<script>
+  document.querySelectorAll(".jump-nav [data-jump]")
+    .forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        event.preventDefault();
+
+        const section = this.dataset.jump;
+        document.getElementById("jump-nav").open = false;
+
+        // Back to top
+        if (section === "top") {
+          window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+          });
+          return;
+        }
+
+        const content = document.getElementById(
+          section + "-content"
+        );
+
+        if (!content) return;
+
+        const heading = content.previousElementSibling;
+        const icon = document.getElementById(
+          section + "-icon"
+        );
+
+        // Expand collapsed section
+        if (content.style.opacity !== "1") {
+          content.style.maxHeight =
+            content.scrollHeight + "px";
+          content.style.opacity = "1";
+
+          if (icon) {
+            icon.textContent = "−";
+          }
+        }
+
+        // Smoothly scroll to section heading
+        if (heading) {
+          heading.style.scrollMarginTop = "90px";
+          heading.scrollIntoView({
+            behavior: "smooth",
+            block: "start"
+          });
+        }
+      });
+    });
+
+  // Close navigation when clicking outside
+  document.addEventListener("click", function (event) {
+    const nav = document.getElementById("jump-nav");
+
+    if (nav && !nav.contains(event.target)) {
+      nav.open = false;
+    }
+  });
+</script>
