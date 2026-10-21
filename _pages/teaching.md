@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:
-nav: false
-nav_order: 3
+nav: true
+nav_order: 5
 dropdown: false
 children:
   - title: Teaching List
@@ -41,135 +41,75 @@ children:
 </html>
 
 
-<div style="font-size:15px; line-height:1.65;">
 
-<!-- Instructor -->
-<h5 onclick="toggleInstructor()" style="margin-top:1.8em; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
-  <span>Instructor</span>
-  <span id="instructor-icon">+</span>
-</h5>
-
-<div id="instructor-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
-<ul style="padding-left:1.4em; margin-top:0.6em;">
-
-<li style="margin-bottom:1em;">
-<b>Quantum Learning Theory for Bosonic and Fermionic Systems</b> (Undergraduate, Graduate)<br>
-Winter 2026, QISCA<br>
-<a href="/bosonic-learning-theory-winter26" target="_blank"><b>[Course Website]</b></a>
-</li>
-
-<li style="margin-bottom:1em;">
-<b>Reading Group: Quantum Complexity Theory</b> (Undergraduate, Graduate)<br>
-Fall 2025, QISCA<br>
-<a href="/quantum-complexity-reading-group-fall25" target="_blank"><b>[Course Website]</b></a>
-</li>
-
-<li style="margin-bottom:1em;">
-<b>AAA559: College of Informatics Internship 2</b> (Graduate)<br>
-Fall 2025, Korea University
-</li>
-
-<li style="margin-bottom:1em;">
-<b>AAA558: College of Informatics Internship 1</b> (Graduate)<br>
-Fall 2025, Korea University
-</li>
-
-<li style="margin-bottom:1em;">
-<b>Quantum Learning and Complexity Theory</b> (Undergraduate, Graduate)<br>
-Summer 2025, QISCA<br>
-<a href="/qlct" target="_blank"><b>[Course Website]</b></a>
-</li>
-
-<li style="margin-bottom:0.6em;">
-<b>SW4343: Software Field Placement 1</b> (Undergraduate)<br>
-Fall 2024, Korea Aerospace University and Korea Quantum Industry Center
-</li>
-
+<h6 style="margin-bottom: 0.4em;"><b>QISCA Special Lecture Series (2025-2026):</b></h6>
+<ul style="margin-top: 0.1em;">
+  <li>
+    Organizer &amp; Lecturer,
+    <a href="/bosonic-learning-theory-winter26/" target="_blank"><i>Quantum Learning Theory for Bosonic and Fermionic Systems</i></a>,
+    Winter 2026
+  </li>
+  <li>
+    Invited Lecturer,
+    <a href="/quantum-complexity-reading-group-fall25/" target="_blank"><i>Quantum Complexity Theory Reading Group</i></a>,
+    Fall 2025
+  </li>
+  <li>
+    Invited Lecturer,
+    <a href="/qlct/" target="_blank"><i>Quantum Learning and Complexity Theory</i></a>,
+    Summer 2025
+  </li>
 </ul>
-</div>
 
-<hr style="border:none; border-top:1px solid #FFFFFF; margin:1em 0;">
-
-<!-- TA -->
-<h5 onclick="toggleTA()" style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
-  <span>Teaching Assistant</span>
-  <span id="ta-icon">+</span>
-</h5>
-
-<div id="ta-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
-<ul style="padding-left:1.4em; margin-top:0.6em;">
-
-<li style="margin-bottom:1em;">
-<b>YCS1009: Change the World through Programming</b> (Undergraduate)<br>
-Fall 2022, Yonsei University
+<h6 style="margin-bottom: 0.4em;"><b>University-Industry Research Internship (2024-2025):</b></h6>
+<ul style="margin-top: 0.1em;">
+<li>
+  Instructor,
+  <i>AAA559: College of Informatics Internship (II) (Graduate Course)</i>,
+  Korea University,
+  Fall 2025
 </li>
-
-<li style="margin-bottom:1em;">
-<b>YCS1002: Software Programming</b> (Undergraduate)<br>
-Fall 2022, Yonsei University
+<li>
+  Instructor,
+  <i>AAA558: College of Informatics Internship (I) (Graduate Course)</i>,
+  Korea University,
+  Fall 2025
 </li>
-
-<li style="margin-bottom:0.6em;">
-<b>EEE1108: Engineering Information Processing</b> (Undergraduate)<br>
-Fall 2021, Yonsei University
+<li>
+  Instructor,
+  <i>SW4343: Software Field Placement (I)</i>,
+  Korea Aerospace University,
+  Fall 2024
 </li>
-
 </ul>
-</div>
 
-<hr style="border:none; border-top:1px solid #FFFFFF; margin:1em 0;">
-
-<!-- Tutor -->
-<h5 onclick="toggleTutor()" style="margin-top:0; margin-bottom:0.6em; color:#1f4e79; border-bottom:2px solid #d9e6f2; padding-bottom:0.25em; cursor:pointer; display:flex; justify-content:space-between;">
-  <span>Course Tutor</span>
-  <span id="tutor-icon">+</span>
-</h5>
-
-<div id="tutor-content" style="max-height:0; overflow:hidden; opacity:0; transition:max-height 0.45s ease, opacity 0.3s ease;">
-<ul style="padding-left:1.4em; margin-top:0.6em;">
-
-<li style="margin-bottom:1em;">
-<b>MAT2016: Engineering Mathematics 3 (Differential Equations and Linear Algebra)</b> (Undergraduate)<br>
-Spring 2022, Yonsei University<br>
-<span style="color:navy;"><b>Best Tutor Award</b></span>
+<h6 style="margin-bottom: 0.4em;"><b>Yonsei University (2021-2022):</b></h6>
+<ul style="margin-top: 0.1em;">
+<li>
+  Teaching Assistant,
+  <i>YCS1009: Change the World through Programming</i>,
+  Fall 2022
 </li>
-
-<li style="margin-bottom:0.6em;">
-<b>MAT1012: Engineering Mathematics 2 (Multivariable and Vector Calculus)</b> (Undergraduate)<br>
-Fall 2021, Yonsei University<br>
-<span style="color:navy;"><b>Best Tutor Award</b></span>
+<li>
+  Teaching Assistant,
+  <i>YCS1002: Software Programming</i>,
+  Fall 2022
 </li>
-
+<li>
+  Teaching Assistant,
+  <i>EEE1108: Engineering Information Processing</i>,
+  Fall 2021
+</li>
+<li>
+  Course Tutor,
+  <i>MAT2016: Engineering Mathematics (III)</i>,
+  Spring 2022
+  (Best Tutor Award)
+</li>
+<li>
+  Course Tutor,
+  <i>MAT1012: Engineering Mathematics (II)</i>,
+  Fall 2021
+  (Best Tutor Award)
+</li>
 </ul>
-</div>
-
-</div>
-
-<script>
-function toggleSection(contentId, iconId) {
-  const content = document.getElementById(contentId);
-  const icon = document.getElementById(iconId);
-
-  if (content.style.maxHeight && content.style.maxHeight !== "0px") {
-    content.style.maxHeight = "0";
-    content.style.opacity = "0";
-    icon.textContent = "+";
-  } else {
-    content.style.maxHeight = content.scrollHeight + "px";
-    content.style.opacity = "1";
-    icon.textContent = "−";
-  }
-}
-
-function toggleInstructor() {
-  toggleSection("instructor-content", "instructor-icon");
-}
-
-function toggleTA() {
-  toggleSection("ta-content", "ta-icon");
-}
-
-function toggleTutor() {
-  toggleSection("tutor-content", "tutor-icon");
-}
-</script>

@@ -1,7 +1,7 @@
 ---
 permalink: /quantum-learning-theory-references/
 title: QLT Zoo
-nav: true
+nav: false
 nav_order: 7
 ---
 
