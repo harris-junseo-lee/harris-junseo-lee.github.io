@@ -283,7 +283,7 @@ Previously, I was a research fellow at Seoul National University through the <a 
       <li style="margin-bottom: 0.5em;">
         <a href="https://arxiv.org/pdf/2408.00314"><b>Resource-efficient algorithm for estimating the trace of quantum state powers</b></a><br>
         (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
-        <b>Quantum 9, 1832 (2025)<br>
+        Quantum 9, 1832 (2025)<br>
       </li>
     </ul>
   </div>
