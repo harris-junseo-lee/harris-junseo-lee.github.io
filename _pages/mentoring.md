@@ -3,7 +3,7 @@ layout: page
 permalink: /mentoring/
 title: Mentoring
 description:
-nav: true
+nav: false
 nav_order: 5
 ---
 <html>
