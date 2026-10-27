@@ -80,7 +80,7 @@ I am part of the <a href="https://quantum.harvard.edu/" style="text-decoration:n
 
 I am interested in the interplay between computational complexity and quantum physics, spanning foundational theoretical questions and applications in quantum information processing.
 
-Previously, I was a research fellow at Seoul National University through the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>. 
+Previously, I was a research fellow at Seoul National University, affiliated with the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>, hosted by <a href="https://sites.google.com/site/kabgyunspage/k-jeongs-page?authuser=0" style="text-decoration:none; font-weight:300;">Kabgyun Jeong</a>.
 
 I completed my B.S. at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholar</a>.
 
@@ -98,7 +98,7 @@ I completed my B.S. at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=ko" style="text-decoration:none;">Google Scholar</a>
+  <a href="https://scholar.google.co.kr/citations?user=mal5ZI8AAAAJ&hl=en" style="text-decoration:none;">Google Scholar</a>
   &nbsp;·&nbsp;
   <a href="https://arxiv.org/a/lee_j_24.html" style="text-decoration:none;">arXiv</a>
   &nbsp;·&nbsp;
