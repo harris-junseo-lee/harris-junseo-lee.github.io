@@ -41,6 +41,15 @@ children:
 </html>
 
 
+<h6 style="margin-bottom: 0.4em;"><b>Harvard University (2027-):</b></h6>
+<ul style="margin-top: 0.1em;">
+  <li>
+    Teaching Fellow,
+    <i>Physics 260A/QSE 210A: Introduction to Quantum Information I (Graduate Course)</i>,
+    Spring 2027
+  </li>
+</ul>
+
 
 <h6 style="margin-bottom: 0.4em;"><b>QISCA Special Lecture Series (2025-2026):</b></h6>
 <ul style="margin-top: 0.1em;">
@@ -65,19 +74,19 @@ children:
 <ul style="margin-top: 0.1em;">
 <li>
   Instructor,
-  <i>AAA559: College of Informatics Internship (II) (Graduate Course)</i>,
+  <i>AAA559: Internship II (Graduate Course)</i>,
   Korea University,
   Fall 2025
 </li>
 <li>
   Instructor,
-  <i>AAA558: College of Informatics Internship (I) (Graduate Course)</i>,
+  <i>AAA558: Internship I (Graduate Course)</i>,
   Korea University,
   Fall 2025
 </li>
 <li>
   Instructor,
-  <i>SW4343: Software Field Placement (I)</i>,
+  <i>SW4343: Software Field Placement I</i>,
   Korea Aerospace University,
   Fall 2024
 </li>
@@ -102,13 +111,13 @@ children:
 </li>
 <li>
   Course Tutor,
-  <i>MAT2016: Engineering Mathematics (III)</i>,
+  <i>MAT2016: Engineering Mathematics III</i>,
   Spring 2022
   (Best Tutor Award)
 </li>
 <li>
   Course Tutor,
-  <i>MAT1012: Engineering Mathematics (II)</i>,
+  <i>MAT1012: Engineering Mathematics II</i>,
   Fall 2021
   (Best Tutor Award)
 </li>
