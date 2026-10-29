@@ -41,11 +41,16 @@ children:
 </html>
 
 
-<h6 style="margin-bottom: 0.4em;"><b>Harvard University (2027-):</b></h6>
+<h6 style="margin-bottom: 0.4em;"><b>Harvard University &amp; Massachusetts Institute of Technology(2027-):</b></h6>
 <ul style="margin-top: 0.1em;">
   <li>
     Teaching Fellow,
-    <i>Physics 260A/QSE 210A: Introduction to Quantum Information I (Graduate Course)</i>,
+    <i>MIT 6.5430/Harvard CS 2232: Frontiers of Quantum Complexity Theory (Graduate Course)</i>,
+    Fall 2027
+  </li>
+  <li>
+    Teaching Fellow,
+    <i>Harvard Physics 260A/QSE 210A: Introduction to Quantum Information I (Graduate Course)</i>,
     Spring 2027
   </li>
 </ul>
