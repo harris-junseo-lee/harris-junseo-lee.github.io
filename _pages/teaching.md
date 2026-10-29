@@ -45,12 +45,12 @@ children:
 <ul style="margin-top: 0.1em;">
   <li>
     Teaching Fellow,
-    <i>MIT 6.5430/Harvard CS 2232: Frontiers of Quantum Complexity Theory (Graduate Course)</i>,
+    <i>MIT 6.5430/Harvard CS 2232: Frontiers of Quantum Complexity Theory (Graduate)</i>,
     Fall 2027
   </li>
   <li>
     Teaching Fellow,
-    <i>Harvard Physics 260A/QSE 210A: Introduction to Quantum Information I (Graduate Course)</i>,
+    <i>Harvard Physics 260A/QSE 210A: Introduction to Quantum Information I (Graduate)</i>,
     Spring 2027
   </li>
 </ul>
@@ -79,13 +79,13 @@ children:
 <ul style="margin-top: 0.1em;">
 <li>
   Instructor,
-  <i>AAA559: Internship II (Graduate Course)</i>,
+  <i>AAA559: Internship II (Graduate)</i>,
   Korea University,
   Fall 2025
 </li>
 <li>
   Instructor,
-  <i>AAA558: Internship I (Graduate Course)</i>,
+  <i>AAA558: Internship I (Graduate)</i>,
   Korea University,
   Fall 2025
 </li>
