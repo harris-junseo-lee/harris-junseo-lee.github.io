@@ -41,7 +41,7 @@ children:
 </html>
 
 
-<h6 style="margin-bottom: 0.4em;"><b>Harvard University &amp; Massachusetts Institute of Technology(2027-):</b></h6>
+<h6 style="margin-bottom: 0.4em;"><b>Harvard University &amp; Massachusetts Institute of Technology (2027-):</b></h6>
 <ul style="margin-top: 0.1em;">
   <li>
     Teaching Fellow,
