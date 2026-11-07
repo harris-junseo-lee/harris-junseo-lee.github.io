@@ -74,15 +74,18 @@ social: false # includes social icons at the bottom of the page
 
 
 
-I'm a first-year PhD student in Quantum Science and Engineering at <a href="https://www.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard University</a>, where I am advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral studies are also supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong PhD Fellowship</a>.
 
-I am part of the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>. I am also an <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF IAIFI Junior Investigator</a> at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
-I am interested in the interplay between computational complexity and quantum physics, spanning foundational theoretical questions and applications in quantum information processing.
+I'm a first-year PhD student at <a href="https://www.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard University</a>, jointly advised by <a href="https://anuraganshu.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Anurag Anshu</a>, <a href="https://sitanchen.com/" style="text-decoration:none; font-weight:300;">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" style="text-decoration:none; font-weight:300;">Jordan Cotler</a>. My doctoral studies are supported by the <a href="https://www.ikef.or.kr/" style="text-decoration:none; font-weight:300;">Kwanjeong PhD Fellowship</a>.
 
-Previously, I was a research fellow at Seoul National University, affiliated with the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>, hosted by <a href="https://sites.google.com/site/kabgyunspage/k-jeongs-page?authuser=0" style="text-decoration:none; font-weight:300;">Kabgyun Jeong</a>.
+I'm affiliated with the <a href="https://quantum.harvard.edu/" style="text-decoration:none; font-weight:300;">Harvard Quantum Initiative</a> and the <a href="https://toc.seas.harvard.edu/" style="text-decoration:none; font-weight:300;">Theory of Computation Group</a>, and serve as an <a href="https://iaifi.org/" style="text-decoration:none; font-weight:300;">NSF IAIFI Junior Investigator</a> at <a href="https://www.mit.edu/" style="text-decoration:none; font-weight:300;">MIT</a>.
 
-I completed my B.S. at <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholar</a>.
+My research explores the interplay between computational complexity and quantum physics, spanning foundational theoretical questions and applications in quantum information processing.
+
+Before joining Harvard, I was a research fellow at <a href="https://en.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Seoul National University</a>, affiliated with the <a href="https://ict.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Institute of Computer Technology</a> and the <a href="https://rim.math.snu.ac.kr/" style="text-decoration:none; font-weight:300;">Research Institute of Mathematics</a>, under the mentorship of <a href="https://sites.google.com/site/kabgyunspage/k-jeongs-page?authuser=0" style="text-decoration:none; font-weight:300;">Kabgyun Jeong</a>.
+
+I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style="text-decoration:none; font-weight:300;">Yonsei University</a> as a <a href="https://www.hyundai-cmkfoundation.org/en/main" style="text-decoration:none; font-weight:300;">Hyundai Motor CMK Scholar</a>.
+
 
 
 <div style="
