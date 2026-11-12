@@ -26,6 +26,35 @@ nav_order: 3
             h2 { font-weight: 350; }
             h3 { font-weight: 350; }
             h4, h5, h6 { font-weight: 350; }
+
+            .pub-legend {
+                margin: 0.25rem 0 1.2rem;
+                padding-inline-start: 1.5rem;
+            }
+            abbr.pub-tag[title] {
+                display: inline-block;
+                padding: 0.04em 0.35em;
+                border: 0;
+                border-inline-start: 2px solid var(--topic-color);
+                border-radius: 0.15rem;
+                background: rgba(128, 128, 128, 0.10);
+                color: inherit;
+                font-size: 0.74rem;
+                font-weight: 500;
+                line-height: 1.35;
+                text-decoration: none;
+                vertical-align: 0.06em;
+            }
+            .pub-legend .pub-tag {
+                min-width: 3.4em;
+                margin-inline-end: 0.25em;
+                text-align: center;
+            }
+            .pub-tag.learning   { --topic-color: #4882b2; }
+            .pub-tag.shannon    { --topic-color: #40866e; }
+            .pub-tag.complexity { --topic-color: #9470aa; }
+            .pub-tag.algorithms { --topic-color: #ad6072; }
+            .pub-tag.qml        { --topic-color: #bc8348; }
         </style>
     </head>
 </html>
@@ -33,9 +62,17 @@ nav_order: 3
 
 <div style="font-size: 15px; line-height: 1.65;">
 
+  <p style="margin-bottom: 0.25rem;">My publications are tagged by research area.</p>
+  <ul class="pub-legend">
+    <li><abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr> Quantum Statistical Learning Theory (learning quantum systems and testing their properties)</li>
+    <li><abbr class="pub-tag complexity" title="Quantum Complexity Theory">CT</abbr> Quantum Complexity Theory (hardness of approximation and Hamiltonian complexity)</li>
+    <li><abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr> Quantum Shannon Theory (information measures and communication limits)</li>
+    <li><abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr> Quantum Algorithm (designing and analyzing methods for computational problems, including QML)</li>
+  </ul>
+
   <ol start="18" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Hamiltonian locality testing and certification do not achieve the Heisenberg limit</b><br>
+      <b>Hamiltonian locality testing and certification do not achieve the Heisenberg limit</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Francisco Escudero Gutiérrez, Sebastian Zur)<br>
       Preprint: <a href="https://arxiv.org/pdf/2610.03205">arxiv:2610.03205</a>
     </li>
@@ -43,7 +80,7 @@ nav_order: 3
   
   <ol start="17" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Optimal purity estimation with incoherent measurements</b><br>
+      <b>Optimal purity estimation with incoherent measurements</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr> <abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr><br>
       (<i>with</i> Chirag Wadhwa)<br>
       Preprint: <a href="https://arxiv.org/pdf/2609.40248">arxiv:2609.40248</a>
     </li>
@@ -51,7 +88,7 @@ nav_order: 3
   
   <ol start="16" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b><br>
+      <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Myeongjin Shin, Iman Marvian, Yu Tong)<br>
       Preprint: <a href="https://arxiv.org/pdf/2609.27181v1">arxiv:2609.27181</a>
     </li>
@@ -59,7 +96,7 @@ nav_order: 3
   
   <ol start="15" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Heisenberg-limited Hamiltonian learning without short-time control</b><br>
+      <b>Heisenberg-limited Hamiltonian learning without short-time control</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Myeongjin Shin, Changhun Oh)<br>
       <a href="https://journals.aps.org/prxquantum/accepted/10.1103/kjvf-jgqj"><b>PRX Quantum 7, 043011 (2026)</b></a>, <a href="https://aqis-conf.org/2026/"><b>AQIS 2026</b> (Long talk)</a><br>
       Preprint: <a href="https://arxiv.org/pdf/2604.27838">arxiv:2604.27838</a>
@@ -68,7 +105,7 @@ nav_order: 3
   
   <ol start="14" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Certifying and learning local quantum Hamiltonians</b><br>
+      <b>Certifying and learning local quantum Hamiltonians</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Andreas Bluhm, Matthias C. Caro, Francisco Escudero Gutiérrez, Aadil Oufkir, Cambyse Rouzé, Myeongjin Shin)<br>
         <a href="https://tqc-conference.org/2026/"><b>TQC 2026</b> (Contributed talk)</a><br>
         Preprint: <a href="https://arxiv.org/pdf/2603.29809">arXiv:2603.29809</a>, 
@@ -78,7 +115,7 @@ nav_order: 3
 
   <ol start="13" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Optimal certification of constant-local Hamiltonians</b><br>
+      <b>Optimal certification of constant-local Hamiltonians</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Myeongjin Shin)<br>
         Preprint: <a href="https://arxiv.org/pdf/2512.09778v1">arXiv: 2512.09778</a>, Materials: <a href="https://ptreview.sublinear.info/2026/01/news-for-december-2025/">Property Testing Review</a>
     </li>
@@ -86,7 +123,7 @@ nav_order: 3
 
   <ol start="12" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Efficient learning of bosonic Gaussian unitaries</b><br>
+      <b>Efficient learning of bosonic Gaussian unitaries</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
       (<i>with</i> Marco Fanizza, Vishnu Iyer, Antonio Anna Mele, Francesco Anna Mele)<br>
         <a href="https://qip2026.lu.lv/programme/accepted-papers/"><b>QIP 2026</b> (Contributed talk)</a><br>
         Preprint: <a href="https://arxiv.org/pdf/2510.05531v1">arXiv:2510.05531</a>,
@@ -97,7 +134,7 @@ nav_order: 3
 
   <ol start="11" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy</b><br>
+      <b>Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy</b> &nbsp;<abbr class="pub-tag complexity" title="Quantum Complexity Theory">CT</abbr><br>
       (<i>with</i> Kartik Anand, Kabgyun Jeong)<br>
         Preprint: <a href="https://www.arxiv.org/pdf/2506.19792">arXiv:2506.19792</a>
     </li>
@@ -105,7 +142,7 @@ nav_order: 3
 
   <ol start="10" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Bounding quantum uncommon information with quantum neural estimators</b><br>
+      <b>Bounding quantum uncommon information with quantum neural estimators</b> &nbsp;<abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr> <abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr><br>
       (<i>with</i> Donghwa Ji, Myeongjin Shin, IlKwon Sohn, Kabgyun Jeong)<br>
         <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ae18f4"><b>Quantum Science and Technology 11, 015001 (2026)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2507.06091">arXiv:2507.06091</a>
@@ -114,7 +151,7 @@ nav_order: 3
 
   <ol start="9" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Mutual information maximizing quantum generative adversarial networks</b><br>
+      <b>Mutual information maximizing quantum generative adversarial networks</b> &nbsp;<abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr><br>
       (<i>with</i> Mingyu Lee, Myeongjin Shin, Kabgyun Jeong)<br>
         <a href="https://doi.org/10.1038/s41598-025-18476-y"><b>Scientific Reports 15, 32835 (2025)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2309.01363">arXiv:2309.01363</a>
@@ -123,7 +160,7 @@ nav_order: 3
 
   <ol start="8" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b><br>
+      <b>Resource-efficient algorithm for estimating the trace of quantum state powers</b> &nbsp;<abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr><br>
       (<i>with</i> Myeongjin Shin, Seungwoo Lee, Kabgyun Jeong)<br>
         <a href="https://quantum-journal.org/papers/q-2025-08-27-1832/"><b>Quantum 9, 1832 (2025)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2408.00314">arXiv:2408.00314</a>,
@@ -135,7 +172,7 @@ nav_order: 3
 
   <ol start="7" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</b><br>
+      <b>Disentangling quantum neural networks for unified estimation of quantum entropies and distance measures</b> &nbsp;<abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr> <abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Myeongjin Shin, Seungwoo Lee, Mingyu Lee, Donghwa Ji, Hyeonjun Yeo, Kabgyun Jeong)<br>
         <a href="https://doi.org/10.1103/PhysRevA.110.062418"><b>Physical Review A 110, 062418 (2024)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2401.07716">arXiv:2401.07716</a>
@@ -144,7 +181,7 @@ nav_order: 3
 
   <ol start="6" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Estimating quantum mutual information through a quantum neural network</b><br>
+      <b>Estimating quantum mutual information through a quantum neural network</b> &nbsp;<abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr> <abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Myeongjin Shin, Kabgyun Jeong)<br>
         <a href="https://link.springer.com/article/10.1007/s11128-023-04253-1"><b>Quantum Information Processing 23, 57 (2024)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2306.14566">arXiv:2306.14566</a>, Materials: <a href="https://doi.org/10.8080/1020240091151">Korea Patent Open No. 10-2026-0009068</a>
@@ -153,7 +190,7 @@ nav_order: 3
 
   <ol start="5" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Quantum Rényi entropy functionals for bosonic gaussian systems</b><br>
+      <b>Quantum Rényi entropy functionals for bosonic gaussian systems</b> &nbsp;<abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Kabgyun Jeong)<br>
         <a href="https://doi.org/10.1016/j.physleta.2023.129183"><b>Physics Letters A 490, 129183 (2023)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2204.10737">arXiv:2204.10737</a>, Materials: <a href="https://www.sciencedirect.com/special-issue/10LJ1CVKVVQ">PLA Special Issue</a>
@@ -162,7 +199,7 @@ nav_order: 3
 
   <ol start="4" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Weighted <i>p</i>-Rényi entropy power inequality: Information theory to quantum Shannon theory</b><br>
+      <b>Weighted <i>p</i>-Rényi entropy power inequality: Information theory to quantum Shannon theory</b> &nbsp;<abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Hyeonjun Yeo, Kabgyun Jeong)<br>
         <a href="https://link.springer.com/article/10.1007/s10773-023-05512-8"><b>International Journal of Theoretical Physics 62, 253 (2023)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2311.06484">arXiv:2311.06484</a>
@@ -171,7 +208,7 @@ nav_order: 3
 
   <ol start="3" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>High-dimensional private quantum channels and regular polytopes</b><br>
+      <b>High-dimensional private quantum channels and regular polytopes</b> &nbsp;<abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Kabgyun Jeong)<br>
         <a href="https://vjs.ac.vn/index.php/cip/article/view/15762"><b>Communications in Physics 31, 189 (2021)</b></a><br>
         Preprint: <a href="https://arxiv.org/pdf/2101.00230">arXiv:2101.00230</a>
@@ -180,7 +217,7 @@ nav_order: 3
 
   <ol start="2" style="padding-left: 2em; margin-top: 0.2em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Single qubit private quantum channels and 3-dimensional regular polyhedra</b><br>
+      <b>Single qubit private quantum channels and 3-dimensional regular polyhedra</b> &nbsp;<abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr><br>
       (<i>with</i> Kabgyun Jeong, <i>et al.</i>)<br>
         <a href="https://doi.org/10.3938/NPSM.68.232"><b>New Physics: Sae Mulli 68, 232 (2018)</b></a><br>
         Bronze Award, The Humantech Paper Award, Samsung Electronics (2018)<br>
@@ -189,7 +226,7 @@ nav_order: 3
 
   <ol start="1" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.8em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Assessing quantum integer factorization performance with Shor’s algorithm</b><br>
+      <b>Assessing quantum integer factorization performance with Shor’s algorithm</b> &nbsp;<abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr><br>
       <a href="https://www.routledge.com/Quantum-Computing-A-Journey-into-the-Next-Frontier-of-Information-and-Communication-Security/Hammoudeh-Essa-Sherbeeni-Firth-Essa/p/book/9781032757056?srsltid=AfmBOoqNa09YBBHmjHjIlwlGIfv61lL3UNJdQM0H-QLQWWd9cH7tG4oe"><b>CRC Press (2024)</b></a><br>
       In: <i>Quantum computing: A journey into the next frontier of information and communication security</i> (1st ed.), edited by Mohammad Hammoudeh, Abdullah T. Alessa, Amro M. Sherbeeni, Clinton M. Firth, Abdullah S. Alessa
     </li>
