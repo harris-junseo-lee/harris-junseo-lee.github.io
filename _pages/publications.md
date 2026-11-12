@@ -54,7 +54,7 @@ nav_order: 3
             .pub-tag.shannon    { --topic-color: #40866e; }
             .pub-tag.complexity { --topic-color: #9470aa; }
             .pub-tag.algorithms { --topic-color: #ad6072; }
-            .pub-tag.qml        { --topic-color: #bc8348; }
+            .pub-tag.manybody   { --topic-color: #bc8348; }
         </style>
     </head>
 </html>
@@ -66,6 +66,7 @@ nav_order: 3
   <ul class="pub-legend">
     <li><abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr> Quantum Statistical Learning Theory (learning quantum systems and testing their properties)</li>
     <li><abbr class="pub-tag complexity" title="Quantum Complexity Theory">CT</abbr> Quantum Complexity Theory (hardness of approximation and Hamiltonian complexity)</li>
+    <li><abbr class="pub-tag manybody" title="Quantum Many-Body Physics">MB</abbr> Quantum Many-Body Physics (understanding many-particle systems through fundamental quantum principles)</li>
     <li><abbr class="pub-tag shannon" title="Quantum Shannon Theory">ST</abbr> Quantum Shannon Theory (information measures and communication limits)</li>
     <li><abbr class="pub-tag algorithms" title="Quantum Algorithm">QA</abbr> Quantum Algorithm (designing and analyzing methods for computational problems, including QML)</li>
   </ul>
@@ -88,7 +89,7 @@ nav_order: 3
   
   <ol start="16" style="padding-left: 2em; margin-top: 0.6em; margin-bottom: 0.2em;">
     <li style="margin-bottom: 1.15em;">
-      <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr><br>
+      <b>Emergent prethermal symmetries for scalable Hamiltonian learning</b> &nbsp;<abbr class="pub-tag learning" title="Quantum Statistical Learning Theory">LT</abbr> <abbr class="pub-tag manybody" title="Quantum Quantum Many-Body Physics">MB</abbr><br>
       (<i>with</i> Myeongjin Shin, Iman Marvian, Yu Tong)<br>
       Preprint: <a href="https://arxiv.org/pdf/2609.27181v1">arxiv:2609.27181</a>
     </li>
