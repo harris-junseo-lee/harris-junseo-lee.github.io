@@ -159,4 +159,4 @@ I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style=
   </ul>
 </div>
 
-If you're an undergraduate student interested in these research topics and would like to explore opportunities to work with me under my mentorship, please see <a href="/mentoring/">this page</a> for more information.
+If you're an undergraduate student interested in these research topics and would like to explore opportunities to work with me, please see <a href="/mentoring/">my mentoring page</a> for more information.
