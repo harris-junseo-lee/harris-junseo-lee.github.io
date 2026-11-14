@@ -94,7 +94,7 @@ I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style=
   line-height: 1.8;
 ">
 
-  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: Oct. 21, 2026)
+  📄 <a href="/assets/pdf/CV.pdf" style="text-decoration:none;"><b>Curriculum Vitae</b></a> (Last updated: Nov. 14, 2026)
   <br>
 
   🔗 <a href="http://www.linkedin.com/in/harris-quantum" style="text-decoration:none;">LinkedIn</a>
@@ -106,10 +106,10 @@ I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style=
   <a href="https://x.com/Junseo_Lee_" style="text-decoration:none;">X (Twitter)</a>
   <br>
 
-  📨 junseolee at fas.harvard.edu
+  📨 junseolee at fas.harvard.edu &nbsp;·&nbsp; junseole at mit.edu
   <br>
 
-  📍 60 Oxford St., Rm 410, Cambridge, MA 02138
+  📍 60 Oxford St., Rm. 410, Cambridge, MA 02138
 
 </div>
 
@@ -158,3 +158,5 @@ I received my B.S. from <a href="https://www.yonsei.ac.kr/en_sc/index.do" style=
     </li>
   </ul>
 </div>
+
+If you're an undergraduate student interested in these research topics and would like to explore opportunities to work with me under my mentorship, please see <a href="/mentoring/">this page</a> for more information.

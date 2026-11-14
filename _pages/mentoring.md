@@ -30,10 +30,10 @@ nav_order: 5
 </html>
 
 
+I welcome inquiries from undergraduate students interested in research. If you are interested in exploring potential research projects or collaborations, please feel free to reach out by email (junseolee at fas.harvard.edu; please also CC junseole at mit.edu to ensure I don't miss your message—the missing "e" is not a typo!). Harvard and MIT undergraduates are also welcome to stop by my office (60 Oxford St., Rm. 410) for a chat.
 
-<p>
-    I mentored undergraduate students in research, which I found both deeply rewarding and intellectually enriching. I had the privilege of working with outstanding undergraduate students and learned a great deal from our collaborations. The students I have worked with are listed below:
-</p>
+I have had the pleasure of mentoring undergraduate students in research, an experience I have found both rewarding and intellectually enriching. I have been fortunate to work with talented students and have learned a great deal from our collaborations. Below is a list of students I have worked with:
+
 
 <h6 style="margin-bottom: 0.4em;"><b>Current Mentees:</b></h6>
 <ul style="margin-top: 0.4em;">
@@ -48,11 +48,11 @@ nav_order: 5
     <i>Bosonic Learning Theory</i> [In Progress]
     </li>
 
-    <li style="margin-bottom: 1.15em;">
+    <!-- <li style="margin-bottom: 1.15em;">
     <a href="https://harris-junseo-lee.github.io/" style="text-decoration:none;"><b>Jaemin Park</b></a>
     (SNU, 2026–)<br>
     <i>Quantum Algorithm</i> [In Progress]
-    </li>
+    </li> -->
 
     <li style="margin-bottom: 1.15em;">
     <a href="https://scholar.google.com/citations?user=OTXe1oAAAAAJ&hl=ko" style="text-decoration:none;"><b>Donghwa Ji</b></a>
@@ -88,7 +88,3 @@ nav_order: 5
     <i>Quantum Hamiltonian Complexity</i> [<a href="https://www.arxiv.org/pdf/2506.19792">AJL25</a>]
     </li>
 </ul>
-
-<p>
-I welcome inquiries from undergraduate students interested in research. If you would like to discuss potential projects or collaborations, please feel free to reach out by email (junseolee at fas.harvard.edu). If you are an undergraduate student at Harvard or MIT, you are also welcome to stop by my office (60 Oxford St., Rm 410) for a chat.
-</p>
